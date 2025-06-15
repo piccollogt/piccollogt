@@ -156,8 +156,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/mono.m3u8
 https://tv.unisc.br/hls/test.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Dyij1hO.png" group-title="BRASIL", HTO DOCS
 https://cdn-5.nxplay.com.br/HTO_DOCS/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/YbBPUjR.png" group-title="BRASIL", HALLO DOC
-https://cdn-5.nxplay.com.br/HALLODOC/tracks-v2a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/YbBPUjR.png" group-title="BRASIL",  DOC
+https://cdn-5.nxplay.com.br/DOC/tracks-v2a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Yn1lUtM.png" group-title="BRASIL", URBAN DOC
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/tLNhB0J.png" group-title="BRASIL", TV OTIMISTA
@@ -581,7 +581,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
 #EXTINF:-1 tvg-logo="https://imgur.com/TI68yeA.png" group-title="BRASIL",ANIME ONEGAI 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
 #EXTINF:-1 tvg-logo="https://imgur.com/H8WfuOK.png" group-title="BRASIL",HALLO ANIME
-https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
+https://aovivo.doozytv.com.br/31025556/10162072/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8PiGcDW.png" group-title="BRASIL",ANIME TV
 https://stmv6.voxtvhd.com.br/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eRLW03d.png" group-title="BRASIL",ANIME
@@ -618,6 +618,8 @@ https://stream.ichibantv.com:3547/hybrid/play.m3u8
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gD0hmt2.png" group-title="BRASIL",OTAKU SIGN TV
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/8a/62/MEZREKO_t.png" group-title="BRASIL",OTAKU
+http://200.194.238.229:8383/live/otaku/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xGHyc3y.png" group-title="BRASIL",CANAL START
 https://stmv.webtvninjas.com.br/start/start/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7VhCcTv.png" group-title="BRASIL",CANAL START 2D
