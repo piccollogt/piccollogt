@@ -624,7 +624,7 @@ http://200.194.238.229:8383/live/otaku/playlist.m3u8
 https://stmv.webtvninjas.com.br/start/start/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7VhCcTv.png" group-title="BRASIL",CANAL START 2D
 https://stmv2.webtvninjas.com.br/start2d/start2d/chunklist_w452638287.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jKBb65w.png" group-title="BRASIL",GEEK DOT
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c4/38/0f/MEVL3YR_t.png" group-title="BRASIL",GEEK DOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5L3FCne.png" group-title="BRASIL",UNIQUE SUPER GEEK
 https://pop.uniquetv.com.br/supergeek/video.m3u8
@@ -636,7 +636,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
 https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8jhTJO.png" group-title="BRASIL", LOADING TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9YJF0Hx.png" group-title="BRASIL",AW TV
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/93/46/e7/MEVSJ8N_t.png" group-title="BRASIL",AWTV
 https://streaming.cloudecast.com/hls/awtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L0QXf8u.png" group-title="BRASIL", MIXIFY TV
 https://stream.gia.tv/giatvplayout7/giatv-208696/tracks-v1a1/mono.ts.m3u8
@@ -790,7 +790,7 @@ https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 https://stmv3.webtvninjas.com.br/tv100/tv100/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI
 https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qMe2Lao.png" group-title="BRASIL", GLN TV
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/22/2a/d2/MEVRB3G_t.png" group-title="BRASIL", GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL", CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
@@ -1310,7 +1310,7 @@ https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist
 https://cc-0vgk6slyph2cz.akamaized.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hJWrYjN.png" group-title="DESENHOS",CHAVES
 http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?
-#EXTINF:-1 tvg-logo="https://imgur.com/T6v8HTM.png" group-title="DESENHOS", TELEWEB TV
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/73/78/61/MEVRCF2_t.png" group-title="DESENHOS", TELEWEB TV
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m5yr10H.png" group-title="DESENHOS",WEB TV GADO BRAVO
 https://stmv1.tv.ssplay.top/admin/admin/chunklist_w1770498308.m3u8
