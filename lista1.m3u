@@ -624,7 +624,7 @@ http://200.194.238.229:8383/live/otaku/playlist.m3u8
 https://stmv.webtvninjas.com.br/start/start/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7VhCcTv.png" group-title="BRASIL",CANAL START 2D
 https://stmv2.webtvninjas.com.br/start2d/start2d/chunklist_w452638287.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c4/38/0f/MEVL3YR_t.png" group-title="BRASIL",GEEK DOT
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.webp" group-title="BRASIL",GEEK DOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5L3FCne.png" group-title="BRASIL",UNIQUE SUPER GEEK
 https://pop.uniquetv.com.br/supergeek/video.m3u8
