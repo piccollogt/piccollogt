@@ -86,8 +86,6 @@ https://live.cdn.upx.com/7550/myStream.sdp/chunklist.m3u8
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JVtp4q1.jpeg" group-title="BRASIL", TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/9KwUxmX.png" group-title="BRASIL", CANAL GOV
-https://aovivo.ebc.com.br/embed-canalgov.html?autoplay=1
 #EXTINF: -1 tvg-logo="https://imgur.com/ZNtHV9e.png" group-title="BRASIL", CANAL EDUCACAO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/0A4BCjR.png" group-title="BRASIL", CANAL SAUDE
