@@ -4,25 +4,31 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/H8rooCk.png" group-title="BRASIL", ASSIM E PORTUGAL
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f56f3131705a25c9cf2d36f50b56b703.webp" group-title="BRASIL", ASSIM E PORTUGAL
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/chunklist_w143215046.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/B4EX5I5.png" group-title="BRASIL", TV PORTUGUESA
+#EXTINF:-1 tvg-logo="https://portaltvportuguesa.com.br/wp-content/uploads/2025/04/fundo-vermelho-1-300x169.png" group-title="BRASIL", TV PORTUGUESA
 https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/chunklist_w336310122.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Xa4rLvH.png" group-title="BRASIL", FAMA TV
-https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/SkQ9TpC.png" group-title="BRASIL", NPC TV
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/575/npc-radio-e-tv.7059eedb.jpg" group-title="BRASIL", NPC TV
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w273627653.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJ2K5Sx.png" group-title="BRASIL", CNN PORTUGAL
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b6904191bba4cd4428ac6f08a5716aec.webp" group-title="BRASIL", CNN PORTUGAL
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/438ZUBp.png" group-title="BRASIL", SIC NOTICIAS
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/27c7fd91d7e589a2e5f88e42f37707eb.webp" group-title="BRASIL", SIC NOTICIAS
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oHoy5Qk.png" group-title="BRASIL", SIC TV PORTUGAL
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf5a981c80f234b09dae228127d108a1.webp" group-title="BRASIL", SIC TV PORTUGAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/r4A18rD.png" group-title="BRASIL", TVI FICCAO
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="BRASIL", TVI FICCAO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://imgur.com/8zxn8YO.png" group-title="BRASIL", HALLO DORAMA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/467691868df05a4035d5b6e8d361e79f.webp" group-title="BRASIL", TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91efd89afa7e783034c78ab45eb10ccc.webp" group-title="BRASIL", TVI Reality Ao Vivo
+https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f466d2251a132949342fb891dbe2e641.webp" group-title="BRASIL", TVI Internacional
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/15dfa81381e3e94f5a823ee970d0500e.webp" group-title="BRASIL", Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hallo.tv.br/img/DORAMA.png" group-title="BRASIL", HALLO DORAMA
 https://aovivo.doozytv.com.br/31025556/10163906/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7RkoplU.png" group-title="BRASIL", MINHA IDENTIDADE E BELEZA DE GANGNAM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Gangnam_Beauty_Drama_logo.png" group-title="BRASIL", MINHA IDENTIDADE E BELEZA DE GANGNAM
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=minhaidentidade%C3%A9belezadegangnam&channel_id=newid_233
 #EXTINF:-1 tvg-logo="https://imgur.com/ahGou5L.png" group-title="BRASIL",FREE TV CRIME
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
