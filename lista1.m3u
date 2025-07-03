@@ -38,55 +38,55 @@ https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5c2cd9d569c63b9c04151160b32aaf1a.webp" group-title="BRASIL", TELA BRASIL TV 
 https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9X4qU4M.png" group-title="BRASIL", MULTI MIX
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/32390/logo_256.png" group-title="BRASIL", MULTI MIX
 https://stmv.webtvninjas.com.br/multimix/multimix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7MCMU3j.png" group-title="BRASIL", NOVELISSIMA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp" group-title="BRASIL", NOVELISSIMA
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mM6hB6x.png" group-title="BRASIL", PLUTO NOVELAS
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/featuredImage.jpg" group-title="BRASIL", PLUTO NOVELAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YGPppO1.png" group-title="BRASIL", WE DO TV AMOR
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/24f771e907d130947dd8a12946a4908d.webp" group-title="BRASIL", WE DO TV AMOR
 https://video-solutions-ag-anacarolina-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bhrKY8K.jpeg" group-title="BRASIL", D.P.A. FAST
+#EXTINF:-1 tvg-logo="https://s03.video.glbimg.com/x720/12136726.jpg" group-title="BRASIL", D.P.A. FAST
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ofaIg4G.jpeg" group-title="BRASIL", TV CULTURA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="BRASIL", TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IUhjJEM.png" group-title="BRASIL", TV CULTURA DO PARA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="BRASIL", TV CULTURA DO PARA
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xc3am1f.png" group-title="BRASIL", TOP TV CULTURA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="BRASIL", TOP TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yZG51jz.png" group-title="BRASIL", UNI TV CULTURA SC
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="BRASIL", UNI TV CULTURA SC
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JQU7Ysw.png" group-title="BRASIL", CATVE TV CULTURA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/05a04d20468f33dcece26a290b7468d6.webp" group-title="BRASIL", CATVE TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FioVeSb.png" group-title="BRASIL", MASTER TV PR UNIVESP
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="BRASIL", MASTER TV PR UNIVESP
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QAvFgEX.png" group-title="BRASIL",TV FUTURO CULTURA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="BRASIL",TV FUTURO CULTURA
 https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uz8a530.png" group-title="BRASIL", TV UB PLAY CULTURA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="BRASIL", TV UB PLAY CULTURA
 https://tv03.zas.media:1936/ubplay/ubplay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X6bvC0K.png" group-title="BRASIL", TVE RS
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/666e044fc09053b21cacb5a06caa753e.webp" group-title="BRASIL", TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wqOAIgT.png" group-title="BRASIL", PLAN TV
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6704a428b4a888b334e8ab4a27ff66cf.webp" group-title="BRASIL", PLAN TV
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/P2iLxFP.png" group-title="BRASIL", TV POCOS
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d68075bb4ed2f1d6007671fbc2756d91.webp" group-title="BRASIL", TV POCOS
 https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9iv407b.png" group-title="BRASIL", TV NOVA
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da8fecf959f730dd05d649b46fa80298.webp" group-title="BRASIL", TV NOVA
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9Ziz928.png" group-title="BRASIL", TV ENCONTRO DAS AGUAS
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/000f03ea764251cf5bda1a87c9545fee.webp" group-title="BRASIL", TV ENCONTRO DAS AGUAS
 https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b987ac1cb5f4c258ef7510c412c592d8.webp" group-title="BRASIL", TV TODO DIA
 https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/DOudB67.jpeg" group-title="BRASIL", TV FOZ
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d3e46253b41c7f5e76f31ca2444ac516.webp" group-title="BRASIL", TV FOZ
 https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w841902513.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cdVinGm.png" group-title="BRASIL", WTV BRASIL
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dbd11ea736693f7c36c61adbd18a2a85.webp" group-title="BRASIL", WTV BRASIL
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/chunklist_w1776465175.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gGT8N6A.png" group-title="BRASIL", TV SERRA DO MAR
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c2f2182b65489ad362eb712180f5356f.webp" group-title="BRASIL", TV SERRA DO MAR
 https://live.cdn.upx.com/7550/myStream.sdp/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9lcmme4.png" group-title="BRASIL", TV BRASIL INTERNACIONAL
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/041a53eb1b2c6c9d65151c102342544b.webp" group-title="BRASIL", TV BRASIL INTERNACIONAL
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/JVtp4q1.jpeg" group-title="BRASIL", TV BRASIL
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/041a53eb1b2c6c9d65151c102342544b.webp" group-title="BRASIL", TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/ZNtHV9e.png" group-title="BRASIL", CANAL EDUCACAO
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6b762fda2a687a5b454fab8170495e93.webp" group-title="BRASIL", CANAL EDUCACAO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/0A4BCjR.png" group-title="BRASIL", CANAL SAUDE
 https://aovivo.doozytv.com.br/31025556/10150894/chunks.m3u8
