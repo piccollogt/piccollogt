@@ -198,18 +198,16 @@ https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de686c104e47164ada190ac1ea2ab2a5.webp" group-title="BRASIL", TVC OURINHOS
 https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/programacao/images/a/a5/TV_Globo.png/revision/latest?cb=20240112114524&path-prefix=pt-br" group-title="BRASIL", GLOBO
-https://globoplay.globo.com/tv-globo/ao-vivo/6120663.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/AKJCCA2.png" group-title="BRASIL", TV BAHIA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/programacao/images/a/a5/TV_Globo.png/revision/latest?cb=20240112114524&path-prefix=pt-br" group-title="BRASIL", GLOBO TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vSKVrvH.png" group-title="BRASIL",NEW BRASIL
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/thumbnail.jpg" group-title="BRASIL", PLUTO NEW BRASIL
 https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist/amg01391-addigital-newbrasil-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4990ecc3ee62d0cbacb65ee14074dba4.webp" group-title="BRASIL", BAND
 https://aovivo.doozytv.com.br/31025556/10161894/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/L7n2GkF.png" group-title="BRASIL", TV ARAPUAN
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d82f6ecad5c6c3d39cc1cdae7521d3b1.webp" group-title="BRASIL", BAND TV ARAPUAN
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", TV VALE DO URUARA
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4990ecc3ee62d0cbacb65ee14074dba4.webp" group-title="BRASIL", BAND TV VALE DO URUARA
+https://alanza.iptv2022.com/TV_VALE_DO_URUARA/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/266lnPd.png" group-title="BRASIL", RBA TV
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e8iUtfD.png" group-title="BRASIL", TV SUCESSO GOIANIA
