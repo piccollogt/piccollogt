@@ -252,7 +252,7 @@ https://video01.soultv.com.br/uoltv/uoltv/chunklist_w836324353.m3u8
 https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/CNN_Brasil_%28red_background%29.svg/250px-CNN_Brasil_%28red_background%29.svg.png" group-title="BRASIL", CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4cc68d_779b2ed3ea8d420eb2925b057eb9901b~mv2.png/v1/fill/w_2592,h_2592,al_c/CNN%20Money%20Logo%202022%20DNtv%201.png" group-title="BRASIL", CNN MONEY
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/140606150246-cnn-money-logo-story-top.png/revision/latest?cb=20140607182726" group-title="BRASIL", CNN MONEY
 https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w794021843.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/446AHyy9PTdcSsx25RkDBgS-yZGTVaKDiXdVoF99qsbDgEDJv9r7lTOApCbqGQCU-CnSPqiqQw=s900-c-k-c0x00ffffff-no-rj" group-title="BRASIL", TIMES BRASIL CNBC
 https://video01.soultv.com.br/timesbrasil/timesbrasil/chunklist_w715432988.m3u8
@@ -332,7 +332,7 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38cca32010062541d346871765a20c4a.webp" group-title="BRASIL", MULTI CANAIS
 https://stmv7.voxtvhd.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canallike.com.br/wp-content/uploads/2020/12/canal-like-logo.png" group-title="BRASIL", CANAL LIKE
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C4D0BAQGj_CrDnlkYGw/company-logo_200_200/company-logo_200_200/0/1630508906614?e=2147483647&v=beta&t=soL6_bR7TZFDI9VB96R_O_23hwdoQG4M9yt3JWfUYUc" group-title="BRASIL", CANAL LIKE
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/664df5221dc48600087592b1/thumbnail.jpg" group-title="BRASIL", MANUAL DO MUNDO
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Offgrid/Manual_do_Mundo_BR/Manual_do_Mundo.m3u8
@@ -362,7 +362,7 @@ https://video01.kshost.com.br:4443/adilson8953/adilson8953/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="BRASIL", PLUTO NATUREZA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/Ic0GYjZ.png" group-title="BRASIL", PLUTO ANIMAIS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfxxVZe2nEzqsnoOKLmFBwbk4pBPuwLb0plw&s" group-title="BRASIL", PLUTO ANIMAIS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/89902ad1c93745ba04306321089fd39d.webp" group-title="BRASIL", LOVE NATURE
 http://95.67.12.82:9098
