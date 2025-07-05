@@ -290,41 +290,35 @@ http://saopaulo01.relaystream.io:1935/lidertvsspgmail.com/lidertvsspgmail.com/pl
 https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/chunklist_w217874524.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/869d9be68f82b274e10bb9eb5e486675.webp" group-title="BRASIL", REDE MEIO METROPOLE
 https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w1819581759.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/UHZGU8Q.png" group-title="BRASIL", TV BRUSQUE
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2af74260c1c0377e7626a196192a5236.webp" group-title="BRASIL", REDE MEIO TV BRUSQUE
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/u8XN65I.png" group-title="BRASIL", TV ONE
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="BRASIL", TV ONE
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a9xSBJx.png" group-title="BRASIL", POP TV SC
-https://ssh101-fl.bozztv.com/ssh101/somosregional/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Np9aX0k.png" group-title="BRASIL",TV CIDADE VERDE MT
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5aaaf81af069b1b3a7639fc85b0023be.webp" group-title="BRASIL", TV CIDADE VERDE MT
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="BRASIL",TV DO POVO 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f221ef07c8762196cd782faaee34626.webp" group-title="BRASIL", TV DO POVO 
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/78uH3ix.png" group-title="BRASIL",TVM PARA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dbea108b094c01069ede2790a93b13dd.webp" group-title="BRASIL", TVM PARA
 https://video09.logicahost.com.br/tvmpara/tvmpara/chunklist_w694524183.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FTXUY6K.png" group-title="BRASIL",TV LITORAL RN
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvlitoralrn01/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/F3fUrzt.png" group-title="BRASIL", TV LITORAL
-https://srv3.zcast.com.br/saranet/canal6/chunklist_w1396057864.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TAjCSyH.png" group-title="BRASIL", TVC
-https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w158721946.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA 
-https://stmv1.samcast.com.br/wagner7919/wagner7919/chunklist_w1912578061.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="BRASIL", TV GRAO PARA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c29d2e57bae0e3c9f5a2e805a38afda0.webp" group-title="BRASIL", TV LITORAL RN
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aada6bfb708de57f0dff48ee1aaa7a64.webp" group-title="BRASIL", GAZETA TVC
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b06045459e9dd13f6615af8f1c755002.webp" group-title="BRASIL", GAZETA TV ALTERNATIVA 
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/13a4885d7e34a1750c01cb4f1daf5e7f.webp" group-title="BRASIL", TV GRAO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/q9oBxiz.png" group-title="BRASIL", 40 GRAUS TV 
-https://acesso.ecast.site:3125/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/94fa4a0f6806df5d663cf9000e368076.webp" group-title="BRASIL", GAZETA 40 GRAUS TV 
+https://streaming.cloudecast.com/hls/40graus/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" group-title="BRASIL", REDE BRASIL TV
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ATA37nb.png" group-title="BRASIL", RBTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Rbtv2021.png/revision/latest?cb=20210407014803" group-title="BRASIL", RBTV
 https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DormkZw.png" group-title="BRASIL", VIRTUAL TV
-https://stream.cdn.provider.play.virtual.tv.br/REDEVIRTUALTV/index.fmp4.m3u8?token=V5I3IRI65I2A1L
-#EXTINF:-1 tvg-logo="https://imgur.com/3UFU3YL.png" group-title="BRASIL", TV MARRECAS
-https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/index.fmp4.m3u8?token=CHJULABCSA03071993
-#EXTINF:-1 tvg-logo="https://imgur.com/TaGYe96.png" group-title="BRASIL", BR SUPER TV
-http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://imgur.com/rVKGCL5.png" group-title="BRASIL",TV ECOVALE
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9e26fafa15d370f5e796254bed2af08a.webp" group-title="BRASIL", TV MARRECAS RBTV
+https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f20c6fce3c15cb559ce7fbc131494c5f.webp" group-title="BRASIL", BR SUPER TV RBTV
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e70c975e99231b8099ca4746ee95def4.webp" group-title="BRASIL", TV ECOVALE RBTV
 https://5ad482a77183d.streamlock.net/portalecovalegmail.com/portalecovalegmail.com/chunklist_w1656396537.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/18InL8A.png" group-title="BRASIL", TBO
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
