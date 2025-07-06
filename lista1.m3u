@@ -594,11 +594,9 @@ https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
 https://isaocorp.cloudecast.com/vgstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aada6bfb708de57f0dff48ee1aaa7a64.webp" group-title="BRASIL", TVC
 https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vPmahh7.png" group-title="BRASIL", TV NACAO
-https://saori.hubcloud.tv.br:3469/live/tvnacaolive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YtagYe6.png" group-title="BRASIL",TV 3 FRONTEIRAS
+#EXTINF:-1 tvg-logo="https://tv3fronteiras.com/wp-content/uploads/2024/07/logo_3froteiras.png" group-title="BRASIL", APARECIDA TV 3 FRONTEIRAS
 https://isaocorp.cloudecast.com/tv3fronteiras/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ersvLVx.png" group-title="BRASIL",TV RECON
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d4b83da089bdffa6b844b1b5f11e77a2.webp" group-title="BRASIL", TV RECON
 https://streaming.cloudecast.com/hls/rederecon/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B6G4gH7.png" group-title="BRASIL", TV PONTA DA SERRA
 https://acesso.ecast.site:3512/live/pontadaserralive.m3u8
