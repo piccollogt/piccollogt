@@ -502,37 +502,27 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.zGkbPDR7UMknFVmoA7MbBAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="BRASIL", AWTV
 https://streaming.cloudecast.com/hls/awtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/L0QXf8u.png" group-title="BRASIL", MIXIFY TV
-https://stream.gia.tv/giatvplayout7/giatv-208696/tracks-v1a1/mono.ts.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLOUDING
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/DJ8mA7R.png" group-title="BRASIL",SUPERFLIX TV
-https://stream.cloudecast.com/hls/superflix/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RmE2VUQ.png" group-title="BRASIL",KANADE BRASIL
-https://xui-backend.energeek.cl/live/deM0kanADeweB/iSfVDKDo2bn4/14.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rFXW6FF.png" group-title="BRASIL", NTC PLAY
-https://stmv2.srvsh.com.br/matheusdeoliveira7038/matheusdeoliveira7038/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV
-https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV FAST
-https://cdn-5.nxplay.com.br/PLAY_TV_FAST/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV FAST
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="BRASIL", REDE CLOUDING
+https://stmv8.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/90f2be25aedc782f9ff779b33302ee8a.webp" group-title="BRASIL", KANADE
+https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/168f0c2d7fb92988c1cb0f156fe390eb.webp" group-title="BRASIL", PLAY TV
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/168f0c2d7fb92988c1cb0f156fe390eb.webp" group-title="BRASIL", PLAY TV FAST
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15039
-#EXTINF:-1 tvg-logo="https://imgur.com/vpdN4Ul.png" group-title="BRASIL", YEEAAH
-https://stmv1.video.cloudstream.com.br/yeeaahtv/yeeaahtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vQFAb0Y.png" group-title="BRASIL", RBTI
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/09f64a3c475cfe34a670c37e6b0c724f.webp" group-title="BRASIL", YEEAAH
+https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Rede_Brasileira_de_Televis%C3%A3o_Internacional.png" group-title="BRASIL", RBTI
 https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/tracks-v1a1/mono.m3u8?token=abc4c3cbedbbf7ba1c291b634885ddcae5100066-70d372a2bccdfcf7386c2385a45c1cd7-1731305419-1731262219
-#EXTINF:-1 tvg-logo="https://imgur.com/rKTIFFF.png" group-title="BRASIL", RBTI
+#EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/66def2a4b60b6_95dba3a2215931a5e0b3490cd842bd98.png" group-title="BRASIL", RBTI 2
 https://cdn-3.nxplay.com.br/CENTRAL_DO_PLAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="BRASIL",FILMRISE SERIES GRATUITAS
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d14f93731e74194bccfccf86df7e019f.webp" group-title="BRASIL", FILMRISE SERIES GRATUITAS
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=R9mMvhmH9vysFkmor1hb
-#EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
-http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/kqDkx47.png" group-title="BRASIL",HALLO SERIES
+#EXTINF:-1 tvg-logo="https://hallo.tv.br/img/SERIES.png" group-title="BRASIL", HALLO SERIES
 https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="BRASIL", SERIES CLASSIC
-https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="BRASIL",CLASSIQUE TV SERIES
+#EXTINF:-1 tvg-logo="https://uniquetvplay.com.br/upload/play/seriesclassic.png" group-title="BRASIL", SERIES CLASSIC
+https://srv6.zcast.com.br/adriano8425/adriano8425/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2facd9de3a888b8015197f7e7adfb318.webp" group-title="BRASIL", CLASSIQUE TV SERIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bVv09nO.png" group-title="BRASIL",URBAN RETRO
 https://aovivo.doozytv.com.br/31025556/10162725/chunks.m3u8
