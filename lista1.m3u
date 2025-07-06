@@ -634,12 +634,12 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fcgh6-1.fna.fbcdn.net/v/t39.30808-1/409976347_376303754927609_8991303432571685248_n.jpg?stp=c208.33.384.384a_dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=f907e8&_nc_ohc=bHOxOPLmkhoQ7kNvwFwmv6v&_nc_oc=AdkLMphzhUi2EqYzJEMzG8wN_aP3hMIF4-fEeuhuNu-hL4DLuOJCY1lZZXkD_AsO164&_nc_zt=24&_nc_ht=scontent.fcgh6-1.fna&_nc_gid=nY76YQIbr4X-8Wxio96W_w&oh=00_AfRDp6INpE6nVH4w23pFTTtl5fDtuqKxTDeNWCpX0kqD3Q&oe=687053AC" group-title="BRASIL", OLHA TV
 http://24.152.8.38:5001/live/olhatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/q2P1I9m.png" group-title="BRASIL", TV REGIONAL PAULISTA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b1aa4add9135c94b4722da0d3ec3fd51.webp" group-title="BRASIL", TV REGIONAL PAULISTA
 https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/kkjbFGg.png" group-title="BRASIL",TV VISUAL
-https://stream.ichibantv.com:3737/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jBYzedR.png" group-title="BRASIL",TV LIBERDADE
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c2a3c8a4f1a2a69dc937b6e12166d98f.webp" group-title="BRASIL", TV LIBERDADE
 https://stmv1.srvif.com/washington/washington/chunklist_w2090148994.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3a52ba9e9fac75423d678ea2f9294f7.webp" group-title="BRASIL", TV LIBERDADE PACAJUS
+https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8mVVYMJ.png" group-title="BRASIL",CANAL 25 JUNDIAI
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/is6XRXb.png" group-title="BRASIL", TV INTERIOR
