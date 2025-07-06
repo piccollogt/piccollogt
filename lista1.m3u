@@ -484,7 +484,7 @@ http://24hrs.homelinux.com:8080/24H-Jiraya/video.m3u8
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp" group-title="BRASIL", OTAKU SIGN TV
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.Mq8Vu40qq4eX9RaaBcQx0gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="BRASIL", OTAKU
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/765/97/png-transparent-otaku-otaku-logo-anime-beach-vapor-lg-text-manga-cartoon.png" group-title="BRASIL", OTAKU
 http://200.194.238.229:8383/live/otaku/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZzA_slg1AEYGgoRno4Vpipjw2dte_M8jDw&s" group-title="BRASIL", CANAL START
 https://stmv.webtvninjas.com.br/start/start/playlist.m3u8
@@ -500,7 +500,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="BRASIL", LOADING TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.zGkbPDR7UMknFVmoA7MbBAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="BRASIL", AWTV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp" group-title="BRASIL", AWTV
 https://streaming.cloudecast.com/hls/awtv/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="BRASIL", REDE CLOUDING
 https://stmv8.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
