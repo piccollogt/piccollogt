@@ -476,7 +476,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5d
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dxurbRtlso5D1d01Ih_uIMe6Emn3pMNOIJmYTLhFonXtA7y1Nx6nadm__FMISljbrdrXE9-UFg=s900-c-k-c0x00ffffff-no-rj" group-title="BRASIL", TOKUSATO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://bravi.tv/wp-content/uploads/2014/02/sato.jpg" group-title="BRASIL", SATO MAIS
+#EXTINF:-1 tvg-logo="https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2020%2F04%2F20%2F00%2FModernizar-Logo-267266_823729_004202483_2054143196.jpg" group-title="BRASIL", SATO MAIS
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d2/1b/6a/d21b6a4d391a7fc3a04ff3d89a69dfa7.jpg" group-title="BRASIL", JIRAYA
 http://24hrs.homelinux.com:8080/24H-Jiraya/video.m3u8
@@ -586,7 +586,7 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTYzZTk1YzktMGJiYy00ZDc0LWE0NGYtZmEyMzY1ZTU1Y2Q4XkEyXkFqcGc@._V1_.jpg" group-title="BRASIL", AMIGOS E HERMANOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a57ecd_63fbb5eb245d4f2b879fb5fe0c776b96~mv2.png/v1/fit/w_2500,h_1330,al_c/a57ecd_63fbb5eb245d4f2b879fb5fe0c776b96~mv2.png" group-title="BRASIL", UMA TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaXPSeSzHzbBwu2TU1Zz7gh3fOMzeYT50VUyeJN2ZMpbInUl6abEHEvypRAZPiqB1EBQA-hx-zimzauxFIq4m6SwnNFaf4lDeYSFjnHDl1-fXIUhjTZ1S_Kt367G-h9_LO_i7ZjKF854oxQEJW0jy-EFMdERi57zwpFVMy7IQOZ79Mup0NOeA7sI-S5Ss/s200/UMA%20TV.webp" group-title="BRASIL", UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fe845cd9712092b91454b965439f667.webp" group-title="BRASIL", WEB TV SAO LUIS CANOAS
 https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
