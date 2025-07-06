@@ -598,8 +598,8 @@ https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
 https://isaocorp.cloudecast.com/tv3fronteiras/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d4b83da089bdffa6b844b1b5f11e77a2.webp" group-title="BRASIL", TV RECON
 https://streaming.cloudecast.com/hls/rederecon/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/B6G4gH7.png" group-title="BRASIL", TV PONTA DA SERRA
-https://acesso.ecast.site:3512/live/pontadaserralive.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74c30ca0f593ef252241201869e525c5.webp" group-title="BRASIL", TV PONTA DA SERRA
+https://ikki.hubcloud.tv.br/PontadaSerra/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SPDsZaf.png" group-title="BRASIL",REDEVIVA TV
 https://srv2.zcast.com.br/redevivatv/redevivatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rALtpSy.png" group-title="BRASIL",TV GUSS
