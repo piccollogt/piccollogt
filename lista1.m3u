@@ -524,17 +524,17 @@ https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 https://srv6.zcast.com.br/adriano8425/adriano8425/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2facd9de3a888b8015197f7e7adfb318.webp" group-title="BRASIL", TV SERIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bVv09nO.png" group-title="BRASIL",URBAN RETRO
+#EXTINF:-1 tvg-logo="https://www.urbanplay.com.br/archives/17-retro-png_21780-ev6lqipouos/retrieve" group-title="BRASIL", URBAN RETRO
 https://aovivo.doozytv.com.br/31025556/10162725/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/m41iTB9.png" group-title="BRASIL",TRES E DEMAIS
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/203400121/s718/tres-e-demais.jpg" group-title="BRASIL", TRES E DEMAIS
 http://24hrs.homelinux.com:8080/24H-tresedemais/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JvmEDh5.png" group-title="BRASIL",CHAVES
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b27388f1c668544702796df3f396" group-title="BRASIL", CHAVES
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HzwI16u.png" group-title="BRASIL",CHAPOLIN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH51kdbI9FHDBvgGEprk6IR5oPNMfub0sPvw&s" group-title="BRASIL", CHAPOLIN
 http://24hrs.homelinux.com:8080/24H-chapolin1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5etMa12.png" group-title="BRASIL",UM MALUCO NO PEDACO
+#EXTINF:-1 tvg-logo="https://media.gazetadopovo.com.br/vozes/2015/06/download-44998be4.jpg" group-title="BRASIL", UM MALUCO NO PEDACO
 http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4VpCHbu.png" group-title="BRASIL",EU A PATROA E AS CRIANCAS
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/244597298/s718/temporada-5.jpg" group-title="BRASIL", EU A PATROA E AS CRIANCAS
 http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2iMIqBA.png" group-title="BRASIL",RETRO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
