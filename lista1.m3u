@@ -539,6 +539,9 @@ https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/chunklist_w1011023232
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c1/7b/4b/MEVSP3S_t.png" group-title="Canais | VARIEDADES",TV Liberdade Pacajus
 https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c29d2e57bae0e3c9f5a2e805a38afda0.webp" group-title="Canais | VARIEDADES",TV Litoral RN
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/eb/24/83/MEVSP3J_t.png" group-title="Canais | VARIEDADES",TV Brasil Hits
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w665369419.m3u8
 
@@ -1852,9 +1855,6 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=minhaide
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Rede_Brasileira_de_Televis%C3%A3o_Internacional.png" group-title="Canais | SÉRIES",RBTI
 https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/tracks-v1a1/mono.m3u8?token=abc4c3cbedbbf7ba1c291b634885ddcae5100066-70d372a2bccdfcf7386c2385a45c1cd7-1731305419-1731262219
-
-#EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/66def2a4b60b6_95dba3a2215931a5e0b3490cd842bd98.png" group-title="Canais | SÉRIES",RBTI 2
-https://nxplay-images.comets.com.br/resize/66def2a4b60b6_95dba3a2215931a5e0b3490cd842bd98.png
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60e3d0eb291c1c86f567c06f75642620.webp" group-title="Canais | SÉRIES",FREE TV CRIME
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
