@@ -665,9 +665,6 @@ https://vezatv.mediastreaming.com.br/vezatv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ca/d7/79/MEZP083_t.png" group-title="Canais | VARIEDADES",TV THATHI
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/db/e5/11/MEZP09T_t.png" group-title="Canais | VARIEDADES",JOVEM TOTAL TV
-https://stmv1.liveplushd.com.br/jovemtotaltv/jovemtotaltv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bd/a3/78/MEZP0AO_t.png" group-title="Canais | VARIEDADES",TV SERRA FARROUPILHA
 https://stmv1.samcast.com.br/israel4434/israel4434/playlist.m3u8
 
@@ -680,20 +677,14 @@ https://s1.tvr.ovh/video83070/video83070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3f/de/e3/MEZP0CT_t.png" group-title="Canais | VARIEDADES",AMPARO TV
 https://stmv7.samcast.com.br/paulo8649/paulo8649/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0a/f2/ef/MEZP0DL_t.png" group-title="Canais | VARIEDADES",GRAMADO TV
-https://srv5.zcast.com.br/saranet2/saranet2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9b/7b/23/MEZP0E0_t.png" group-title="Canais | VARIEDADES",TV MOCINHA
-https://play.radio.br:8089/mocinhalive/mocinhalive/playlist.m3u8
+https://play.radio.br:8089/meninablulive/meninablulive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ff/b8/d5/MEVT3JS_t.png" group-title="Canais | VARIEDADES",TV AVANT
 https://video04.logicahost.com.br/tvavant/tvavant/chunklist_w977600341.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/00/2f/81/MEVT3K0_t.png" group-title="Canais | VARIEDADES",TV DESTAK
 https://video03.logicahost.com.br/pascoal/pascoal/chunklist_w1267857728.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/00/2f/81/MEVT3K0_t.png" group-title="Canais | VARIEDADES",TV DESTAK HD
-https://video03.logicahost.com.br/pascoal/pascoal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e2/95/c8/MEVT3JT_t.png" group-title="Canais | VARIEDADES",ARARUNA TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w1109291304.m3u8
@@ -702,16 +693,13 @@ https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w1109291304.m3u8
 https://5cf4a2c2512a2.streamlock.net/8028/8028/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3a/bf/1c/MEVT3K2_t.png" group-title="Canais | VARIEDADES",TV PLANALTO NORTE
-https://pop.uniquetv.com.br/uniqueplanalto/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8f/34/89/MEVT3K1_t.png" group-title="Canais | VARIEDADES",TV CAPITAL DO PIAUÍ
-https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w360556000.m3u8
+https://pop.uniquetv.com.br/tvplanaltonorte/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/c7/60/MEVT4KO_t.png" group-title="Canais | VARIEDADES",COM BRASIL TV
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w472346643.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b6/89/88/MEVT4KE_t.png" group-title="Canais | VARIEDADES",TV COM BRASILIA
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+https://5b7f3c45ab7c2.streamlock.net/8008/ngrp:8008/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/66/05/88/MEVT4L0_t.png" group-title="Canais | VARIEDADES",TV COM SANTOS
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
@@ -719,14 +707,8 @@ https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/22/95/fd/MEVT4L2_t.png" group-title="Canais | VARIEDADES",TV CONEXAO
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0d/a3/9b/MEVSZY1_t.png" group-title="Canais | VARIEDADES",HOMEFULL
-https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/3c/ab/MEVT4L1_t.png" group-title="Canais | VARIEDADES",TV RIO PRETO
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/chunklist_w657878973.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/3c/ab/MEVT4L1_t.png" group-title="Canais | VARIEDADES",TV RIO PRETO HD
-https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/13/57/34/MEVT4KH_t.png" group-title="Canais | VARIEDADES",REDE ALTERNATIVA
 https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
@@ -736,9 +718,6 @@ https://tv02.zas.media:1936/tendatv/tendatv/chunklist_w126617913.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a9/b7/67/MEVT4KF_t.png" group-title="Canais | VARIEDADES",REDE UNIÃO NATAL
 https://video09.logicahost.com.br/tvuniao/tvuniao/chunklist_w1659240589.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/39/40/1c/MEVT4KW_t.png" group-title="Canais | VARIEDADES",MASTER SHOW TV
-https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1b/59/b4/MEVT4KS_t.png" group-title="Canais | VARIEDADES",TV CURUÇA
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
@@ -755,11 +734,8 @@ http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a7/31/69/MEVT5XW_t.png" group-title="Canais | VARIEDADES",MJR TV
 https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/chunklist_w788564536.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a7/31/69/MEVT5XW_t.png" group-title="Canais | VARIEDADES",MJR TV HD
-https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/12/b6/fb/MEVT5XX_t.png" group-title="Canais | VARIEDADES",STUDIO MAX TV
-https://video01.logicahost.com.br/studiomax/studiomax/playlist.m3u8
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d1/71/99/MEVT5Y0_t.png" group-title="Canais | VARIEDADES",TV SOL COMUNIDADE
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
@@ -773,12 +749,6 @@ https://video05.logicahost.com.br/extremotv/extremotv/chunklist_w652301722.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8c/bb/fe/MEVT5Y1_t.png" group-title="Canais | VARIEDADES",TV BRUSQUE
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/chunklist_w1000216306.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8c/bb/fe/MEVT5Y1_t.png" group-title="Canais | VARIEDADES",TV BRUSQUE HD
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/80/e2/MEVT5XS_t.png" group-title="Canais | VARIEDADES",TV CORDEIRO
-https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2a/d2/1f/MEVT5XU_t.png" group-title="Canais | VARIEDADES",TV DESCALVADO
 https://utvsite.acessaradios.com.br/tvdescalvado/smil:tvdescalvado.smil/chunklist_w1353396548_b1596000_sleng.m3u8
 
@@ -787,12 +757,6 @@ https://video01.kshost.com.br/redesdptv/redesdptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9e/bb/3e/MEVT811_t.png" group-title="Canais | VARIEDADES",TV PASSO FUNDO
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/chunklist_w1152153906.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4d/6e/4d/MEVT80Y_t.png" group-title="Canais | VARIEDADES",TV CAFÉ
-https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cc/83/22/MEVT81C_t.png" group-title="Canais | VARIEDADES",TV NA ATIVA
-https://cdn.live.br1.jmvstream.com/w/AVJ-13072/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/20/72/8e/MEVT813_t.png" group-title="Canais | VARIEDADES",O FATO MARINGÁ
 https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/chunklist_w109322574.m3u8
@@ -804,22 +768,22 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 https://video01.logicahost.com.br/ypetv/ypetv/chunklist_w1362589642.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/51/74/ad/MEVT81J_t.png" group-title="Canais | VARIEDADES",TV RECON
-https://acesso.ecast.site:3862/stream/play.m3u8
+https://streaming.cloudecast.com/hls/rederecon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNNdESAB6nnBpzDBg0dqf9IMGm7BFET7CCLFxfi_5flisZD7iQqwIxlZyIuDDitUUBhlU&usqp=CAU" group-title="Canais | VARIEDADES",TV 3 Fronteiras
+https://isaocorp.cloudecast.com/tv3fronteiras/tracks-a1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5d/43/c6/MEVT817_t.png" group-title="Canais | VARIEDADES",CANAL TVC
 https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/chunklist_w103418.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/32/9e/80/MEVT81A_t.png" group-title="Canais | VARIEDADES",TV GAZETA NORTE MINEIRA
-https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/chunklist_w1179751089.m3u8
+https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/chunklist_w1918666609.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/77/fc/d9/MEVT812_t.png" group-title="Canais | VARIEDADES",MAM NEWS WEB TV
 https://stmv2.samcast.com.br/mamnews/mamnews/chunklist_w2055394847.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0d/69/18/MEVT816_t.png" group-title="Canais | VARIEDADES",TV FLORIDA
-https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w788665237.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b6/16/68/MEVT81G_t.png" group-title="Canais | VARIEDADES",TV SOU NOTÍCIA
-https://stmv1.paineltv.net/neryfm/neryfm/chunklist_w1004734005.m3u8
+https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7e/ea/6d/MEVT80Z_t.png" group-title="Canais | VARIEDADES",TV ALLEGRO
 https://video05.logicahost.com.br/allegrowebtv/allegrowebtv/playlist.m3u8
