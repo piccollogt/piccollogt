@@ -197,7 +197,7 @@ http://185.189.225.157/EuroSport1/index.m3u8
 http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b1/46/f5/MEZQQAL_t.png" group-title="Canais | TV A CABO",Receita Fast
-https://live-as-11-36.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTEtMzYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzUyMTE5NTY0LCJpYXQiOjE3NTIwMzMxNjQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoYk1pbj0zMTM5ODQpL2dudGZhc3QyNGhhL3BsYXlsaXN0Lm0zdTgifQ.OyaV83pXfxe8aGQ82-ijFJT4YR7u7_YY51g36RfcjVpKWSW-LyQxDJCJo318-SCzuWwvQA2VLXKXVv9bzS1pnZJRSGWZN-0XJQsWPE-83aGkveZ48uyzSUPLf41P7HQEPJ0R20OX0ik8eIAuJ89Gy2lgopz_PaCqU__HQDW6kzNeHYd7DYtL9wXPzn3Ig6zDuxVcMV9fdXcmFLRygqZzVXPpmVa2Yj2lALf_ZkSqPPfO8YMKrXEurSCeU0Unblay2UCYr6m8yCvOEjAJKlQsV21IYcJeq5Id45F3Hbg5w6HJmOyqTCNh9RndErvKpohyXYNQzZ5BNO2XRNoT1SjDYQ/live/f(bMin=313984)/gntfast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/Wmng55atSh-3bEYkvkRuBg/stream/d16e3fd9-39d3-477d-8cd9-43e5230aac5f:SCL/variant/3f0f03e898105254a688fef0bfe6a1c6/bandwidth/2859000.m3u8
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
 ############################################################################ Canais | FILMES
 
@@ -1092,22 +1092,16 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d2/e3/54/MEVV8HU_t.png" group-title="Canais | VARIEDADES",TV ALFENAS
-https://cdn.jmvstream.com/w/AVJ-15327/playlist/playlist.m3u8
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15327/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9f/3e/67/MEVV8VR_t.png" group-title="Canais | VARIEDADES",CANAL RICOS
 https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/49/83/ba/MEVV8VS_t.png" group-title="Canais | VARIEDADES",ECO TV ABC
-https://5b7f3c45ab7c2.streamlock.net/ecotvabc/ecotvabc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ae/90/72/MEVV8W1_t.png" group-title="Canais | VARIEDADES",SOL BRASIL
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3d/6b/af/MEVV8VT_t.png" group-title="Canais | VARIEDADES",TV NBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1b/ca/bf/MEVV8VV_t.png" group-title="Canais | VARIEDADES",Rede Sempre TV
-https://stmv2.samcast.com.br/redesempretv1616/redesempretv1616/chunklist_w960679807.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1e/16/95/MEVV8VZ_t.png" group-title="Canais | VARIEDADES",Cultne Tv
 https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/video_10801920_p_0.m3u8
@@ -1979,9 +1973,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd0
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/41/e9/MEVOEN7_t.png" group-title="Canais | PLUTO TV",Pluto TV Adrenalina Freezone
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/41/e9/MEVOEN7_t.png" group-title="Canais | PLUTO TV",Pluto TV Filmes Nacionais
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/41/e9/MEVOEN7_t.png" group-title="Canais | PLUTO TV",Pluto TV Cine Clássicos
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
 
@@ -2035,9 +2026,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b800084
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/41/e9/MEVOEN7_t.png" group-title="Canais | PLUTO TV",Pronto-socorro: Histórias De Emergência
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/41/e9/MEVOEN7_t.png" group-title="Canais | PLUTO TV",Pluto TV Quebrando o Tabu
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62cd9e5a5c38c00007f5669a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/41/e9/MEVOEN7_t.png" group-title="Canais | PLUTO TV",Detetives Médicos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -2195,9 +2183,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01e07d2d50d0008100
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/89/ac/6a/MEVOEXC_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",MTV Biggest Pop
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aa3200-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93901adb-1cd6-4054-9f35-6f3746b30848&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/89/ac/6a/MEVOEXC_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",MTV Biggest Pop HD
-https://tinyurl.com/5y39xzn6
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/84/64/bc/MEZQRQC_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -2209,9 +2194,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/635bfb89b5cd9b0007ca9d
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/11/6f/91/MEVOEXK_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Agito Max
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/48/f0/69/MEVOEXP_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",SURF ROOTS
-https://cdnvod.panda-os.com/livehls/6334b01306304444c756ebc4/index-f6-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c0/b0/2f/MEVOEXI_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1087878616.m3u8
@@ -2258,12 +2240,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-hitsuk-samsun
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/81/1e/de/MEZQUEO_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",XITE Just Chill
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/81/1e/de/MEZQUEO_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",XITE Celebrates
-https://d3jrybhjdqht1p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zif4invbz9iap/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/81/1e/de/MEZQUEO_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",XITE Rock
-https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/81/1e/de/MEZQUEO_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",XITE Rock X Metal
 https://dri82941jql2y.cloudfront.net/playlist.m3u8
 
@@ -2279,17 +2255,11 @@ https://stmv1.samcast.com.br/claudiano4493/claudiano4493/chunklist_w993031812.m3
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c5/05/d0/MEVOEXJ_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",WTV Brasil
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/chunklist_w1927687888.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/d9/57/MEVOIGJ_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Betelhost Sertanejo
-https://srv3.zcast.com.br/betelhostbr/betelhostbr/chunklist_w1886016939.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b7/e7/b6/MEVOIG9_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",TV Mega Brasil
 https://video01.kshost.com.br:4443/sergio7305/sergio7305/chunklist_w134985193.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/03/74/MEVOIGI_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",T Jovem Hits
 https://streamlov.alsolnet.com/jovemhits/live/chunklist_w1518550691.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/21/74/36/MEVOIGR_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Rede Cerrado
-https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1084590946.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/33/ce/1f/MEVOIG5_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Baraza Music TV - GREEK HITS
 https://eco.streams.ovh:8081/barazatv/index.m3u8
@@ -2297,23 +2267,14 @@ https://eco.streams.ovh:8081/barazatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/33/ce/1f/MEVOIG5_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Baraza Music TV - RELAX MUSIC
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/33/ce/1f/MEVOIG5_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Baraza Music TV - DJ MUSIC
-https://fr.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/33/ce/1f/MEVOIG5_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Baraza Music TV - 80'S MUSIC
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9b/a9/de/MEVOIGP_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Portal Foxmix
-https://panel.tvstream.cl:1936/8040/8040/chunklist_w652873405.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/41/84/92/MEVOIGL_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Top TV
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/76/6a/MEVOIG1_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",TV Caruaru	
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w1077730678.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/49/0c/ac/MEVOIGB_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",BLITS TV	
-https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/27/cf/8c/MEVOIGN_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",4 FUN
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
@@ -2339,20 +2300,11 @@ https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ba/4b/ce/MEVOJ4Y_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",LOVE SONGS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b80acac5329000740c022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/79/08/a9/MEVOJ50_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",MAIS UM
-https://stream.ichibantv.com:3230/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e9/57/0b/MEVOJ4R_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",METROPOLITANA
 https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2c/4b/ae/MEVOJ4Z_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",OCKO GOLD TV
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d1/ed/4a/MEVOJ4L_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",POOP TV
-https://stream.ichibantv.com:3522/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://images4.imagebam.com/4b/69/93/MEVOJ4M_o.png" group-title="Canais | VIDEOCLIPES MUSICAL",REDE RC
-https://video05.logicahost.com.br/rederc/rederc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images4.imagebam.com/51/ad/8c/MEVOJ4W_o.png" group-title="Canais | VIDEOCLIPES MUSICAL",RETRO MUSIC TV	
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
@@ -2369,9 +2321,6 @@ https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c8/11/a9/MEVOK0U_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",TV RADIO LITORAL
 https://video08.logicahost.com.br/tvradiolitoral/tvradiolitoral/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c1/6c/ef/MEVOK10_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",VINTAGE TV
-https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b1/c5/6b/MEVOK0Z_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",VH1 MUSIC LEGENDS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -2383,9 +2332,6 @@ https://acesso.ecast.site:3142/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/83/0a/7b/MEVOK0V_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",NRJ HITS
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1512511097_b1496608.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/83/0a/7b/MEVOK0V_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",NRJ HITS FHD
-https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w2055790872_b3268608.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/83/0a/7b/MEVOK0V_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",NRJ HITS - BÉLGICA
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
@@ -2401,12 +2347,6 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1c/01/72/MEVOK0W_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",CANAL BSTV
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1c/01/72/MEVOK0W_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",CANAL BSTV HD
-https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/99/2b/cc/MEVOKPT_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",ROCK TV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/23/d7/dd/MEVOKPP_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",RTL (Italia)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
@@ -2428,9 +2368,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ff/ac/37/MEVOKPX_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",NOW 80S
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/13/80/3a/MEVOKQ1_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Blast Channel
-https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/93/d2/ac/MEZP5CH_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Deluxe Music TV
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -2910,140 +2847,6 @@ https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Românticas
 https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
-
-############################################################################ Radios | RADIO ONLINE - PORTUGAL
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b7/94/2c/MEWHR2Z_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Wonder 80's
-https://80.streeemer.com/listen/80s/radio.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/83/38/MEWHR3J_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",ZigZag FM
-https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6e/24/6b/MEWHR3Q_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Radio m80
-https://stream-icy.bauermedia.pt/m80.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/44/34/91/MEWHR92_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",m80 80's
-https://stream-icy.bauermedia.pt/m8080.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f4/2c/b8/MEWHR90_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",M80pop
-https://stream-icy.bauermedia.pt/m80pop.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d4/42/fa/MEWHR91_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Radio Comercial
-https://stream-icy.bauermedia.pt/comercial.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d4/42/fa/MEWHR91_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Comercial Best 00's
-https://stream-icy.bauermedia.pt/rcbest2000.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7c/bc/88/MEWHRB5_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",RFM
-https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/b8/d4/MEWHRB3_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",RFM 80
-https://playerservices.streamtheworld.com/api/livestream-redirect/GR80SRFM_SC
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/52/74/8e/MEWHRB2_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",RFM Oceano
-https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFICAAC_SC
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/89/70/11/MEWHRB1_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",RFM On the Rock
-https://playerservices.streamtheworld.com/api/livestream-redirect/RFMONTHEROCKAAC_SC
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/be/47/24/MEWHRB4_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",RFM Dance
-https://stream-icy.bauermedia.pt/m80dance.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bc/c3/3b/MEWHRFB_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Cidade FM
-https://stream-icy.bauermedia.pt/cidade.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bc/c3/3b/MEWHRFB_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Cidade Latina FM
-https://stream-hls.bauermedia.pt/cidlatina.aac/playlist.m3u8?listeningSessionID=6571d07d1b7dfec9_7112742_n4OxWfIr__00000009xY6&downloadSessionID=0
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bc/c3/3b/MEWHRFB_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Saudade Cidade FM
-https://stream.zeno.fm/q9k377tdzy8uv
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bc/c3/3b/MEWHRFB_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Cidade Hip Hop FM
-https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8?downloadSessionID=0&listeningSessionID=6387689763485ead_17949532_EVqQ6Epb__0000000tpGU&source=bauerptWebplayer
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/43/1f/46/MEWHRGK_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Batida FM
-https://stream-icy.bauermedia.pt/batidafm.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3a/83/a9/MEWHRH4_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Radio Meo Sudoeste
-http://centova.radios.pt:8495/stream/1/
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/db/03/04/MEWHRIH_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",NovaEra
-http://centova.radios.pt:9478/stream/1/
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fc/be/e0/MEWHUS2_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Nove3cinco
-http://centova.radios.pt:9522/stream/1/
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8e/e6/9e/MEWHV70_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Hiper FM
-http://195.23.85.126:9500/stream/1/
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f8/60/d8/MEWHY5Y_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Orbital
-http://195.23.85.126:8401/stream/1/
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/66/32/f4/MEWHVBB_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Hip Hop Radio
-https://rs2.ptservidor.com/proxy/hiphopp?mp=%2Fstream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/34/01/MEWHVC0_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Smooth FM
-https://stream-icy.bauermedia.pt/smooth.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ce/39/2c/MEWHVEN_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Radio Marginal
-http://centova.radios.pt:8499/stream/1/
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/89/9a/5d/MEWHVFI_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Rádio Observador
-https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/48/2c/MEWHY0U_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Antena 1
-http://radiocast.rtp.pt/antena180a.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cf/e5/da/MEWHY0Z_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Antena 1 Vida
-https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/90/eb/f9/MEWHY0Y_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Antena 2 Jazzin
-https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/chunklist_DVR.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/78/1a/2e/MEWHY0X_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Antena 3
-http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8?wowzasessionid=inspiration
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ba/3e/53/MEWHW11_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Radio brigantia
-https://centova.radio.com.pt/proxy/491?mp=/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/d7/4a/MEWHWO0_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Diana FM (Évora)
-https://centova.radios.com.pt/proxy/460?mp=/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/80/2c/13/MEWHXK7_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Rádio Portalegre
-http://centova.radios.pt:9492/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d2/e5/35/MEWHXK5_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Radio Despertar Voz de Estremoz
-https://stream.zeno.fm/fx5n4m0xkwzuv
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0d/54/11/MEWJIK7_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Beat FM
-https://rs2.ptservidor.com/proxy/incrivei?mp=/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c8/8b/09/MEWJIOO_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Rádio Record 107.7 FM
-https://nl.digitalrm.pt:8010/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/80/7f/cf/MEWJIS3_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Rádio 5 89.0 FM
-https://radios.justweb.pt/8042/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/79/90/40/MEWJIXY_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Rádio Alive 89.9 FM
-https://radios2.justweb.pt:8002/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/13/52/71/MEWJJ0T_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Rádio Alto Minho 97.0 FM
-https://ec2.yesstreaming.net:3705/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f5/a2/12/MEWJJH6_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Rádio Club de Angra 94.7 FM
-https://nl.digitalrm.pt:8104/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2e/94/96/MEWJJLC_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Rádio K FM 92.2
-https://s9.yesstreaming.net:9012/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/49/0f/d2/MEWJJMN_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Rádio Kiss 101.2 FM
-https://nl.digitalrm.pt:8024/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9c/0c/b7/MEZP7QA_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Rádio Golo 89.2 FM
-https://sp0.redeaudio.com/8154/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/76/af/MEZP7U1_t.png" group-title="Radios | RADIO ONLINE - PORTUGAL",Rádio Tropical 95.3 FM
-https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream
 
 ############################################################################ Canais | ESTUDIOS DE RADIO
 
