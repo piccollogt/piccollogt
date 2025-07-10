@@ -1070,9 +1070,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d3
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7a/63/74/MEVV8HT_t.png" group-title="Canais | VARIEDADES",TV OPÇÃO
 https://stmv8.samcast.com.br/tvopcao/tvopcao/chunklist_w791453741.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7a/63/74/MEVV8HT_t.png" group-title="Canais | VARIEDADES",TV OPÇÃO HD
-https://stmv1.paineltv.net/wladimyr7277/wladimyr7277/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8d/c8/c6/MEVV8I1_t.png" group-title="Canais | VARIEDADES",RTV LITORAL ABAIS
 https://stmv1.srvif.com/rtvabais/rtvabais/playlist.m3u8
 
