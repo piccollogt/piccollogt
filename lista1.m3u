@@ -2,6 +2,9 @@
 
 ############################################################################ Canais | ABERTO
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d386500ebc7f1be9d49188de6f44fa5.webp" group-title="Canais | ABERTO",SBT Interior
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images4.imagebam.com/07/b9/4e/MEVIHEX_o.png" group-title="Canais | ABERTO",SBT TV Guajará PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
 
@@ -107,14 +110,14 @@ https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d4/f3/1c/MEVILEA_t.png" group-title="Canais | ABERTO",TV GRAO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1449212956.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fe/ef/e6/MEVILE8_t.png" group-title="Canais | ABERTO",TV GAZETA
+https://live.eu-north-1b.cf.dmcdn.net/sec2(PWKj73vsJQCdgl9JW99RNb_LthESlI-zzKs_Dg22ks_wyJczoNgMgGI-goa5IZ4TDLlOR2Zf7L3DziK3gSdMyOS-cNJvBIRpsh0PHXbF4fH5CDdAVZM46xdWchqR7RVx)/dm/3/x8ttlxm/s/live-1080.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fe/ef/e6/MEVILE8_t.png" group-title="Canais | ABERTO",TV GAZETA - TV Alternativa MA
 https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fe/ef/e6/MEVILE8_t.png" group-title="Canais | ABERTO",TV GAZETA - TVC Araçatuba SP
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fe/ef/e6/MEVILE8_t.png" group-title="Canais | ABERTO",TV GAZETA - 40 Graus
-https://streaming.cloudecast.com/hls/40graus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d2/a0/c2/MEVILEH_t.png" group-title="Canais | ABERTO",TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
