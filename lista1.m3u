@@ -1798,16 +1798,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988a50b
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/936670.png" group-title="Canais | ANIMES 24 HORAS",Dragon Ball
 http://24hrs.homelinux.com:8080/24H-dragon.ball/video.m3u8?
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dragon-ball-z-logo-5DD4889CA9-seeklogo.com.png" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Z
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/00/33/ea/0033ea6231d88a3c49c82dba7651b5a1.jpg" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Z
 http://24hrs.homelinux.com:8080/24H-dragon.ball.z/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://poggers.com/cdn/shop/collections/Dragon_Ball_GT_Logo_6d39a478-459e-4c0c-af14-5c3951b109fb_1200x1200.webp?v=1725151305" group-title="Canais | ANIMES 24 HORAS",Dragon Ball GT
 http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/dragon-ball-kai-japanese-logo-png_seeklogo-531804.png?v=1958558140531598160" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Kai
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/dragon-ball-z-kai-logo-hd-png-701751694706725yntl6r8nxq.png" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Kai
 http://24hrs.homelinux.com:8080/24H-dragon.ball.z.kai/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dragon-ball-z-logo-5DD4889CA9-seeklogo.com.png" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Super
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hd-dragon-ball-super-logo-transparent-png-701751694706738wtpkda222g.png" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Super
 http://24hrs.homelinux.com:8080/24H-dragon.ball.super/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://logovector.net/wp-content/uploads/2014/02/327555-cavaleiros-do-zodiaco-logo.jpg" group-title="Canais | ANIMES 24 HORAS",Os Cavaleiros do Zodiaco
