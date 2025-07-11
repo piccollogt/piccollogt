@@ -3268,5 +3268,8 @@ https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/chunklist_w283384006_b
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/69/6f/16/MEVRSD2_t.png" group-title="Canais | CANAIS ADULTOS",Europulse
 http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/e2/b7/MEWIKGM_t.png" group-title="Canais | CANAIS ADULTOS",Barely Legal
-http://168.119.255.170/711/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/e2/b7/MEWIKGM_t.png" group-title="Canais | CANAIS ADULTOS",Barely Legal TV
+https://ortepe.xyz:29915/tv/barely/chunks.m3u8?nimblesessionid=28872441
+
+#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/brazzers-tv-official-logo.png" group-title="Canais | CANAIS ADULTOS",Brazzers TV
+https://ortepe.xyz:29915/tv/brazzers/chunks.m3u8?nimblesessionid=28873782&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDI6MTM6NDIgUE0maGFzaF92YWx1ZT13TEY3dXB3RjVnbUhGVkRyY3BKOTR3PT0mdmFsaWRtaW51dGVzPTYw
