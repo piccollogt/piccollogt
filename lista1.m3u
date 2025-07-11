@@ -1612,6 +1612,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a3
 #EXTINF:-1  tvg-logo="https://thumbs4.imagebam.com/9d/83/55/MEZP3QM_t.png" group-title="Canais | NOVELAS",Todo Novelas
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp" group-title="Canais | NOVELAS", NOVELISSIMA
+https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/41/e9/MEVOEN7_t.png" group-title="Canais | NOVELAS", NOVELAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/24f771e907d130947dd8a12946a4908d.webp" group-title="Canais | NOVELAS", WE DO TV AMOR
+https://video-solutions-ag-anacarolina-1-br.samsung.wurl.tv/playlist.m3u8
+
 ############################################################################ Canais | INFANTIL
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e3/dc/f5/MEVPRQN_t.png" group-title="Canais | INFANTIL",MI TV
