@@ -2,6 +2,9 @@
 
 ############################################################################ Canais | ABERTO
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT HD
+https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
+
 #EXTINF:-1 tvg-logo="https://images4.imagebam.com/07/b9/4e/MEVIHEX_o.png" group-title="Canais | ABERTO",SBT TV Guajará PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
 
@@ -14,11 +17,14 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 #EXTINF:-1 tvg-logo="https://images4.imagebam.com/70/3d/88/MEVIHF2_o.png" group-title="Canais | ABERTO",SBT BEM TV
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/69/89/MEZPZ4H_t.png" group-title="Canais | ABERTO", GLOBO TV BAHIA
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/redeglobo/images/2/22/Logotipo_da_Rede_Globo.png/revision/latest/scale-to-width-down/340?cb=20201229232540&path-prefix=pt" group-title="Canais | ABERTO", GLOBO SP
+http://45.134.141.162:3366/stream/globo/cam/master1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/redeglobologopedia/images/3/35/TV_Globo_Rio_de_Janeiro.jpg/revision/latest?cb=20160119065742" group-title="Canais | ABERTO", GLOBO RJ
 http://45.134.141.162:3366/stream/globo/rj/master720.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/69/89/MEZPZ4H_t.png" group-title="Canais | ABERTO", GLOBO TV BAHIA
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD TVR MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -1789,6 +1795,24 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/df/58/bd/MEVW39Q_t.png" group-title="Canais | ANIMES 24 HORAS",YU-GI-OH!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5db3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/936670.png" group-title="Canais | ANIMES 24 HORAS",Dragon Ball
+http://24hrs.homelinux.com:8080/24H-dragon.ball/video.m3u8?
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dragon-ball-z-logo-5DD4889CA9-seeklogo.com.png" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Z
+http://24hrs.homelinux.com:8080/24H-dragon.ball.z/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://poggers.com/cdn/shop/collections/Dragon_Ball_GT_Logo_6d39a478-459e-4c0c-af14-5c3951b109fb_1200x1200.webp?v=1725151305" group-title="Canais | ANIMES 24 HORAS",Dragon Ball GT
+http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/dragon-ball-kai-japanese-logo-png_seeklogo-531804.png?v=1958558140531598160" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Kai
+http://24hrs.homelinux.com:8080/24H-dragon.ball.z.kai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dragon-ball-z-logo-5DD4889CA9-seeklogo.com.png" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Super
+http://24hrs.homelinux.com:8080/24H-dragon.ball.super/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://logovector.net/wp-content/uploads/2014/02/327555-cavaleiros-do-zodiaco-logo.jpg" group-title="Canais | ANIMES 24 HORAS",Os Cavaleiros do Zodiaco
+http://24hrs.homelinux.com:8080/24H-cavaleiros/tracks-v1a1/index.m3u8
+
 ############################################################################ Canais | TOKUSATSU
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/7f/a5/MEVN67J_t.png" group-title="Canais | TOKUSATSU",Tokusato
@@ -1799,6 +1823,9 @@ https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/dc/90/17/MEWBYG3_t.png" group-title="Canais | TOKUSATSU",JIRAYA
 http://24hrs.homelinux.com:8080/24H-Jiraya/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.theshirtlist.com/wp-content/uploads/2017/03/Jaspion.jpg" group-title="Canais | TOKUSATSU",JASPION
+http://24hrs.homelinux.com:8080/24H-jaspion/playlist.m3u8
 
 ############################################################################ Canais | SÉRIES
 
@@ -2127,22 +2154,22 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 ############################################################################ Canais | HALLO!
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/06/cb/d5/MEZREKN_t.png" group-title="Canais | HALLO!",Hallo! Anime
-https://aovivo.doozytv.com.br/31025556/10162072/chunks.m3u8
+https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ce/13/0d/MEZREKH_t.png" group-title="Canais | HALLO!",Hallo! Classic
 https://aovivo.doozytv.com.br/31025556/10162214/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/b7/f6/MEZREKL_t.png" group-title="Canais | HALLO!",Hallo! Movies
-https://aovivo.doozytv.com.br/31025556/10162077/chunks.m3u8
+https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/6f/2a/MEZREKK_t.png" group-title="Canais | HALLO!",Hallo! Series
-https://aovivo.doozytv.com.br/31025556/10162080/chunks.m3u8
+https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/78/ad/20/MEZREKM_t.png" group-title="Canais | HALLO!",Hallo! Dorama
 https://aovivo.doozytv.com.br/31025556/10163906/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cc/31/19/MEZREKJ_t.png" group-title="Canais | HALLO!",Hallo! Music
-https://aovivo.doozytv.com.br/31025556/10164376/chunks.m3u8
+https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e0/e9/ef/MEZREKI_t.png" group-title="Canais | HALLO!",Hallo! Doc
 https://aovivo.doozytv.com.br/31025556/10162730/chunks.m3u8
