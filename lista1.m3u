@@ -3328,6 +3328,9 @@ https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w14331709
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/41/b0/MEVNTRS_t.png" group-title="Canais | ANGOLA",DEMAND AFRICA
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85622a63246e88cadd968505db88bcf7.webp" group-title="Canais | ANGOLA",Tv Zimbo
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+
 ############################################################################ CANAIS ADULTOS
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3a/ad/8a/MEVRSD4_t.png" group-title="Canais | CANAIS ADULTOS",OLALA EU
@@ -3335,6 +3338,9 @@ https://live.iptvxxx.net/olala.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/93/3a/MEVRSD1_t.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/playboy-tv-logo.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV 2
+https://ortepe.xyz:35235/tv/playboy/chunks.m3u8?nimblesessionid=29410055&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDI1IDQ6NTI6MDIgQU0maGFzaF92YWx1ZT1abTdqRUJRMGNCQVRCdUlCNWU1VmVBPT0mdmFsaWRtaW51dGVzPTYw&rand=0.2128939866520776
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/58/f4/MEWIKWG_t.png" group-title="Canais | CANAIS ADULTOS",Blacked
 http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
