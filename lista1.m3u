@@ -1737,6 +1737,23 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafd
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/44/c7/e0/MEZQR8A_t.png" group-title="Canais | INFANTIL",PLUTO TV CINEMINHA
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
+############################################################################ Canais | INFANTIL 24 HORAS
+
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/7444/eddc0f61649cd267204aea2adbcba4439991d9car1-1000-1000v2_00.jpg" group-title="Canais | INFANTIL 24 HORAS",Avatar A Lenda de Aang
+http://24hrs.homelinux.com:8080/24H-avataralendadeaang/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0a/10/5b/0a105bf5b87247d3a0dad5ab55c3d994.jpg" group-title="Canais | INFANTIL 24 HORAS",Avatar A Lenda de Korra
+http://24hrs.homelinux.com:8080/24H-avataralendadekorra/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="Canais | INFANTIL 24 HORAS",Ben 10
+http://24hrs.homelinux.com:8080/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/Ben_10_Omniverse.png" group-title="Canais | INFANTIL 24 HORAS",Ben 10 Ominiverse  
+http://15.235.9.200:14819/
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8c/b1/36/MEVQFZZ_t.png" group-title="Canais | INFANTIL 24 HORAS",Bob Esponja
+http://24hrs.homelinux.com:8080/24H-bobesponja/playlist.m3u8
+
 ############################################################################ Canais | CANAIS DE ANIME
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9f/b6/39/MEVL3YJ_t.png" group-title="Canais | CANAIS DE ANIME",Anime Tv
@@ -3228,6 +3245,9 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ba/fe/90/MEW395D_t.png" group-title="Canais | PORTUGAL",TVI Ficcao
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/35afb908a11d6981e89adaf68857e9df.webp" group-title="Canais | PORTUGAL",V+ TVI
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/66/b2/c3/MEWGQYX_t.png" group-title="Canais | PORTUGAL",ARTV
 https://playout175.livextend.cloud/livenlin4/2liveartvpub2/playlist.m3u8
 
@@ -3301,9 +3321,6 @@ https://live.iptvxxx.net/olala.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/93/3a/MEVRSD1_t.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/playboy-tv-logo.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV 2
-https://ortepe.xyz:29915/tv/playboy/chunks.m3u8?nimblesessionid=28882853&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDI6MzE6MjEgUE0maGFzaF92YWx1ZT14NDlXQ21FdmxXanBUcEZubVFaaVJBPT0mdmFsaWRtaW51dGVzPTYw
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/58/f4/MEWIKWG_t.png" group-title="Canais | CANAIS ADULTOS",Blacked
 http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
 
@@ -3316,26 +3333,5 @@ https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/chunklist_w283384006_b
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/69/6f/16/MEVRSD2_t.png" group-title="Canais | CANAIS ADULTOS",Europulse
 http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/e2/b7/MEWIKGM_t.png" group-title="Canais | CANAIS ADULTOS",Barely Legal TV
-https://ortepe.xyz:29915/tv/barely/chunks.m3u8?nimblesessionid=28872441
-
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/brazzers-tv-official-logo.png" group-title="Canais | CANAIS ADULTOS",Brazzers TV Europe
-https://ortepe.xyz:29915/tv/brazzers/chunks.m3u8?nimblesessionid=28873782&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDI6MTM6NDIgUE0maGFzaF92YWx1ZT13TEY3dXB3RjVnbUhGVkRyY3BKOTR3PT0mdmFsaWRtaW51dGVzPTYw
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5f/12/59/MEWIJWH_t.png" group-title="Canais | CANAIS ADULTOS",VENUS
-https://ortepe.xyz:29915/tv/venus/chunks.m3u8?nimblesessionid=28878484&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDI6MjI6NDcgUE0maGFzaF92YWx1ZT1DYmhrZTEyc2FQcUlnMHgzK29uWmlBPT0mdmFsaWRtaW51dGVzPTYw
-
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/cento-x-cento-tv-logo.png" group-title="Canais | CANAIS ADULTOS",Cento X Cento TV
-https://ortepe.xyz:29915/tv/cento/chunks.m3u8?nimblesessionid=28879633&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDI6MjU6MDAgUE0maGFzaF92YWx1ZT1ERTQraVFlVGhtUmFEWWh3Szhrc3V3PT0mdmFsaWRtaW51dGVzPTYw
-
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/meiden-van-holland-logo.png" group-title="Canais | CANAIS ADULTOS",Meiden Van Holland
-https://ortepe.xyz:29915/tv/meidenvanholland/chunks.m3u8?nimblesessionid=28880942&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDI6Mjc6MzkgUE0maGFzaF92YWx1ZT0ySCtBVmlwMkhGUFdjTlhqMlNsamVBPT0mdmFsaWRtaW51dGVzPTYw
-
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/private-tv-logo.jpg" group-title="Canais | CANAIS ADULTOS",Private TV
-https://ortepe.xyz:29915/tv/private/chunks.m3u8?nimblesessionid=28881961&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDI6Mjk6MzcgUE0maGFzaF92YWx1ZT1sV3pYcDBCV0ptMVdHVlBucTd4UExnPT0mdmFsaWRtaW51dGVzPTYw
-
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/hustler-hd-official-logo.png" group-title="Canais | CANAIS ADULTOS",Hustler HD
-https://ortepe.xyz:29915/tv/hustlerhd/chunks.m3u8?nimblesessionid=28884239&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDI6MzQ6MDQgUE0maGFzaF92YWx1ZT1pRVN3ais3NkpEYTdjNDFUd2d6M1BRPT0mdmFsaWRtaW51dGVzPTYw
-
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2024/02/hustlertv.png" group-title="Canais | CANAIS ADULTOS",Hustler TV
-https://ortepe.xyz:29915/tv/hustlertv/chunks.m3u8?nimblesessionid=28884885&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDI6MzU6MjQgUE0maGFzaF92YWx1ZT04c0k3WFB2MEdWNzBITWhlOHlGUnl3PT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/e2/b7/MEWIKGM_t.png" group-title="Canais | CANAIS ADULTOS",Barely Legal
+https://moonlight.wideiptv.top/Barely-Legal-TV/tracks-v1/index.fmp4.m3u8?token=4a8e67d8b44141ce4086bcf3e693f608e986e08c-87c88bb617bbb51c2b5f8dd7859e0388-1752297148-1752286348
