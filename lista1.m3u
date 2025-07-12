@@ -324,9 +324,6 @@ https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w815335148.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="Canais | FILMES",CHANNEL 1
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="Canais | FILMES",CHANNEL 1 HD
-https://stmv1.srvif.com/movies1/movies1/chunklist_w494333408.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ae/6c/5c/MEVRB2V_t.png" group-title="Canais | FILMES",TV WTJ MINAS
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w1256109034.m3u8
 
@@ -383,9 +380,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d8/b7/5a/MEVRF6U_t.png" group-title="Canais | FILMES",TV GOSPEL EXODUS DE SALVADOR
 https://stmv7.samcast.com.br/tvexodus/tvexodus/chunklist_w122439057.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6d/79/57/MEVR68K_t.png" group-title="Canais | FILMES",Dark Flix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/67/e8/0a/MEVRF70_t.png" group-title="Canais | FILMES",TV CLASSICOS
 https://stmv1.srvif.com/tvclassicos/tvclassicos/chunklist_w1216767083.m3u8
