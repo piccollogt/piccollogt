@@ -1760,7 +1760,7 @@ http://24hrs.homelinux.com:8080/24H-digimon/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/totallyspies/images/a/ac/6388.jpg/revision/latest/scale-to-width-down/284?cb=20150212133515&path-prefix=pt-br" group-title="Canais | INFANTIL 24 HORAS",Três Espiãs Demais
 http://24hrs.homelinux.com:8080/24H-tresespias/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/140-1405916_thundercats-logo-imagenes-de-los-thundercats.png" group-title="Canais | INFANTIL 24 HORAS",Thundercats
+#EXTINF:-1 tvg-logo="https://pt.quizur.com/_image?href=https://img.quizur.com/f/img5ebb37d32e0927.13855276.jpg?lastEdited=1589327835&w=600&h=600&f=webp" group-title="Canais | INFANTIL 24 HORAS",Thundercats
 http://24hrs.homelinux.com:8080/24H-thundercats/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/578/87/png-clipart-scooby-doo-mystery-scooby-doo-velma-dinkley-youtube-scoobydoo-text-logo-thumbnail.png" group-title="Canais | INFANTIL 24 HORAS",Scooby Doo
