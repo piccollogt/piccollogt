@@ -1754,6 +1754,21 @@ http://15.235.9.200:14819/
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8c/b1/36/MEVQFZZ_t.png" group-title="Canais | INFANTIL 24 HORAS",Bob Esponja
 http://24hrs.homelinux.com:8080/24H-bobesponja/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ac/f9/30/acf930cff668507f7fe5c8a5008b004d.jpg" group-title="Canais | INFANTIL 24 HORAS",Digimon
+http://24hrs.homelinux.com:8080/24H-digimon/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/totallyspies/images/a/ac/6388.jpg/revision/latest/scale-to-width-down/284?cb=20150212133515&path-prefix=pt-br" group-title="Canais | INFANTIL 24 HORAS",Três Espiãs Demais
+http://24hrs.homelinux.com:8080/24H-tresespias/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/13/1/thundercats-logo-png_seeklogo-139731.png" group-title="Canais | INFANTIL 24 HORAS",Thundercats
+http://24hrs.homelinux.com:8080/24H-thundercats/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/578/87/png-clipart-scooby-doo-mystery-scooby-doo-velma-dinkley-youtube-scoobydoo-text-logo-thumbnail.png" group-title="Canais | INFANTIL 24 HORAS",Scooby Doo
+http://24hrs.homelinux.com:8080/24H-scoobdoo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/5a/6c/b1/5a6cb116c60708a3419df1533a7a936f.jpg" group-title="Canais | INFANTIL 24 HORAS",Os Flintstones
+http://24hrs.homelinux.com:8080/24H-osflistony/playlist.m3u8
+
 ############################################################################ Canais | CANAIS DE ANIME
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9f/b6/39/MEVL3YJ_t.png" group-title="Canais | CANAIS DE ANIME",Anime Tv
