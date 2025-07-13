@@ -5,6 +5,21 @@
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT HD
 https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT RJ
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18608.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT Alterosa
+http://pkweb.ca:80/96050573/as895423/965
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/25b4ce210286313.Y3JvcCwxMjMxLDk2MywzNDQsNTc.jpg" group-title="Canais | ABERTO",SBT +SILVIO SANTOS
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343853.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/25b4ce210286313.Y3JvcCwxMjMxLDk2MywzNDQsNTc.jpg" group-title="Canais | ABERTO",SBT +SAUDADES
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343851.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/25b4ce210286313.Y3JvcCwxMjMxLDk2MywzNDQsNTc.jpg" group-title="Canais | ABERTO",SBT +NOVELAS
+http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/343849.m3u8
+
 #EXTINF:-1 tvg-logo="https://images4.imagebam.com/07/b9/4e/MEVIHEX_o.png" group-title="Canais | ABERTO",SBT TV Guajará PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
 
@@ -26,6 +41,12 @@ http://45.134.141.162:3366/stream/globo/rj/master720.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/69/89/MEZPZ4H_t.png" group-title="Canais | ABERTO", GLOBO TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/321e070b769a5d5b5f5e5183212d26fb.webp" group-title="Canais | ABERTO",RECORD SP
+http://pkweb.ca:80/96050573/as895423/527
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/321e070b769a5d5b5f5e5183212d26fb.webp" group-title="Canais | ABERTO",RECORD RJ
+http://pkweb.ca:80/96050573/as895423/1035
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD TVR MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
@@ -44,17 +65,20 @@ https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/02/be/MEVIHT3_t.png" group-title="Canais | ABERTO",RECORD RO SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/27/b7/MEVII9Z_t.png" group-title="Canais | ABERTO",BAND
-https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTQ5OGFmLTFmZGYtN2RmNS04NmJkLWU0YTZmNTg4ZDZhNy8iLCJ1aWQiOiIxOGExOGY5NS1kYWI5LTQ4OGYtOTcwNi0wNDg3MTMzYWI0ZWMiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1MjM2NDgwNiwiaWF0IjoxNzUyMzY0ODA2LCJleHAiOjE3NTI0NTEyMDYsImp0aSI6IjE4YTE4Zjk1LWRhYjktNDg4Zi05NzA2LTA0ODcxMzNhYjRlYyIsImlzcyI6IlNwYWxsYSJ9.5GWLhmd8tIVQr5Xl6heiabBHLZBQLJjbIOvkkjo2Nmc&uid=18a18f95-dab9-488f-9706-0487133ab4ec&magica=sim
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/27/b7/MEVII9Z_t.png" group-title="Canais | ABERTO",BAND SP
+http://pkweb.ca:80/96050573/as895423/60
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/27/b7/MEVII9Z_t.png" group-title="Canais | ABERTO",BAND RJ
-https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s2/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTRmMjExLTQyMjktNzQ5Zi1hNDdlLTU4ZjgxOTQ3MTAyNC8iLCJ1aWQiOiJkMTI2YWJjZS02NDJkLTQwODItYWU0OC1lY2UwZDMwOWY0MTMiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1MjM2NDY4NiwiaWF0IjoxNzUyMzY0Njg2LCJleHAiOjE3NTI0NTEwODYsImp0aSI6ImQxMjZhYmNlLTY0MmQtNDA4Mi1hZTQ4LWVjZTBkMzA5ZjQxMyIsImlzcyI6IlNwYWxsYSJ9.GwBNBDboQ2ZOOTKZgG2tM3kwzY1uJSdu12pGVEdOYFA&uid=d126abce-642d-4082-ae48-ece0d309f413&magica=sim
+http://pkweb.ca:80/96050573/as895423/52
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a5/39/b5/MEVIIA2_t.png" group-title="Canais | ABERTO",BAND PA RBATV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1327902141.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/37/84/26/MEVIIA3_t.png" group-title="Canais | ABERTO",BAND TV ARAPUAN
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/1a/39/MEVIIZR_t.png" group-title="Canais | ABERTO",REDE TV!
+http://pkweb.ca:80/96050573/as895423/2274
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/1a/39/MEVIIZR_t.png" group-title="Canais | ABERTO",REDE TV! SÃO LUIS
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
@@ -1160,7 +1184,7 @@ https://stream.broadpeak.io/9978b7063e297d842c230b731e04e713/rnw/rn/rnw_rn.m3u8
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1100729218.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/21/e4/95/MEVJ15I_t.png" group-title="Canais | NOTICIAS",Band News
-https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
+http://sv1.casahd.com:80/carlinhos/carlinhos/1361106
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f6/7b/bb/MEZP0H7_t.png" group-title="Canais | NOTICIAS",CNBC Brasil
 https://video01.soultv.com.br/timesbrasil/timesbrasil/chunklist_w715432988.m3u8
@@ -1785,6 +1809,21 @@ http://200.194.238.229:8383/live/otaku/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/67/60/19/MEZQU7V_t.png" group-title="Canais | CANAIS DE ANIME",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11776
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI ESPANHOL
 https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6c4c2821-5854-4f49-85be-860c041d1b67/3.m3u8
@@ -3347,3 +3386,6 @@ https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/chunklist_w283384006_b
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/69/6f/16/MEVRSD2_t.png" group-title="Canais | CANAIS ADULTOS",Europulse
 http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/e2/b7/MEWIKGM_t.png" group-title="Canais | CANAIS ADULTOS",Barely Legal
+http://168.119.255.170/711/mono.m3u8?token=M4f082ab4c
