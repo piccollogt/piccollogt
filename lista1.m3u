@@ -104,6 +104,9 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/fe/7f/MEVIJDB_t.png" group-title="Canais | ABERTO",REDE BRASIL
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/fe/7f/MEVIJDB_t.png" group-title="Canais | ABERTO",TBO (REDE BRASIL MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w841662737.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d7/f2/d1/MEVIJD5_t.png" group-title="Canais | ABERTO",TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist.m3u8
 
