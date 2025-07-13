@@ -104,9 +104,6 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/fe/7f/MEVIJDB_t.png" group-title="Canais | ABERTO",REDE BRASIL
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/fe/7f/MEVIJDB_t.png" group-title="Canais | ABERTO",TBO (REDE BRASIL MT)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w841662737.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d7/f2/d1/MEVIJD5_t.png" group-title="Canais | ABERTO",TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist.m3u8
 
@@ -116,11 +113,17 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8d/21/fd/MEVIJD9_t.png" group-title="Canais | ABERTO",Rede Mundo TV
 https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist_w808464296.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a9/68/4d/MEVIJDE_t.png" group-title="Canais | ABERTO",TV ECOVALE
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" group-title="Canais | ABERTO",RBTV
+https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a9/68/4d/MEVIJDE_t.png" group-title="Canais | ABERTO",TV ECOVALE (RBTV)
 https://5ad482a77183d.streamlock.net/portalecovalegmail.com/portalecovalegmail.com/chunklist_w1656396537.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/02/0b/a4/MEVIJD7_t.png" group-title="Canais | ABERTO",BR SUPER TV
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/02/0b/a4/MEVIJD7_t.png" group-title="Canais | ABERTO",BR SUPER TV (RBTV)
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58be0346fdf9f50568d38558a4452a8.webp" group-title="Canais | ABERTO",TBO (RBTV MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w841662737.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/30/7f/5e/MEVIJFE_t.png" group-title="Canais | ABERTO",RF TV
 https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
@@ -464,7 +467,7 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?hls_ctx=1j6u145p
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/96/31/75/MEVSJ8R_t.png" group-title="Canais | VARIEDADES",Lucas TV
 https://stmv6.voxtvhd.com.br/lucastv/lucastv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/97/a8/fb/MEZOZ91_t.png" group-title="Canais | VARIEDADES",TV MARRECAS
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/97/a8/fb/MEZOZ91_t.png" group-title="Canais | VARIEDADES",TV MARRECAS (RBTV)
 https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7e/49/b7/MEZOZAW_t.png" group-title="Canais | VARIEDADES",TV GOITACÁ
@@ -2065,6 +2068,9 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f6/c1/45/MEVNUIQ_t.png" group-title="Canais | SAMSUNG TV",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003s-montreal/samsungbr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoUPrKWNqi2MZrc0IAX9sEjOQ_cyXmP3C2CQ&s" group-title="Canais | SAMSUNG TV",TV FLOW
+https://gpf-tvfl-samsungtvplus-br.otteravision.com/gpf/tvfl/tvfl_h265.m3u8
 
 ############################################################################ Canais | PLUTO TV
 
