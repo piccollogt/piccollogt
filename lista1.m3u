@@ -467,6 +467,9 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?hls_ctx=1j6u145p
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/96/31/75/MEVSJ8R_t.png" group-title="Canais | VARIEDADES",Lucas TV
 https://stmv6.voxtvhd.com.br/lucastv/lucastv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://htforum.net/data/attachments/28/28684-01aa5fb4bf7bcd1681eb4899a29afd0c.jpg" group-title="Canais | VARIEDADES",TV Nostalgia
+https://stmv2.webtvninjas.com.br/nostalgia55/nostalgia55/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/97/a8/fb/MEZOZ91_t.png" group-title="Canais | VARIEDADES",TV MARRECAS (RBTV)
 https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/playlist.m3u8
 
