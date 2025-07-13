@@ -1951,6 +1951,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d6d738376d63207eacd6a71322895a60.webp" group-title="Canais | SÉRIES",CHAVES
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.6U2EYqod2TU83R3a3NBSCAHaEc&pid=Api&P=0&h=180" group-title="Canais | SÉRIES",TODO MUNDO ODEIA O CHRIS
+http://pkweb.ca:80/96050573/as895423/31131
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cancelled-movies/images/7/73/Chapul%C3%ADn_colorado_logo.png/revision/latest?cb=20210406161737" group-title="Canais | SÉRIES",CHAPOLIN
 http://24hrs.homelinux.com:8080/24H-chapolin1/tracks-v1a1/mono.m3u8
 
@@ -2258,6 +2261,15 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf00074
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2a/de/78/MEVNZTU_t.png" group-title="Canais | COMÉDIA",The Pet Collective
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VaihhVmRtgOpEHAVVO1iGTLyOibE84lMe36CNhZ-CFYDq1LDf_T0NGi8rM9EfSWbia0CCMn_Fw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | COMÉDIA",Pegadinhas Rede TV!
+http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.sbt.com.br/programas/logos/vertical/718.jpg" group-title="Canais | COMÉDIA",Pegadinhas Silvio Santos
+http://pkweb.ca:80/96050573/as895423/190701
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.t4x_G248bb3k0Nq8jj07TwAAAA&pid=Api&P=0&h=180" group-title="Canais | COMÉDIA",Os Trapalhões
+http://24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
 
 ############################################################################ Canais | KPOP
 
