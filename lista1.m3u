@@ -107,8 +107,8 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d7/f2/d1/MEVIJD5_t.png" group-title="Canais | ABERTO",TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4f/2c/3e/MEVIJDC_t.png" group-title="Canais | ABERTO",TV MARAJOARA
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4f/2c/3e/MEVIJDC_t.png" group-title="Canais | ABERTO",TV MARAJOARA (RBTV)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8d/21/fd/MEVIJD9_t.png" group-title="Canais | ABERTO",Rede Mundo TV
 https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist_w808464296.m3u8
