@@ -437,6 +437,9 @@ https://isaocorp.cloudecast.com/tvgramado/index.m3u8
 
 ############################################################################ Canais | VARIEDADES
 
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/thumb-acesso-channel.png" group-title="Canais | VARIEDADES",ACESSO CHANNEL TV
+https://streaming.cloudecast.com/hls/superflix/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0b/90/b1/MEVT3JZ_t.png" group-title="Canais | VARIEDADES",TCM 10 HD
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
