@@ -276,6 +276,9 @@ https://stmv8.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/30/76/ef/MEVR5I5_t.png" group-title="Canais | FILMES",Up Webtv
 https://stmv1.conectastreaming.com/tvpa4741/tvpa4741/chunklist_w111105915.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1042cb4422483a9a56a30524c47d3688.webp" group-title="Canais | FILMES",Rede Manchete
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bf/66/c4/MEVR5IM_t.png" group-title="Canais | FILMES",Tv Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 
@@ -292,7 +295,7 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/0a/3e/MEVR68G_t.png" group-title="Canais | FILMES",Bons Tempos
-https://stmv1.srvif.com/canal29/canal29/chunklist_w1885909478.m3u8
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d7/10/5b/MEVR68C_t.png" group-title="Canais | FILMES",Web Tv Clássicos do Cinema
 https://stmv1.srvif.com/movies1/movies1/chunklist_w1839224118.m3u8
@@ -607,6 +610,9 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d0/dc/dd/MEVSP3R_t.png" group-title="Canais | VARIEDADES",UP WEB TV
 https://stmv1.conectastreaming.com/tvpa4741/tvpa4741/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1042cb4422483a9a56a30524c47d3688.webp" group-title="Canais | VARIEDADES",Rede Manchete
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/67/54/f0/MEVSZXX_t.png" group-title="Canais | VARIEDADES",TV Nova Familia
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunklist_w1028739692.m3u8
@@ -1698,9 +1704,6 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c0/18/f7/MEVPRQL_t.png" group-title="Canais | INFANTIL",Desenhos Clássicos TV
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w2046715321.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/df/95/1c/MEVPS1N_t.png" group-title="Canais | INFANTIL",Rede Manchete
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w200396624.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5d/68/48/MEVPS1K_t.png" group-title="Canais | INFANTIL",TVZYN
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 
@@ -1811,7 +1814,7 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a5/f8/fc/MEVL3YV_t.png" group-title="Canais | CANAIS DE ANIME",LOADING TV
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/8a/62/MEZREKO_t.png" group-title="Canais | CANAIS DE ANIME",OTAKU
 http://200.194.238.229:8383/live/otaku/playlist.m3u8
@@ -2454,6 +2457,9 @@ https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c8/11/a9/MEVOK0U_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",TV RADIO LITORAL
 https://video08.logicahost.com.br/tvradiolitoral/tvradiolitoral/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c1/6c/ef/MEVOK10_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",VINTAGE TV
+https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w851357950.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b1/c5/6b/MEVOK0Z_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",VH1 MUSIC LEGENDS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
