@@ -2277,7 +2277,7 @@ http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.sbt.com.br/programas/logos/vertical/718.jpg" group-title="Canais | COMÉDIA",Pegadinhas Silvio Santos
 http://pkweb.ca:80/96050573/as895423/190701
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.t4x_G248bb3k0Nq8jj07TwAAAA&pid=Api&P=0&h=180" group-title="Canais | COMÉDIA",Os Trapalhões
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Os_Trapalh%C3%B5es_%28logotipo_1984-1989%29.webp" group-title="Canais | COMÉDIA",Os Trapalhões
 http://24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
 
 ############################################################################ Canais | KPOP
@@ -3395,9 +3395,6 @@ https://live.iptvxxx.net/olala.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/93/3a/MEVRSD1_t.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/playboy-tv-logo.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV 2
-https://ortepe.xyz:17341/tv/playboy/chunks.m3u8?nimblesessionid=33309323&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDI1IDM6MzA6NTIgUE0maGFzaF92YWx1ZT1JNkZSdStUT1MxNHpwVzFybGFhbmt3PT0mdmFsaWRtaW51dGVzPTYw
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/58/f4/MEWIKWG_t.png" group-title="Canais | CANAIS ADULTOS",Blacked
 http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
