@@ -3401,3 +3401,7 @@ http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/69/6f/16/MEVRSD2_t.png" group-title="Canais | CANAIS ADULTOS",Europulse
 http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+
+#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/playboy-tv-logo.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV 2
+https://ortepe.xyz:49793/tv/playboy/chunks.m3u8?nimblesessionid=33877623&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDI1IDQ6NDU6NDYgQU0maGFzaF92YWx1ZT1nZml5OXhpOGt6L2hUV1l5TVRxOHBRPT0mdmFsaWRtaW51dGVzPTYw&rand=0.2810803825129795
+
