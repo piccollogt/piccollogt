@@ -3396,11 +3396,8 @@ https://live.iptvxxx.net/olala.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/93/3a/MEVRSD1_t.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/58/f4/MEWIKWG_t.png" group-title="Canais | CANAIS ADULTOS",Blacked
-http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/69/6f/16/MEVRSD2_t.png" group-title="Canais | CANAIS ADULTOS",Europulse
-http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
-
 #EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/playboy-tv-logo.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV Europe
 https://tv.tvcdnpotok.com/-2BcZB-mfgtRcVhXAAkYMg/6/1752832754/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/58/f4/MEWIKWG_t.png" group-title="Canais | CANAIS ADULTOS",Blacked
+http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
