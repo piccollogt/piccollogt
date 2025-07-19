@@ -815,9 +815,6 @@ https://streaming.cloudecast.com/hls/rederecon/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNNdESAB6nnBpzDBg0dqf9IMGm7BFET7CCLFxfi_5flisZD7iQqwIxlZyIuDDitUUBhlU&usqp=CAU" group-title="Canais | VARIEDADES",TV 3 Fronteiras
 https://isaocorp.cloudecast.com/tv3fronteiras/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5d/43/c6/MEVT817_t.png" group-title="Canais | VARIEDADES",CANAL TVC
-https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/chunklist_w103418.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/32/9e/80/MEVT81A_t.png" group-title="Canais | VARIEDADES",TV GAZETA NORTE MINEIRA
 https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/chunklist_w1918666609.m3u8
 
@@ -3395,9 +3392,6 @@ https://live.iptvxxx.net/olala.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/93/3a/MEVRSD1_t.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/playboy-tv-logo.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV Europe
-https://tv.tvcdnpotok.com/-2BcZB-mfgtRcVhXAAkYMg/6/1752832754/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/58/f4/MEWIKWG_t.png" group-title="Canais | CANAIS ADULTOS",Blacked
 http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
