@@ -238,9 +238,6 @@ http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b1/46/f5/MEZQQAL_t.png" group-title="Canais | TV A CABO",Receita Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d8/53/0a/MEVQMJT_t.png" group-title="Canais | TV A CABO",Telecine Premium
-http://187.62.246.65:8000/play/telecinepremium
-
 ############################################################################ Canais | FILMES
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bd/99/3e/MEVR5I9_t.png" group-title="Canais | FILMES",TV CNB ORLANDO
@@ -3398,6 +3395,3 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/58/f4/MEWIKWG_t.png" group-title="Canais | CANAIS ADULTOS",Blacked
 http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5b/c7/ae/MEWKZCU_t.png" group-title="Canais | CANAIS ADULTOS",SexTreme
-http://181.233.168.110:8000/play/a0bx
