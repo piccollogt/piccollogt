@@ -2225,22 +2225,22 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ce/13/0d/MEZREKH_t.png" group-title="Canais | HALLO!",Hallo! Classic
-https://aovivo.doozytv.com.br/31025556/10162214/chunks.m3u8
+https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/b7/f6/MEZREKL_t.png" group-title="Canais | HALLO!",Hallo! Movies
-https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
+https://cdn-3.nxplay.com.br/HALLOMOVIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/6f/2a/MEZREKK_t.png" group-title="Canais | HALLO!",Hallo! Series
-https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
+https://cdn-3.nxplay.com.br/HALLOSERIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/78/ad/20/MEZREKM_t.png" group-title="Canais | HALLO!",Hallo! Dorama
-https://aovivo.doozytv.com.br/31025556/10163906/chunks.m3u8
+https://cdn-3.nxplay.com.br/HALLODORAMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cc/31/19/MEZREKJ_t.png" group-title="Canais | HALLO!",Hallo! Music
-https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+https://cdn-3.nxplay.com.br/HALLOMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e0/e9/ef/MEZREKI_t.png" group-title="Canais | HALLO!",Hallo! Doc
-https://aovivo.doozytv.com.br/31025556/10162730/chunks.m3u8
+https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
 
 ############################################################################ Canais | COMÉDIA
 
