@@ -259,7 +259,7 @@ https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/chunklist_w87100838.m3u8
 https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/29/83/88/MEVR5IH_t.png" group-title="Canais | FILMES",FilmRise Séries Gratuitas
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=R9mMvhmH9vysFkmor1hb
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c/variant.m3u8?x-plex-token=Dy69RQuaxnr6GGe278GD&x-plex-advertising-identifier=&x-plex-client-identifier=9c391d84-cd34-4940-9496-85944689c594&x-plex-playback-id=p_26c6ffb8-b068-43c0-82f1-b04cdaa3633e&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=138.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1753023453&url=8dc7ba90092a79f2ff2d7debbac309d5-224203f0eb23d26ba80167fcf5960632381d9ee4e1465d122042d1b14a80691e27b761a4c185c1f193d6e85b8e28c9a188cbd27d05760f20b0397eea53e9908ff005afbefab94d1fbde9eef7c20f731bc12cbef5ef64c34fa8c4d3b98900c4b7f0395bb2bb2a35cdc9e85560fa21aaafecaea5b22cc53636c23828186fc9e95c1e957b67d3e4748ceb2425a1accb4225f95ec5d36f7286ea811093b075a7fa18
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3c/bd/3f/MEVR5II_t.png" group-title="Canais | FILMES",REVIVA TV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
@@ -272,9 +272,6 @@ https://isaocorp.cloudecast.com/ngt/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9a/de/74/MEVR5I6_t.png" group-title="Canais | FILMES",REDE CLOUDING TV
 https://stmv8.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/30/76/ef/MEVR5I5_t.png" group-title="Canais | FILMES",Up Webtv
-https://stmv1.conectastreaming.com/tvpa4741/tvpa4741/chunklist_w111105915.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1042cb4422483a9a56a30524c47d3688.webp" group-title="Canais | FILMES",Rede Manchete
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
@@ -601,9 +598,6 @@ https://5a0c3936c25c8.streamlock.net/tvdestaquenacional/tvdestaquenacional/chunk
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/02/ab/e2/MEVSP3O_t.png" group-title="Canais | VARIEDADES",REDE GAMA
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d0/dc/dd/MEVSP3R_t.png" group-title="Canais | VARIEDADES",UP WEB TV
-https://stmv1.conectastreaming.com/tvpa4741/tvpa4741/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1042cb4422483a9a56a30524c47d3688.webp" group-title="Canais | VARIEDADES",Rede Manchete
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
