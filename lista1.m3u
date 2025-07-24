@@ -3,7 +3,7 @@
 ############################################################################ Canais | ABERTO
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT HD
-https://dnscine.top:8443/731696914/312258322/712.m3u8
+http://labxs.xyz:80/612804576/628603982/3787391.ts
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT RJ
 http://7semfronteiras.cc:8080/live/5193271958/5193271ips1/18608.m3u8
@@ -33,10 +33,10 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/redeglobo/images/2/22/Logotipo_da_Rede_Globo.png/revision/latest/scale-to-width-down/340?cb=20201229232540&path-prefix=pt" group-title="Canais | ABERTO", GLOBO SP
-https://dnscine.top:8443/731696914/312258322/476.m3u8
+http://labxs.xyz:80/612804576/628603982/3787182.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/redeglobologopedia/images/3/35/TV_Globo_Rio_de_Janeiro.jpg/revision/latest?cb=20160119065742" group-title="Canais | ABERTO", GLOBO RJ
-https://dnscine.top:8443/731696914/312258322/468.m3u8
+http://labxs.xyz:80/612804576/628603982/3787188.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/69/89/MEZPZ4H_t.png" group-title="Canais | ABERTO", GLOBO TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -239,10 +239,7 @@ http://185.189.225.157/EuroSport2/index.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/44/f9/80/MEVL3YT_t.png" group-title="Canais | TV A CABO",ADULT SWIM
-https://dnscine.top:8443/731696914/312258322/423.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ab/ee/fb/MEVPS1P_t.png" group-title="Canais | TV A CABO",Tooncast
-https://dnscine.top:8443/731696914/312258322/436.m3u8
+http://labxs.xyz:80/612804576/628603982/2474616.ts
 
 ############################################################################ Canais | FILMES
 
@@ -1896,16 +1893,22 @@ http://24hrs.homelinux.com:8080/24H-Jiraya/video.m3u8
 http://24hrs.homelinux.com:8080/24H-jaspion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1b/8f/08/MEVN67I_t.png" group-title="Canais | TOKUSATSU",BLACK KAMEN RIDER
-https://dnscine.top:8443/731696914/312258322/202317.m3u8
+http://labxs.xyz:80/612804576/628603982/3787536.ts
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f2/c7/52/MEWBXZ0_t.png" group-title="Canais | TOKUSATSU",BYCROSSERS
+http://labxs.xyz:80/612804576/628603982/3787465.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1c/c7/05/MEZPYCC_t.png" group-title="Canais | TOKUSATSU",CYBERCOPS
-https://dnscine.top:8443/731696914/312258322/202315.m3u8
+http://labxs.xyz:80/612804576/628603982/3787482.ts
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ed/5b/16/MEWC8DK_t.png" group-title="Canais | TOKUSATSU",GOOGLE FIVE
+http://labxs.xyz:80/612804576/628603982/3787516.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/aa/26/08/MEWC8FB_t.png" group-title="Canais | TOKUSATSU",JIBAN
-https://dnscine.top:8443/731696914/312258322/202316.m3u8
+http://labxs.xyz:80/612804576/628603982/3787534.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Fuun_Lion_Maru_Title_Card.jpg" group-title="Canais | TOKUSATSU",LION MAN
-https://dnscine.top:8443/731696914/312258322/202314.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1803aa8768a96c38aa19d7bc3f0cf98f.webp" group-title="Canais | TOKUSATSU",POWER RANGERS
+http://labxs.xyz:80/612804576/628603982/3787594.ts
 
 ############################################################################ Canais | SÉRIES
 
@@ -3408,14 +3411,14 @@ https://live.iptvxxx.net/olala.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/93/3a/MEVRSD1_t.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/93/3a/MEVRSD1_t.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV Link 2 - 02/09/2025
-http://solofastz2.com:8080/live/FeliciaLilianaFata/bQcnJH5Tyh/139432.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/62/de/MEVRSXM_t.png" group-title="Canais | CANAIS ADULTOS",Miami TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/playboy-tv-logo.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV Europe - 02/09/2025
-http://solofastz2.com:8080/live/FeliciaLilianaFata/bQcnJH5Tyh/139431.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/37/7f/MEVRSD8_t.png" group-title="Canais | CANAIS ADULTOS",Visit-X TV
+https://stream.visit-x.tv/vxtv/ngrp:live_all/chunklist_w1101655136_b981072.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/62/de/MEVRSXM_t.png" group-title="Canais | CANAIS ADULTOS",Miami TV - 02/09/2025
-http://solofastz2.com:8080/live/FeliciaLilianaFata/bQcnJH5Tyh/178082.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/37/7f/MEVRSD8_t.png" group-title="Canais | CANAIS ADULTOS",Visit-X TV Link 2
+https://stream.visit-x.tv/vxtv/ngrp:live_all/media_w1101655136_b981072_63333.ts
 
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/nuart-logo.jpeg" group-title="Canais | CANAIS ADULTOS",Nuart TV - 02/09/2025
-http://solofastz2.com:8080/live/FeliciaLilianaFata/bQcnJH5Tyh/139423.m3u8
+#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2024/07/kinoxxx-logo.png" group-title="Canais | CANAIS ADULTOS",XXX ADULTO 01
+http://labxs.xyz:80/612804576/628603982/3787654.ts
