@@ -276,8 +276,8 @@ https://isaocorp.cloudecast.com/ngt/mono.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9a/de/74/MEVR5I6_t.png" group-title="Canais | FILMES",REDE CLOUDING TV
 https://stmv8.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1042cb4422483a9a56a30524c47d3688.webp" group-title="Canais | FILMES",Rede Manchete
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/90f2be25aedc782f9ff779b33302ee8a.webp" group-title="Canais | FILMES",KANADE BRASIL
+https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bf/66/c4/MEVR5IM_t.png" group-title="Canais | FILMES",Tv Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
@@ -453,7 +453,7 @@ https://video09.logicahost.com.br/tvuniao/tvuniao/playlist.m3u8
 https://stmv7.samcast.com.br/genival6279/genival6279/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/06/0d/85/MEVSJ8I_t.png" group-title="Canais | VARIEDADES",TV MON HD
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?hls_ctx=1j6u145p
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/96/31/75/MEVSJ8R_t.png" group-title="Canais | VARIEDADES",Lucas TV
 https://stmv6.voxtvhd.com.br/lucastv/lucastv/playlist.m3u8
