@@ -8,8 +8,8 @@ http://dnscine.top:80/131162716/115444195/712.ts
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT RJ
 http://dnscine.top:80/131162716/115444195/711.ts
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4721920b74ad144e2f0175e36e0888a7.webp" group-title="Canais | ABERTO",SBT Tv Vitoriosa
-https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT ARATU BA
+http://dnscine.top:80/961529563/138838412/725.ts
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT Ponta Grossa
 http://dnscine.top:80/131162716/115444195/740.ts
@@ -24,19 +24,19 @@ https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1196569154.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/redeglobo/images/2/22/Logotipo_da_Rede_Globo.png/revision/latest/scale-to-width-down/340?cb=20201229232540&path-prefix=pt" group-title="Canais | ABERTO", GLOBO SP
-http://79.127.238.228:14211/
+http://dnscine.top:80/961529563/138838412/476.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/redeglobologopedia/images/3/35/TV_Globo_Rio_de_Janeiro.jpg/revision/latest?cb=20160119065742" group-title="Canais | ABERTO", GLOBO RJ
-http://79.127.238.228:14217/
+http://dnscine.top:80/961529563/138838412/468.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/69/89/MEZPZ4H_t.png" group-title="Canais | ABERTO", GLOBO TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/321e070b769a5d5b5f5e5183212d26fb.webp" group-title="Canais | ABERTO",RECORD SP
-http://dnscine.top:80/131162716/115444195/130.ts
+http://dnscine.top:80/961529563/138838412/209.ts
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/321e070b769a5d5b5f5e5183212d26fb.webp" group-title="Canais | ABERTO",RECORD RJ
-http://dnscine.top:80/131162716/115444195/256.ts
+http://dnscine.top:80/961529563/138838412/256.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD TVR MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -60,10 +60,10 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/27/b7/MEVII9Z_t.png" group-title="Canais | ABERTO",BAND SP
-http://dnscine.top:80/131162716/115444195/440.ts
+http://dnscine.top:80/961529563/138838412/715.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/27/b7/MEVII9Z_t.png" group-title="Canais | ABERTO",BAND RJ
-http://dnscine.top:80/131162716/115444195/714.ts
+http://dnscine.top:80/961529563/138838412/714.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a5/39/b5/MEVIIA2_t.png" group-title="Canais | ABERTO",BAND PA RBATV
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
@@ -72,7 +72,7 @@ https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/1a/39/MEVIIZR_t.png" group-title="Canais | ABERTO",REDE TV!
-http://dnscine.top:80/131162716/115444195/772.ts
+http://dnscine.top:80/961529563/138838412/133.ts
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1bbe7e180925804f87b2c65989332f33.webp" group-title="Canais | ABERTO",REDE TV! SÃO LUIS
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
@@ -111,7 +111,7 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" group-title="Canais | ABERTO",RBTV
-http://dnscine.top:80/131162716/115444195/323.ts
+http://dnscine.top:80/961529563/138838412/323.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a9/68/4d/MEVIJDE_t.png" group-title="Canais | ABERTO",TV ECOVALE (RBTV)
 https://5ad482a77183d.streamlock.net/portalecovalegmail.com/portalecovalegmail.com/chunklist_w1656396537.m3u8
@@ -233,7 +233,7 @@ http://185.189.225.157/EuroSport2/index.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ab/ee/fb/MEVPS1P_t.png" group-title="Canais | TV A CABO",Tooncast
-http://dnscine.top:80/131162716/115444195/436.ts
+http://dnscine.top:80/961529563/138838412/436.ts
 
 ############################################################################ Canais | FILMES
 
@@ -1676,11 +1676,11 @@ http://24hrs.homelinux.com/24H-avataralendadekorra/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="Canais | INFANTIL 24 HORAS",Ben 10
 http://24hrs.homelinux.com/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/Ben_10_Omniverse.png" group-title="Canais | INFANTIL 24 HORAS",Ben 10 Ominiverse  
-http://15.235.9.200:14819/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/01/Caverna_do_Drag%C3%A3o_Logo.jpg" group-title="Canais | INFANTIL 24 HORAS",Caverna do Dragão  
+http://24hrs.homelinux.com/24H-Caverna.do.dragao.S01E01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8c/b1/36/MEVQFZZ_t.png" group-title="Canais | INFANTIL 24 HORAS",Bob Esponja
-http://24hrs.homelinux.com/24H-bobesponja/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/80/He-Man_e_Gato_Guerreiro.jpg" group-title="Canais | INFANTIL 24 HORAS",He-Man
+http://24hrs.homelinux.com/24H-Heman.S01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ac/f9/30/acf930cff668507f7fe5c8a5008b004d.jpg" group-title="Canais | INFANTIL 24 HORAS",Digimon
 http://24hrs.homelinux.com/24H-digimon/video.m3u8
@@ -1732,23 +1732,23 @@ http://200.194.238.229:8383/live/otaku/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/67/60/19/MEZQU7V_t.png" group-title="Canais | CANAIS DE ANIME",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI Drama
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaidrama&channel_id=newid_239&mpf=9fca42cf-39af1962-ac6f90eb&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=e27c5c4f-88488072-0234db49-ff381ade&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11776
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI Comedy
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaicomedy&channel_id=newid_241&mpf=de505c3a-39af1962-6b0b986a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=61a8487a-07cef829-498a0910-70be6285&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI Scifi
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaisci-fi&channel_id=newid_240&mpf=a9576cac-39af1962-c2b6732f&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=26bbbe81-a88a6a6e-2697f0cd-dffaf0c2&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI Action
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaiaction&channel_id=newid_237&mpf=78726fc8-39af1962-268dcc55&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=fe69d10f-a742609d-75040bac-d032fa31&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI Sports
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaisports&channel_id=newid_238&mpf=e8cd7259-39af1962-6b0dd601&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a56faab4-270c1235-6d292294-507c8899&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI ESPANHOL
-https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6c4c2821-5854-4f49-85be-860c041d1b67/3.m3u8
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaisports&channel_id=newid_238&mpf=e8cd7259-39af1962-6b0dd601&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a56faab4-270c1235-6d292294-507c8899&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
 ############################################################################ Canais | ANIMES 24 HORAS
 
@@ -1818,16 +1818,16 @@ http://24hrs.homelinux.com:80/24H-Jiraya/video.m3u8
 http://24hrs.homelinux.com/24H-jaspion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1b/8f/08/MEVN67I_t.png" group-title="Canais | TOKUSATSU",BLACK KAMEN RIDER
-http://dnscine.top:80/131162716/115444195/202317.ts
+http://dnscine.top:80/961529563/138838412/202317.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1c/c7/05/MEZPYCC_t.png" group-title="Canais | TOKUSATSU",CYBERCOPS
-http://dnscine.top:80/131162716/115444195/202315.ts
+http://dnscine.top:80/961529563/138838412/202315.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/aa/26/08/MEWC8FB_t.png" group-title="Canais | TOKUSATSU",JIBAN
-http://dnscine.top:80/131162716/115444195/202316.ts
+http://dnscine.top:80/961529563/138838412/202316.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Fuun_Lion_Maru_Title_Card.jpg" group-title="Canais | TOKUSATSU",LION MAN
-http://dnscine.top:80/131162716/115444195/202314.ts
+http://dnscine.top:80/961529563/138838412/202314.ts
 
 ############################################################################ Canais | SÉRIES
 
@@ -1898,7 +1898,7 @@ http://24hrs.homelinux.com/24H-chapolin1/tracks-v1a1/mono.m3u8
 http://24hrs.homelinux.com/24H-ummaluconopedaco/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/97/My_Wife_and_Kids_cartaz.jpg/250px-My_Wife_and_Kids_cartaz.jpg" group-title="Canais | SÉRIES",EU A PATROA E AS CRIANÇAS
-http://24hrs.homelinux.com/24H-euapatroaeascriancas7/video.m3u8
+http://dnscine.top:80/961529563/138838412/202249.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Two_and_a_Half_Men_%287%C2%AA_temporada%29.jpg" group-title="Canais | SÉRIES",DOIS HOMENS E MEIO
 http://24hrs.homelinux.com/24H-2HomensEmeio/playlist.m3u8
@@ -3327,17 +3327,17 @@ https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 
 ############################################################################ CANAIS ADULTOS
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3a/ad/8a/MEVRSD4_t.png" group-title="Canais | CANAIS ADULTOS",OLALA EU
-https://live.iptvxxx.net/olala.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_sexy-hot_m.png" group-title="Canais | CANAIS ADULTOS",Sexy Hot
+http://dnscine.top:80/961529563/138838412/764.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/93/3a/MEVRSD1_t.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/93/3a/MEVRSD1_t.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV Link 2
-http://dnscine.top:80/131162716/115444195/763.ts
+http://dnscine.top:80/961529563/138838412/763.ts
 
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2024/07/kinoxxx-logo.png" group-title="Canais | CANAIS ADULTOS",XXX Century
-http://dnscine.top:80/131162716/115444195/283.ts
+#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/playboy-tv-logo.png" group-title="Canais | CANAIS ADULTOS",Playboy TV Europe
+http://newoneblack.site:80/64364184/22749197/232968
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/62/de/MEVRSXM_t.png" group-title="Canais | CANAIS ADULTOS",Miami TV
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
@@ -3345,5 +3345,5 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sm/jenny-for-you.png" group-title="Canais | CANAIS ADULTOS",Jenny For You
 https://59ec5453559f0.streamlock.net/JennyLive/_definst_/JennyLive/chunklist_w1017326126.m3u8
 
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2024/07/kinoxxx-logo.png" group-title="Canais | CANAIS ADULTOS",OnlyFans Andressa Urach
-http://dnscine.top:80/131162716/115444195/439.ts
+#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/nuart-logo.jpeg" group-title="Canais | CANAIS ADULTOS",Nuart
+http://newoneblack.site:80/64364184/22749197/232960
