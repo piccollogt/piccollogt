@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,awtv.cloudecast.com/playout/download_epg.php"  size="Medium"
 
-############################################################################ Canais | ABERTO
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT HD
 http://dnscine.top:80/131162716/115444195/712.ts
@@ -221,8 +220,6 @@ https://video01.logicahost.com.br/ypetv/ypetv/chunklist_w120546675.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c7/92/a5/MEY87RK_t.png" group-title="Canais | ABERTO",UMATV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
 
-############################################################################ Canais | TV A CABO
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/54/36/42/MEWF93W_t.png" group-title="Canais | TV A CABO",Eurosport 1
 http://185.189.225.157/EuroSport1/index.m3u8
 
@@ -234,8 +231,6 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ab/ee/fb/MEVPS1P_t.png" group-title="Canais | TV A CABO",Tooncast
 http://dnscine.top:80/961529563/138838412/436.ts
-
-############################################################################ Canais | FILMES
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bd/99/3e/MEVR5I9_t.png" group-title="Canais | FILMES",TV CNB ORLANDO
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
@@ -422,8 +417,6 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunklist_w1772587480
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4f/cc/38/MEZOYW7_t.png" group-title="Canais | FILMES",TV GRAMADO NET
 https://isaocorp.cloudecast.com/tvgramado/index.m3u8
-
-############################################################################ Canais | VARIEDADES
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0b/90/b1/MEVT3JZ_t.png" group-title="Canais | VARIEDADES",TCM 10 HD
 https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/chunklist_w1089186609.m3u8
@@ -1085,8 +1078,6 @@ https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/03/e0/b6/MEZP0FW_t.png" group-title="Canais | VARIEDADES",CHIC BRASIL TV
 https://stmv2.voxtvhd.com.br/chictv/chictv/playlist.m3u8
 
-############################################################################ Canais | NOTICIAS
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/87/e8/af/MEZQPSP_t.png" group-title="Canais | NOTICIAS",TVD NEWS
 http://201.159.95.110:25461/live/site/site/666.m3u8
 
@@ -1135,8 +1126,6 @@ https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/33/c4/da/MEVJ17Y_t.png" group-title="Canais | NOTICIAS",011 News
 https://011news.akamaized.net/011news/011news/playlist.m3u8
 
-############################################################################ Canais | INTERNACIONAL
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/9b/6c/MEVJ1KX_t.png" group-title="Canais | INTERNACIONAL",TV CARIOCA INTERNACIONAL
 https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/chunklist_w77171480.m3u8
 
@@ -1173,8 +1162,6 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7c/7f/ea/MEVJ1RQ_t.png" group-title="Canais | INTERNACIONAL",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-############################################################################ Canais | AGRONEGÓCIOS
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/16/88/63/MEVJ4NP_t.png" group-title="Canais | AGRONEGÓCIOS",CANAL DO CRIADOR
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 
@@ -1192,8 +1179,6 @@ https://stream01f.netpointcdn.com.br/tvcoopsc/aovivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a0/02/02/MEZPZHS_t.png" group-title="Canais | AGRONEGÓCIOS",TV MILAGRO
 https://cdn-3.nxplay.com.br/TV_MILAGRO/tracks-v1a1/mono.m3u8?token=b242fe2906ea95109729bfdb577864810d1e9435-5428c7f69ccc6bc0b7017704e9185e62-1715823041-1715779841
-
-############################################################################ Canais | GOVERNAMENTAIS
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/36/80/67/MEVJO8Z_t.png" group-title="Canais | GOVERNAMENTAIS",TV Camara De Deputados
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
@@ -1224,8 +1209,6 @@ https://live.stream.al.ms.gov.br/memfs/936d09fa-2827-4002-a58f-085c1826aab9.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f8/0e/e0/MEVJO99_t.png" group-title="Canais | GOVERNAMENTAIS",TV ALRS
 https://ott01.al.rs.gov.br/meevaor/service3/index.m3u8
-
-############################################################################ Canais | EDUCATIVOS
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/38/78/d7/MEVJOJJ_t.png" group-title="Canais | EDUCATIVOS",TV EDUCADORA
 https://srv2.zcast.com.br/radioestereosomdelimeiraltda3080/radioestereosomdelimeiraltda3080/playlist.m3u8
@@ -1278,8 +1261,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsu
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/35/96/ff/MEVJORV_t.png" group-title="Canais | EDUCATIVOS",TV Andradas
 https://caikron.com.br:19360/tvandradas/tvandradas.m3u8
 
-############################################################################ Canais | CATÓLICOS
-
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/thumb-acesso-channel.png" group-title="Canais | CATÓLICOS",ACESSO CHANNEL TV
 https://streaming.cloudecast.com/hls/superflix/index.m3u8
 
@@ -1318,8 +1299,6 @@ https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1c/fd/bf/MEVJSMY_t.png" group-title="Canais | CATÓLICOS",Tv Horizonte
 https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8
-
-############################################################################ Canais | EVANGÉLICOS
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/03/43/8e/MEVKCFI_t.png" group-title="Canais | EVANGÉLICOS",FONTE TV
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist.m3u8
@@ -1432,8 +1411,6 @@ https://stmv4.voxtvhd.com.br/apostoloroberto/apostoloroberto/chunklist_w11228710
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7a/40/20/MEVKGQI_t.png" group-title="Canais | EVANGÉLICOS",GOSPEL MOVIES TELEVISION
 https://stmv1.srvif.com/gospelf/gospelf/chunklist.m3u8
 
-############################################################################ Canais | TELEVENDAS
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/d4/34/MEVKHP1_t.png" group-title="Canais | TELEVENDAS",TCMD TV
 https://stmv2.samcast.com.br/cmdtv/cmdtv/chunklist_w232683533.m3u8
 
@@ -1448,8 +1425,6 @@ https://caikron.com.br:19360/floripa/canal1.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5f/c1/df/MEVKHOF_t.png" group-title="Canais | TELEVENDAS",TV TUDO BH
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
-
-############################################################################ Canais | ESPORTES
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5b/cb/26/MEVKYHT_t.png" group-title="Canais | ESPORTES",ESPORTES BRASILIA
 https://a.cdni.live/radioesporte/radioesporte/chunklist_w1584452734.m3u8
@@ -1523,8 +1498,6 @@ https://pop.uniquetv.com.br/uniquesports3/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e7/c3/f4/MEZP2WJ_t.png" group-title="Canais | ESPORTES",AUTO TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 
-############################################################################ Canais | NOVELAS
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2a/d9/16/MEVL2O7_t.png" group-title="Canais | NOVELAS",Malhação Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 
@@ -1564,13 +1537,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/24f771e907d130947dd8a12946a4908d.webp" group-title="Canais | NOVELAS", WE DO TV AMOR
 https://video-solutions-ag-anacarolina-1-br.samsung.wurl.tv/playlist.m3u8
 
-############################################################################ Canais | INFANTIL
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e3/dc/f5/MEVPRQN_t.png" group-title="Canais | INFANTIL",MI TV
 https://stmv4.voxtvhd.com.br/1990/1990/chunklist_w306880476.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/63/d9/20/MEVPRQG_t.png" group-title="Canais | INFANTIL",F. Kids Network
-https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fe/2d/7b/MEVPRQW_t.png" group-title="Canais | INFANTIL",RETRO CARTOON
 https://stmv6.voxtvhd.com.br/retrotv/retrotv/playlist.m3u8
@@ -1665,8 +1636,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafd
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/44/c7/e0/MEZQR8A_t.png" group-title="Canais | INFANTIL",PLUTO TV CINEMINHA
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-############################################################################ Canais | INFANTIL 24 HORAS
-
 #EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/7444/eddc0f61649cd267204aea2adbcba4439991d9car1-1000-1000v2_00.jpg" group-title="Canais | INFANTIL 24 HORAS",Avatar A Lenda de Aang
 http://24hrs.homelinux.com/24H-avataralendadeaang/video.m3u8
 
@@ -1709,8 +1678,6 @@ http://24hrs.homelinux.com/24H-caocoragem/video.m3u8?
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b5/4c/bc/b54cbcafc147ee538859d90aaccf0f5b.jpg" group-title="Canais | INFANTIL 24 HORAS",Tartaruga Touche
 http://24hrs.homelinux.com/24H-tartarugatuche/video.m3u8
 
-############################################################################ Canais | CANAIS DE ANIME
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9f/b6/39/MEVL3YJ_t.png" group-title="Canais | CANAIS DE ANIME",Anime Tv
 https://stmv6.voxtvhd.com.br/animetv/animetv/playlist.m3u8
 
@@ -1749,8 +1716,6 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeone
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI ESPANHOL
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=animeonegaisports&channel_id=newid_238&mpf=e8cd7259-39af1962-6b0dd601&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a56faab4-270c1235-6d292294-507c8899&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-############################################################################ Canais | ANIMES 24 HORAS
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7b/84/f3/MEZQQZ0_t.png" group-title="Canais | ANIMES 24 HORAS",Jojo's Bizarre adventure
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c7982f6838ee00085f0d24/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
@@ -1803,8 +1768,6 @@ http://24hrs.homelinux.com/24H-cavaleiros/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/streetfighter/images/5/59/Street-Fighter-2-V.jpg/revision/latest?cb=20091213215253" group-title="Canais | ANIMES 24 HORAS",Street Fighter Victory
 http://24hrs.homelinux.com:80/24H-Street.Fighter.S01/video.m3u8
 
-############################################################################ Canais | TOKUSATSU
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/7f/a5/MEVN67J_t.png" group-title="Canais | TOKUSATSU",Tokusato
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -1828,8 +1791,6 @@ http://dnscine.top:80/961529563/138838412/202316.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Fuun_Lion_Maru_Title_Card.jpg" group-title="Canais | TOKUSATSU",LION MAN
 http://dnscine.top:80/961529563/138838412/202314.ts
-
-############################################################################ Canais | SÉRIES
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ce/ff/07/MEVLPX9_t.png" group-title="Canais | SÉRIES",SÉRIES CLASSIC
 https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w1996828726.m3u8
@@ -1909,16 +1870,14 @@ http://24hrs.homelinux.com/24H-tresedemais/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Gangnam_Beauty_Drama_logo.png" group-title="Canais | SÉRIES",Minha Identidade e Beleza de Gangnam
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=minhaidentidade%C3%A9belezadegangnam&channel_id=newid_233
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Rede_Brasileira_de_Televis%C3%A3o_Internacional.png" group-title="Canais | SÉRIES",RBTI
-https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/tracks-v1a1/mono.m3u8?token=abc4c3cbedbbf7ba1c291b634885ddcae5100066-70d372a2bccdfcf7386c2385a45c1cd7-1731305419-1731262219
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d14f93731e74194bccfccf86df7e019f.webp" group-title="Canais | SÉRIES",FilmRise Séries Gratuitas
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889320
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60e3d0eb291c1c86f567c06f75642620.webp" group-title="Canais | SÉRIES",FREE TV CRIME
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/508d57285ddb9547199cbede4ba72f19.webp" group-title="Canais | SÉRIES",FREE TV DRAMA
 https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
-
-############################################################################ Canais | MTV
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ae/11/87/MEVN74D_t.png" group-title="Canais | MTV",MTV Com o Ex
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1940,8 +1899,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/17/bf/2f/MEVN74B_t.png" group-title="Canais | MTV",MTV Jovens e Mães
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-############################################################################ Canais | SAMSUNG TV
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d6/fc/a5/MEVNTS1_t.png" group-title="Canais | SAMSUNG TV",cultne.TV
 https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
@@ -2005,8 +1962,6 @@ https://lotus.stingray.com/manifest/naturescape-a003s-montreal/samsungbr/master.
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoUPrKWNqi2MZrc0IAX9sEjOQ_cyXmP3C2CQ&s" group-title="Canais | SAMSUNG TV",TV FLOW
 https://gpf-tvfl-samsungtvplus-br.otteravision.com/gpf/tvfl/tvfl_h265.m3u8
-
-############################################################################ Canais | PLUTO TV
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/41/e9/MEVOEN7_t.png" group-title="Canais | PLUTO TV",Pluto TV Filmes Ação
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -2113,8 +2068,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8c
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbs4.imagebam.com/24/41/e9/MEVOEN7_t.png" group-title="Canais | PLUTO TV",Pluto TV Minha Obsessão Favorita
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-############################################################################ Canais | RUNTIME
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/eb/a8/0f/MEVNVE2_t.png" group-title="Canais | RUNTIME",RUN TIME TV
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 
@@ -2142,8 +2095,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/eb/a8/0f/MEVNVE2_t.png" group-title="Canais | RUNTIME",RUN TIME FAMILIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
-############################################################################ Canais | URBAN
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/87/61/11/MEVNVG4_t.png" group-title="Canais | URBAN",URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
@@ -2165,8 +2116,6 @@ http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/96/f7/2d/MEVNVGA_t.png" group-title="Canais | URBAN",URBAN TURBO
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
-############################################################################ Canais | HALLO!
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/06/cb/d5/MEZREKN_t.png" group-title="Canais | HALLO!",Hallo! Anime
 https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
 
@@ -2187,8 +2136,6 @@ https://cdn-3.nxplay.com.br/HALLOMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e0/e9/ef/MEZREKI_t.png" group-title="Canais | HALLO!",Hallo! Doc
 https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
-
-############################################################################ Canais | COMÉDIA
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/e4/b8/MEVNZTO_t.png" group-title="Canais | COMÉDIA",ICARLY
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2216,22 +2163,6 @@ http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Os_Trapalh%C3%B5es_%28logotipo_1984-1989%29.webp" group-title="Canais | COMÉDIA",Os Trapalhões
 http://24hrs.homelinux.com/24H-ostrapalhoes/video.m3u8
-
-############################################################################ Canais | KPOP
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7f/9b/8d/MEVNVBD_t.png" group-title="Canais | KPOP",Kpop TV Play
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ca/4c/e5/MEVNVBF_t.png" group-title="Canais | KPOP",New Kpop BR
-https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ca/4c/e5/MEVNVBF_t.png" group-title="Canais | KPOP",New Kpop MX
-https://newidco-newkid-1-mx.lg.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ca/4c/e5/MEVNVBF_t.png" group-title="Canais | KPOP",New Kpop CA
-https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
-
-############################################################################ Canais | VIDEOCLIPES MUSICAL
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/46/8e/da/MEVOEXH_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
@@ -2467,748 +2398,6 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/77/87/4c/MEZP61P_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",SWR3
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 
-############################################################################ Radios | RADIO ONLINE
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/54/8b/d5/MEVWB34_t.png" group-title="Radios | RADIO ONLINE",Jovem Pan - 100.9 FM 
-https://stream-166.zeno.fm/c45wbq2us3buv?zs=cd8tw3RUSWmgS67GIjYKcw
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2b/9f/da/MEVWB35_t.png" group-title="Radios | RADIO ONLINE",Jovem Pan - Grande Porto Alegre 90.7 FM
-http://centova6.ciclanohost.com.br:9256/;
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/77/3c/2a/MEVWB32_t.png" group-title="Radios | RADIO ONLINE",Jovem Pan - Campinas 89.9 FM
-http://paineldj2.com.br:8200/
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a3/e6/89/MEVWB33_t.png" group-title="Radios | RADIO ONLINE",Jovem Pan - Bauru 95.5 FM
-http://hts04.kshost.com.br:10226/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/11/1b/ae/MEVWB36_t.png" group-title="Radios | RADIO ONLINE",Jovem Pan - Natal 89.9 FM
-https://pannatal.jmvstream.com/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6d/dd/00/MEVWA2U_t.png" group-title="Radios | RADIO ONLINE",Rádio Jangadeiro 88.9 FM
-https://stream.zeno.fm/xuh02vfzurhvv
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/85/1b/4d/MEVWBJS_t.png" group-title="Radios | RADIO ONLINE",Rádio Gaúcha - 93.7 FM
-https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/chunklist_57bd4b6c-1f8b-4604-a96f-2ef2c6de8219.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/09/17/94/MEVWBJU_t.png" group-title="Radios | RADIO ONLINE",Rádio BandNews SP 96.9 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.aac?dist=radios.com.br
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/dd/c0/b0/MEZP7KL_t.png" group-title="Radios | RADIO ONLINE",Rádio Disney 91.3 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/43/6f/a8/MEVWBJX_t.png" group-title="Radios | RADIO ONLINE",Antena 1 SP
-https://antenaone.crossradio.com.br/stream/1;?type=mp4
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/43/6f/a8/MEVWBJX_t.png" group-title="Radios | RADIO ONLINE",Antena 1 RJ
-http://a1rj.streams.com.br:7801/sm
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/14/22/e5/MEVWBJV_t.png" group-title="Radios | RADIO ONLINE",CANAÃ FM 93.5
-http://stream1.svrdedicado.org/8006/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b7/00/c4/MEVWBJZ_t.png" group-title="Radios | RADIO ONLINE",Difusora Acreana
-http://midia.ac.gov.br/difusora
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/32/49/60/MEVWECR_t.png" group-title="Radios | RADIO ONLINE",Rádio Atlântida FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9c/ac/a8/MEVWECS_t.png" group-title="Radios | RADIO ONLINE",Rádio Novo Tempo FM
-http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/35/e3/01/MEVWECW_t.png" group-title="Radios | RADIO ONLINE",Rádio Itapema FM
-http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c4/11/16/MEVWECU_t.png" group-title="Radios | RADIO ONLINE",104 FM (Porto Alegre)
-http://cast4.audiostream.com.br:8651/mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ba/9b/86/MEVWECN_t.png" group-title="Radios | RADIO ONLINE",Radio 107 FM
-https://ice.fabricahost.com.br/107fm
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/06/26/98/MEVWECY_t.png" group-title="Radios | RADIO ONLINE",107.5 Educadora FM
-https://stm2.jnbhost.com.br:7116/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/85/b1/MEVWECX_t.png" group-title="Radios | RADIO ONLINE",A RADIO ROCK 89 FM - São Paulo
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/28/9d/25/MEVWECT_t.png" group-title="Radios | RADIO ONLINE",89 - A Radio Rock de Goiania
-https://ice.fabricahost.com.br/89aradiorockgo
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a9/27/e2/MEVWECZ_t.png" group-title="Radios | RADIO ONLINE",Caiçara FM
-http://cast4.audiostream.com.br:8654/mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6e/70/5d/MEVWECV_t.png" group-title="Radios | RADIO ONLINE",CAMPINA FM
-http://cast61.sitehosting.com.br:9962/live?1583625618600
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ee/40/77/MEVWECQ_t.png" group-title="Radios | RADIO ONLINE",CBN Joao Pessoa FM 101.7
-https://radios.cabobranco.tv.br:8443/cbnjp/cbnjp.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ee/40/77/MEVWECQ_t.png" group-title="Radios | RADIO ONLINE",CBN Maceió
-http://v3.directradios.com:8229/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ee/40/77/MEVWECQ_t.png" group-title="Radios | RADIO ONLINE",CBN Recife 105.7
-https://video09.logicahost.com.br/cbnrecife/cbnrecife/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e8/1f/f0/MEVWECP_t.png" group-title="Radios | RADIO ONLINE",Energia Retrô
-http://stream.zeno.fm/qez1mu8dys8uv
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/31/db/f9/MEVWF2B_t.png" group-title="Radios | RADIO ONLINE",Kiss FM 92,5
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM_ADP.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/63/8a/fe/MEVWF2F_t.png" group-title="Radios | RADIO ONLINE",Rádio Clube FM 99.1 - Recife
-https://radio.saopaulo01.com.br:10913/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0c/20/07/MEVWF29_t.png" group-title="Radios | RADIO ONLINE",Rádio Clube 105.5 FM - Brasília
-https://8157.brasilstream.com.br/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1a/bc/bb/MEVWF2G_t.png" group-title="Radios | RADIO ONLINE",Continental AM 1120 Porto Alegre
-http://streaming10.hstbr.net:8042/live
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5b/ef/26/MEVWF1V_t.png" group-title="Radios | RADIO ONLINE",Continental FM
-http://cast4.audiostream.com.br:8650/mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2e/bc/c4/MEVWF2L_t.png" group-title="Radios | RADIO ONLINE",Felicidade 90.3
-http://centova10.ciclanohost.com.br:9230/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/42/1e/47/MEVWF1Y_t.png" group-title="Radios | RADIO ONLINE",FM Vale Verde
-https://ice.fabricahost.com.br/fmvaleverde
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0d/9d/4d/MEVWF2J_t.png" group-title="Radios | RADIO ONLINE",Gazeta FM
-https://shout25.crossradio.com.br:18002/stream?1653871644022
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c2/37/71/MEVWF21_t.png" group-title="Radios | RADIO ONLINE",Energia 97
-https://streaming.inweb.com.br/energia
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0d/2f/77/MEVWF1U_t.png" group-title="Radios | RADIO ONLINE",ATIVIDADE FM 87.9 Canudos BA
-https://1.stmip.net:8070/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3b/02/91/MEVWF24_t.png" group-title="Radios | RADIO ONLINE",JERE FM 106.9 JEREMOABO BA
-http://172.82.160.250:8309/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/88/ca/11/MEVWF2H_t.png" group-title="Radios | RADIO ONLINE",Gospel Internacional
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/95/81/71/MEVWF27_t.png" group-title="Radios | RADIO ONLINE",Alpha FM 102.1 MHz (Goiânia - GO)
-https://ice.fabricahost.com.br/alphafm1021
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/83/8b/99/MEVWF2I_t.png" group-title="Radios | RADIO ONLINE",Hunter FM - Hits Brasil
-https://live.hunter.fm/hitsbrasil_normal
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a8/5f/10/MEVWFOK_t.png" group-title="Radios | RADIO ONLINE",Transamérica 100.1 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a8/5f/10/MEVWFOK_t.png" group-title="Radios | RADIO ONLINE",Transamérica 92.7 FM - Recife / PE
-https://playerservices.streamtheworld.com/api/livestream-redirect/RT_RECAAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a8/5f/10/MEVWFOK_t.png" group-title="Radios | RADIO ONLINE",Transamérica 88.7 FM - Belo Horizonte / MG
-https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a8/5f/10/MEVWFOK_t.png" group-title="Radios | RADIO ONLINE",Transamérica 99.7 FM - Balneário Camboriú / SC
-https://radio02.zas.media/proxy/trans99/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a8/5f/10/MEVWFOK_t.png" group-title="Radios | RADIO ONLINE",Transamérica 100.3 FM - Curitiba / PR
-https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CWBAAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a8/5f/10/MEVWFOK_t.png" group-title="Radios | RADIO ONLINE",Transamérica 100.1 FM - Brasília / DF
-https://playerservices.streamtheworld.com/api/livestream-redirect/RT_DFAAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/78/db/MEVWFOJ_t.png" group-title="Radios | RADIO ONLINE",Mix 106.3 FM - São Paulo
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/78/db/MEVWFOJ_t.png" group-title="Radios | RADIO ONLINE",Mix - Campinas
-https://21933.live.streamtheworld.com/MIXFM_CAMPINASAAC.aac?1649900088068
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/78/db/MEVWFOJ_t.png" group-title="Radios | RADIO ONLINE",Mix FM - Porto Alegre
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_POAAAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/78/db/MEVWFOJ_t.png" group-title="Radios | RADIO ONLINE",Mix - Recife 97.1 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_RECIFE971AAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/78/db/MEVWFOJ_t.png" group-title="Radios | RADIO ONLINE",Mix 102.1 FM - Rio de Janeiro
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXRIOAAC_SC.aac?dist=radioscombr
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/78/db/MEVWFOJ_t.png" group-title="Radios | RADIO ONLINE",Mix 91.3 FM - Florianópolis / SC
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_FLORIANOPOLIS.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/78/db/MEVWFOJ_t.png" group-title="Radios | RADIO ONLINE",Mix 100.7 FM - Manaus / AM
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_MANAUSAAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/78/db/MEVWFOJ_t.png" group-title="Radios | RADIO ONLINE",Mix 100.9 FM - Belém / PA
-https://www.bravecenterhost.com:8012/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/78/db/MEVWFOJ_t.png" group-title="Radios | RADIO ONLINE",Mix 102.9 FM - Londrina / PR
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_LONDRIN1029AAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/78/db/MEVWFOJ_t.png" group-title="Radios | RADIO ONLINE",Mix 103.3 FM - Arapiraca / AL
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_ARAPIRACAAAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/78/db/MEVWFOJ_t.png" group-title="Radios | RADIO ONLINE",Mix 103.9 FM - Natal / RN
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_NATALAAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/78/db/MEVWFOJ_t.png" group-title="Radios | RADIO ONLINE",Mix 104.1 FM Sul de Minas - Guaranésia / MG
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SULMG.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/78/db/MEVWFOJ_t.png" group-title="Radios | RADIO ONLINE",Mix 104.3 FM - Salvador / BA
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SALVADORAAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/78/ae/d6/MEVWG5O_t.png" group-title="Radios | RADIO ONLINE",Mundo Livre FM Londrina 93,1
-https://rrdns-continental.webnow.com.br/mllondrina.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a8/55/bf/MEVWG5T_t.png" group-title="Radios | RADIO ONLINE",Nativa FM 103.1 - Joinville
-https://stream.loopert.com/stream/1
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/62/fc/d4/MEVWG5Q_t.png" group-title="Radios | RADIO ONLINE",Nova Brasil RJ 89.5
-https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/65/cd/48/MEVWG5M_t.png" group-title="Radios | RADIO ONLINE",Rádio Nova Quilombo 100.9 FM
-https://04.painelstreaming.com.br:27122/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cf/48/1b/MEVWG5K_t.png" group-title="Radios | RADIO ONLINE",Rádio Nova Líder 96.7 FM
-http://stm.rodrigoti.com.br:27128/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/55/53/8a/MEVWG5I_t.png" group-title="Radios | RADIO ONLINE",Cultura dos Palmares 88.9 FM
-https://03.painelstreaming.com.br:27080/;
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/77/6e/a6/MEZP7KM_t.png" group-title="Radios | RADIO ONLINE",Rádio Cidade 87.9 FM - Palmares / PE
-https://server14.srvsh.com.br:7114/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/eb/f7/5f/MEVWG5V_t.png" group-title="Radios | RADIO ONLINE",Farol 90.7 FM
-https://04.painelstreaming.com.br:27120/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a1/7c/b7/MEVWG5J_t.png" group-title="Radios | RADIO ONLINE",Rádio FM Maranhão do Sul
-http://hd3.matutos.com.br:8394/stream?1561472887177
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ba/cf/a5/MEVWG5U_t.png" group-title="Radios | RADIO ONLINE",Play FM - Birigui
-http://187.17.175.143:3259/stream?1653869498990
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/41/97/MEVWG5S_t.png" group-title="Radios | RADIO ONLINE",PLUS FM CARIRI 100.5MHz
-http://webradio.amsolution.com.br/radio/8140/cariri
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/13/44/dc/MEVX0BB_t.png" group-title="Radios | RADIO ONLINE",Rádio Alvorada
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/59/84/e3/MEVX0AZ_t.png" group-title="Radios | RADIO ONLINE",Rádio Folha de Pernambuco 96.7 FM
-https://radio.saopaulo01.com.br/8210/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2c/59/34/MEVX0BE_t.png" group-title="Radios | RADIO ONLINE",Super Rádio Tupi 96.5 FM
-https://8923.brasilstream.com.br/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/28/a4/df/MEVX0AX_t.png" group-title="Radios | RADIO ONLINE",Band FM 96.1 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC.aac?dist=radios.com.br
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2e/7d/d9/MEVX0B7_t.png" group-title="Radios | RADIO ONLINE",Metropolitana 98.5 FM
-https://ice.fabricahost.com.br/metropolitana985sp
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/48/ad/8b/MEVX0BA_t.png" group-title="Radios | RADIO ONLINE",Aparecida 104.3 FM
-https://aparecida.jmvstream.com/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7d/4b/85/MEVX0B2_t.png" group-title="Radios | RADIO ONLINE",Rádio 92.3 FM
-https://centova.svdns.com.br:20024/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/16/aa/be/MEVX0B4_t.png" group-title="Radios | RADIO ONLINE",Rádio Bandeirantes 840 AM 90.9 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.aac?dist=radios.com.br
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f7/fb/e7/MEVX0B0_t.png" group-title="Radios | RADIO ONLINE",Rádio 98.1 FM
-https://9526.brasilstream.com.br/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a7/a9/ce/MEVX0AY_t.png" group-title="Radios | RADIO ONLINE",Rádio Cidade 87.9 FM
-https://08.stmip.net:8550/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/47/f2/ec/MEVX0B6_t.png" group-title="Radios | RADIO ONLINE",Rádio Liberdade 92.9 FM
-https://8335.brasilstream.com.br/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/00/4b/84/MEVX0B8_t.png" group-title="Radios | RADIO ONLINE",Rádio Cidade Verde 93.5 FM
-https://ssl1.transmissaodigital.com:20010/;
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f2/91/5f/MEVX1AD_t.png" group-title="Radios | RADIO ONLINE",Rádio Clube News 90.9 FM
-https://servidor14-3.brlogic.com:7540/live
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/36/a9/95/MEVX1AG_t.png" group-title="Radios | RADIO ONLINE",Rádio Grenal 95.9 FM
-https://grenal.audiostream.com.br:20000/mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a0/db/f3/MEVX1AN_t.png" group-title="Radios | RADIO ONLINE",Rádio Hits 106.9 FM
-https://wz7.servidoresbrasil.com:9984/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/66/c6/2e/MEVX1AH_t.png" group-title="Radios | RADIO ONLINE",Rádio CV Mais 97.5 FM
-https://ssl1.transmissaodigital.com:20098/;
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/29/bb/ea/MEVX1AC_t.png" group-title="Radios | RADIO ONLINE",Rádio Canção Nova 89.1 FM
-https://cloud1.cdnseguro.com:20038/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/54/2c/3d/MEVX1AF_t.png" group-title="Radios | RADIO ONLINE",Rádio JB 99.9 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.aac?dist=radios.com.br
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d8/92/b9/MEVX1AO_t.png" group-title="Radios | RADIO ONLINE",Rádio Super Amazônia Brasil
-https://s11.maxcast.com.br:8050/live
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/56/4e/MEVX1AE_t.png" group-title="Radios | RADIO ONLINE",Radio Energy 104.2 FM - Moscow / Russia
-https://pub0101.101.ru/stream/air/aac/64/99
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/56/4e/MEVX1AE_t.png" group-title="Radios | RADIO ONLINE",Radio Energy 100.3 FM - Paris / França
-https://scdn.nrjaudio.fm/adwz1/fr/30043/aac_64.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/56/4e/MEVX1AE_t.png" group-title="Radios | RADIO ONLINE",Radio Energy Sverige 105.1 FM - Estolcomo / Suécia
-https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_aacp
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/56/4e/MEVX1AE_t.png" group-title="Radios | RADIO ONLINE",Radio Energy Energy 100.6 FM - Oslo / Noruega
-https://nrj.p4groupaudio.com/NRJ_MM
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/56/4e/MEVX1AE_t.png" group-title="Radios | RADIO ONLINE",Radio Energy Energy 102.6 FM - Pointe a Pitre / Guadalupe
-https://scdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/56/4e/MEVX1AE_t.png" group-title="Radios | RADIO ONLINE",Radio Energy Energy Réunion 100 FM - Saint-Denis / Reunião
-https://scdn.nrjaudio.fm/adwz1/fr_re/55759/mp3_128.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/56/4e/MEVX1AE_t.png" group-title="Radios | RADIO ONLINE",Radio Energy Energy Leman 103.6 FM - Genebra / Suíça
-https://scdn.nrjaudio.fm/audio1/ch/50001/aac_64.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/56/4e/MEVX1AE_t.png" group-title="Radios | RADIO ONLINE",Radio Energy Energy 93.2 FM - Tallinn / Estónia
-https://stream.skymedia.ee/live/NRJ
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/56/4e/MEVX1AE_t.png" group-title="Radios | RADIO ONLINE",Radio Energy Energy Antilles 104.4 FM - Fort-de-France / Martinica
-https://scdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0a/6c/58/MEVX1AK_t.png" group-title="Radios | RADIO ONLINE",Radio NRJ Energy Hits 90
-https://play.global.audio/energy-90s
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7e/0f/98/MEVX1AI_t.png" group-title="Radios | RADIO ONLINE",Radio NRJ Gangsta Rap
-https://scdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e3/bd/f3/MEVX1AL_t.png" group-title="Radios | RADIO ONLINE",Radio NRJ Latin Hits
-https://scdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/39/d8/55/MEVX1AQ_t.png" group-title="Radios | RADIO ONLINE",Rádio Globo RJ 98.1 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=radioscombr
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/19/1f/a3/MEVX4B0_t.png" group-title="Radios | RADIO ONLINE",Rádio Estância 94.3 FM
-https://r13.ciclano.io/proxy/radioes1/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2e/27/68/MEVX4B4_t.png" group-title="Radios | RADIO ONLINE",Rádio Evangelizar 90.7 FM
-https://8241.brasilstream.com.br/stream?origem=radios.com.br
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2e/27/68/MEVX4B4_t.png" group-title="Radios | RADIO ONLINE",Rádio Evangelizar Easy 96.7 FM
-https://8272.brasilstream.com.br/stream?origem=radios.com.br
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/58/4c/9a/MEVX4AQ_t.png" group-title="Radios | RADIO ONLINE",VIP FM
-https://streaming.inweb.com.br/vipfm1
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/dc/b6/bb/MEVX4AS_t.png" group-title="Radios | RADIO ONLINE",Rádio Anime Night
-https://stm1.brsrv.xyz:7028/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5e/8d/d1/MEVX4B8_t.png" group-title="Radios | RADIO ONLINE",Rádio Animu
-https://cast.animu.com.br:9079/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/13/af/7a/MEVX4AU_t.png" group-title="Radios | RADIO ONLINE",Rádio J-Hero
-https://stm1.radiojhero.com:18008/;?type=http
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/04/25/87/MEVX4B6_t.png" group-title="Radios | RADIO ONLINE",Rádio Blast!
-https://centova4.transmissaodigital.com:20143/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/37/0c/MEVX4BC_t.png" group-title="Radios | RADIO ONLINE",Rádio Doru
-https://paineldj6.com.br:20038/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ee/2c/ed/MEVX4AM_t.png" group-title="Radios | RADIO ONLINE",Rádio AMC
-https://radioamc.com.br/stream/amc
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8f/7a/88/MEVX4AY_t.png" group-title="Radios | RADIO ONLINE",Rádio K
-https://ec5.yesstreaming.net:1430/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/44/c1/70/MEVX4AT_t.png" group-title="Radios | RADIO ONLINE",Rádio Nikkey
-https://stm8.voxhd.com.br:7996/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a7/be/1c/MEVX4B2_t.png" group-title="Radios | RADIO ONLINE",Rádio Okinawa
-https://hts05.brascast.com:9080/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bc/c9/69/MEVX4AW_t.png" group-title="Radios | RADIO ONLINE",Rádio Fm Kpop Hits
-https://paineldj5.com.br:20130/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c3/05/99/MEVX4UT_t.png" group-title="Radios | RADIO ONLINE",Rádio Massa 94.5 FM
-https://ice.fabricahost.com.br/biancafmpr
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1d/ee/d7/MEVX4UV_t.png" group-title="Radios | RADIO ONLINE",Rádio Alternativa
-https://conecta.welltecnologia.com.br/radio/8200/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c0/20/be/MEVX4UW_t.png" group-title="Radios | RADIO ONLINE",Rádio Cidade 87.9 FM
-https://server14.srvsh.com.br:7114/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c2/9c/4e/MEVX4US_t.png" group-title="Radios | RADIO ONLINE",Rádio Record 1000 AM
-https://stm10.voxhd.com.br:9702/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d8/11/7d/MEVX4V1_t.png" group-title="Radios | RADIO ONLINE",Lupa 1 FM 94.5
-https://streaming.livespanel.com:9450/lupa1fm
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9f/01/77/MEVX4V0_t.png" group-title="Radios | RADIO ONLINE",Interaudio Light
-https://str1.castradios.com.br/8012/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/57/28/c9/MEVX4UZ_t.png" group-title="Radios | RADIO ONLINE",Excesso FM 102.1
-https://excessocast.com.br/listen/recife/recife
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/13/e2/MEVX4UX_t.png" group-title="Radios | RADIO ONLINE",Rádio RBC Boas Novas 93.3 FM
-https://directradios.net/proxy/rbc2?mp=/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b6/79/b8/MEVX4UY_t.png" group-title="Radios | RADIO ONLINE",Rádio Tribuna 107.9 FM
-https://everest.radionanet.com:1090/stream
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio R&B
-https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio K-Pop
-https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Gospel Internacional
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Gospel
-https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Reggae
-https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Forró
-https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Pop
-https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Latina
-https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Eletrônica
-https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Hip-Hop
-https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Pop Rock
-https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Funk
-https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Pagode
-https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Rock
-https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio MPB
-https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Sertanejo
-https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Sertanejo Romântico
-https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Anos 80
-https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Anos 90
-https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Anos 2000
-https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Pop Nacional
-https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Pop Rock Nacional
-https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio J-Pop
-https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/33/ee/MEVX5N8_t.png" group-title="Radios | RADIO ONLINE",Rádio Românticas
-https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
-
-############################################################################ Canais | ESTUDIOS DE RADIO
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/04/70/f1/MEVRVWJ_t.png" group-title="Canais | ESTUDIOS DE RADIO",SUCESSO NEWS FM 100.5
-https://sucessonews.brasilstream.com.br/hls/sucessonews/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/15/e9/b5/MEVRVW8_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO BLINK 102.7
-https://video08.logicahost.com.br/blinkvideo08/blinkvideo08/chunklist_w2090174935.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b7/b1/07/MEVRVWS_t.png" group-title="Canais | ESTUDIOS DE RADIO",Radio Clube Fm 105.5
-https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/00/ee/MEVRVWT_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO INTERATIVA 94.9 FM
-https://video09.logicahost.com.br/interativafm/interativafm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/46/ca/85/MEVRVWE_t.png" group-title="Canais | ESTUDIOS DE RADIO",Catve FM Cascavel 91.7
-https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1271267588.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/46/ca/85/MEVRVWE_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO  CATVE FM 91.7
-https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w2049926298.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5e/c7/cd/MEVRVWG_t.png" group-title="Canais | ESTUDIOS DE RADIO",Catve FM Foz 91.9
-https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1341218980.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/82/f4/21/MEVSC2Q_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO CLUBE FM 104.7 (SÃO CARLOS)
-https://live.cdn.upx.com/5e5c_4/myStream.sdp/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/00/b8/de/MEVRVWU_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO CLUBE FM 100.5 (RIBEIRÃO PRETO)
-https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8f/ba/3f/MEVRVWR_t.png" group-title="Canais | ESTUDIOS DE RADIO",Rede Metropolitana
-https://cdn.cdnseguro.com/metropolitana2/metropolitana2/chunklist_w1056578490.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/89/84/ab/MEVRVWQ_t.png" group-title="Canais | ESTUDIOS DE RADIO",SUPRA FM
-https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a5/3a/12/MEVRVWL_t.png" group-title="Canais | ESTUDIOS DE RADIO",Radio Difusora FM 98.9
-https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/44/38/ce/MEVRVWB_t.png" group-title="Canais | ESTUDIOS DE RADIO",Radio Yguazú
-https://live.enhdtv.com:8081/radioiguazutv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/55/5d/MEVRVWV_t.png" group-title="Canais | ESTUDIOS DE RADIO",Radio Planalto FM 105.9
-https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2116023340.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/db/ed/39/MEVRVWN_t.png" group-title="Canais | ESTUDIOS DE RADIO",Gospel FM
-https://virtues.es:1936/gospel90/gospel90/chunklist_w1194472670.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3a/c3/6c/MEVRWMC_t.png" group-title="Canais | ESTUDIOS DE RADIO",87,7 FM Tres Rios
-https://6mngseslsw.zoeweb.tv/z609-live/stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/eb/bb/d0/MEVRWMN_t.png" group-title="Canais | ESTUDIOS DE RADIO",Radio Ovacion
-https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_w418348153.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/ac/a4/MEVRWMH_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO DIFUSORA FM 95.3 FM
-https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/22/c0/6e/MEVRWMM_t.png" group-title="Canais | ESTUDIOS DE RADIO",WOCM Ocean 98.1 FM
-https://5790d294af2dc.streamlock.net/8258/8258/chunklist_w1379876665.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/41/54/54/MEVRWMI_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO VOZ MISSIONÁRIA
-https://tv01.zas.media:1936/vozmissionaria/vozmissionaria/chunklist_w353683795.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1e/cb/25/MEVRWMJ_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO TRANS MUNDIAL
-https://video.midiaserverbr.com:3975/live/rtmbrlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9c/bc/b2/MEVRWMF_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO TROPICAL TARAPOTO
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f6/6c/64/MEVSBE8_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO Q MUSIC
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/07/cb/7b/MEVSBED_t.png" group-title="Canais | ESTUDIOS DE RADIO",ON FM
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w265505462.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/84/b7/4b/MEVSBE3_t.png" group-title="Canais | ESTUDIOS DE RADIO",RADIO M20
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a1/2a/a0/MEVSBE5_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO MONTANHESA ERVALIA
-https://qfm.geraistec.com.br:4433/hlsmErv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a1/2a/a0/MEVSBE5_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO MONTANHESA VIÇOSA
-https://qfm.geraistec.com.br:4433/hlsm/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/80/71/cc/MEVSBDX_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO FM O DIA
-https://cdn.livespanel.com/live/fmodia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/52/7e/67/MEVSBDY_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO FM LIBERDADE
-https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840468865704000
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/93/3f/11/MEVSBEE_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO ESTÚDIO A FM 87.5
-https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w428511670.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7e/4c/bf/MEVSBDZ_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO D2 FM 95.3
-https://s1.tvr.ovh/ibraim3622/ibraim3622/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/54/7d/6e/MEVSBE9_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO DIAMANTINA FM
-https://chapada.brasilstream.com.br/hls/chapada/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ae/10/ce/MEVSCXR_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO CIDADE VERDE 93.5
-https://stmv1.transmissaodigital.com/cidadeverde2/cidadeverde2/chunklist_w1648114693.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6d/fa/e7/MEVSCXU_t.png" group-title="Canais | ESTUDIOS DE RADIO",RADIO CAPITAL
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b2428000.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2b/9e/f4/MEVSCXN_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO 95.1 CULTURA FM (UBERLANDIA)
-https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8?token=10421204717422428000
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/56/a0/40/MEVSCXP_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO 95+ FM 
-https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1824512953.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/60/eb/25/MEVSCXM_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO 98 FM (CAMPO FORMOSO)
-https://5a57bda70564a.streamlock.net/98fmtv/98fmtv.sdp/chunklist_w1447228225.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/83/e4/df/MEVSCXK_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO 102.7 FM
-https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/23/3a/bc/MEZP84O_t.png" group-title="Canais | ESTUDIOS DE RADIO",106 Sertaneja
-https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7a/9b/24/MEZP80N_t.png" group-title="Canais | ESTUDIOS DE RADIO",Rádio AM/FM Uirapuru
-https://video09.logicahost.com.br/rduirapuru/rduirapuru/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d4/f4/20/MEZP837_t.png" group-title="Canais | ESTUDIOS DE RADIO",Estúdio Rádio Metrópoles FM
-https://video09.logicahost.com.br/tvradio/tvradio/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/10/28/a0/MEZP84G_t.png" group-title="Canais | ESTUDIOS DE RADIO",Tropical 87.5 FM
-https://cdn1.str.srv.br/CM7002/CM7002/playlist.m3u8
-
-############################################################################ Cameras | CAMERAS AO VIVO BRASIL
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Ponte Internacional da Amizade
-https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Cascavel - Centro
-https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Guaratuba - Praia Central
-https://video02.logicahost.com.br/portaldacidadegtba/praiacentrali.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Estádio Beira-Rio
-https://inst-pijqm-srs-fullhd.camerite.services/record/68312810-d63a-11e9-97ef-f9e998396b64.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Foz Do Iguaçu - Panorâmica
-https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",BRASIL 1
-http://cameras.interaviation.com.br/camera02/interaviation2.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",BRASIL 2
-https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20003.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",BRASIL 3
-https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",BRASIL 4
-https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20009.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",BRASIL 5
-https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20002.stream/chunklist.m3u8
-
-############################################################################ Cameras | CAMERAS AO VIVO NO MUNDO
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Cologne Bonn Airport - Apron Terminal 1 - Alemanha
-https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/chunklist_w894134611.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Aquapark Tatralandia II - Eslovaquia
-https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w684479581.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",SNIPTV RUSSIA
-http://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CANADA
-http://5ddd47d64e730.streamlock.net:1935/ospreycam/ospreycam.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Czech - Jablunkov
-http://stream.silesnet.net/webcams/jablunkov.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CZECH 1
-https://stream.mycrony.cz/webcam/miniareal.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CZECH 2
-http://31.47.96.14:80/hls/roznov.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CZECH 3
-https://cam.moses.cz/stream/cam10/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CZECH 4
-https://kamery2.wolfnet.cz/andelka2.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CZECH 5
-http://kamery2.wolfnet.cz/ZS_Nejdek.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CZECH 6
-https://kamery2.wolfnet.cz/bozi_vyhlidka1.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CZECH 7
-https://streamer.pb.cz/hls/spartak1/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CZECH 8
-http://31.47.96.14:80/hls/hutisko.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CZECH 9
-https://kamery2.wolfnet.cz/bozi_vyhlidka2.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CZECH 10
-http://31.47.96.14:80/hls/eroplan.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",FINLANDIA
-https://torget.ostnyland.fi/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Germany - Binz
-http://cam01.binz-kabel.de/cam1/960.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Germany - Groemitz
-http://osltv.stream24.net/osltv1/_definst_/mp4:groemitz.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Germany - Groemitz 2
-http://osltv.stream24.net/osltv9/_definst_/mp4:groemitz3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Germany - Heidelberg 1
-https://h055.video-stream-hosting.de/heidelberg-rtplive/_definst_/mp4:camera2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Germany - Heidelberg 2
-https://h055.video-stream-hosting.de/heidelberg-rtplive/_definst_/mp4:camera3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Beech Moutain Resort
-https://stream.resortcams.com/live/smil:beechsummit.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Dead Dog Saloon Stage
-https://5ed7b8fd7bf40.streamlock.net:444/DeadDogSaloonCam/deaddog/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Downtown
-https://59d39900ebfb8.streamlock.net/Channels101/default.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Downtown 2
-https://59d39900ebfb8.streamlock.net/Channels301/default.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Folly Beach
-https://5a5f765a4fcc2.streamlock.net:1936/live/folly.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Kure Beach
-https://5a5f765a4fcc2.streamlock.net:1936/live/kbstreet.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Minnesota
-https://stream.resortcams.com/live/spiritmtn.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Myrtle Beach Cam
-https://5ab0d1d85f91f.streamlock.net/fuel/boardwalk_1.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Myrtle Beach Cam 2
-https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Myrtle Beach Cam 3
-https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-blvd.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Yellowstone National Park - Geyser
-https://cs7.pixelcaster.com/nps/faithful.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Polar Bears Cam - San Diego Zoo
-https://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Tigers Cam - San Diego Zoo
-https://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/Playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Elephants - San Diego Zoo
-https://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/Playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Penguins - San Diego Zoo
-https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/Playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Koala Cam - San Diego Zoo
-https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/Playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Ape Cam - San Diego Zoo
-https://ape.hls.camzonecdn.com/CamzoneStreams/ape/Playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Holiday Inn Resort
-https://5ed7b8fd7bf40.streamlock.net:444/holidayinnpcbbeach/holidayinnpcbbeachcam/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Yosemite National Park - Yosemite Falls
-https://cs9.pixelcaster.com/live/yosfalls.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Kauai - Hanalei Bay Resort
-https://edge01.ny.nginx.hdontap.com/hosb4/ngrp:hanaleibay_ecco.stream_all/chunklist_w1526325395_b5120000.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - St Pete Beach
-https://cs9.pixelcaster.com/live/stpete.stream/playlist.m3u8
-
-############################################################################ Canais | PORTUGAL
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c3/e0/bb/MEWGRKH_t.png" group-title="Canais | PORTUGAL",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
@@ -3311,22 +2500,6 @@ https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/70/c1/4c/MEVKGQF_t.png" group-title="Canais | PORTUGAL",TV MANA BRASIL
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 
-############################################################################ Canais | ANGOLA
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1e/5f/6b/MEW2IVD_t.png" group-title="Canais | ANGOLA",KK TV
-https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w843037073_b413000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c0/b0/2f/MEVOEXI_t.png" group-title="Canais | ANGOLA",Muzangala TV
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1433170978.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/41/b0/MEVNTRS_t.png" group-title="Canais | ANGOLA",DEMAND AFRICA
-https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85622a63246e88cadd968505db88bcf7.webp" group-title="Canais | ANGOLA",Tv Zimbo
-https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
-
-############################################################################ CANAIS ADULTOS
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_sexy-hot_m.png" group-title="Canais | CANAIS ADULTOS",Sexy Hot
 http://dnscine.top:80/961529563/138838412/764.ts
 
@@ -3334,10 +2507,10 @@ http://dnscine.top:80/961529563/138838412/764.ts
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/93/3a/MEVRSD1_t.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV Link 2
-http://newoneblack.site:80/64364184/22749197/232967
+http://dnscine.top:80/961529563/138838412/763.ts
 
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/playboy-tv-logo.png" group-title="Canais | CANAIS ADULTOS",Playboy TV Europe
-http://newoneblack.site:80/64364184/22749197/232968
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/62/de/MEVRSXM_t.png" group-title="Canais | CANAIS ADULTOS",Miami TV Fashion
+https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/1d5a142e-8013-4c9b-b813-28ad0e9375db/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/62/de/MEVRSXM_t.png" group-title="Canais | CANAIS ADULTOS",Miami TV
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
@@ -3345,5 +2518,5 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sm/jenny-for-you.png" group-title="Canais | CANAIS ADULTOS",Jenny For You
 https://59ec5453559f0.streamlock.net/JennyLive/_definst_/JennyLive/chunklist_w1017326126.m3u8
 
-#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/nuart-logo.jpeg" group-title="Canais | CANAIS ADULTOS",Nuart
-http://newoneblack.site:80/64364184/22749197/232960
+#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2024/07/kinoxxx-logo.png" group-title="Canais | CANAIS ADULTOS",OnlyFans Andressa Urach
+http://dnscine.top:80/961529563/138838412/439.ts
