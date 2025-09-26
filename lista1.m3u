@@ -2170,20 +2170,8 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/ed/f3/MEZP4TZ_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",MUSIC TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/15/4e/5c/MEZQRN6_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",MTV Flow Latino
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b219eed88ef00007403c2clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/28/c5/60/MEZQRN7_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Yo! MTV
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01d84fe11e500084aefc1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e0/4a/61/MEZQRL9_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",MTV Rocks
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01e07d2d50d0008100d6a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/89/ac/6a/MEVOEXC_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",MTV Biggest Pop
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aa3200-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93901adb-1cd6-4054-9f35-6f3746b30848&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/84/64/bc/MEZQRQC_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",MTV Spankin' New
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f6/23/37/MEVOEXE_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",MTV PARTY MUSIC
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2509,8 +2497,8 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/93/3a/MEVRSD1_t.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV Link 2
 http://dnscine.top:80/961529563/138838412/763.ts
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/62/de/MEVRSXM_t.png" group-title="Canais | CANAIS ADULTOS",Miami TV Fashion
-https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/1d5a142e-8013-4c9b-b813-28ad0e9375db/0.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5b/c7/ae/MEWKZCU_t.png" group-title="Canais | CANAIS ADULTOS",Sextreme
+http://seliga.fun:80/LIST-MIGIRATION-LDs2IwTZRq/3TNPQ0SzRY/9515519.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/62/de/MEVRSXM_t.png" group-title="Canais | CANAIS ADULTOS",Miami TV
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
