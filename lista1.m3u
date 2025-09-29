@@ -1546,8 +1546,8 @@ https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fe/2d/7b/MEVPRQW_t.png" group-title="Canais | INFANTIL",RETRO CARTOON
 https://stmv6.voxtvhd.com.br/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26309f3e115d9326a50aeb84c794f1fe.webp" group-title="Canais | INFANTIL",Toon Goggles em português
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a9/a0/c1/MEVQI6S_t.png" group-title="Canais | INFANTIL",Cartoon Network
+http://dnscine.top:80/961529563/138838412/16.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d4/c0/9f/MEVPRQY_t.png" group-title="Canais | INFANTIL",NICK JR CLUB
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1850,7 +1850,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078
 http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://oplanetatv.clickgratis.com.br/_upload/content/2014/05/28/record-coloca-todo-mundo-odeia-o-chris-para-enfrentar-futebol-53867db3cb265.webp" group-title="Canais | SÉRIES",TODO MUNDO ODEIA O CHRIS
-http://pkweb.ca:80/96050573/as895423/31131
+http://dnscine.top:80/961529563/138838412/202232.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cancelled-movies/images/7/73/Chapul%C3%ADn_colorado_logo.png/revision/latest?cb=20210406161737" group-title="Canais | SÉRIES",CHAPOLIN
 http://24hrs.homelinux.com/24H-chapolin1/tracks-v1a1/mono.m3u8
