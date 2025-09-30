@@ -1784,7 +1784,7 @@ http://24hrs.homelinux.com/24H-jaspion/playlist.m3u8
 http://dnscine.top:80/961529563/138838412/202317.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1c/c7/05/MEZPYCC_t.png" group-title="Canais | TOKUSATSU",CYBERCOPS
-http://dnscine.top:80/961529563/138838412/202315.ts
+http://24hrs.homelinux.com:80/24H-Cybercops.S01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/aa/26/08/MEWC8FB_t.png" group-title="Canais | TOKUSATSU",JIBAN
 http://dnscine.top:80/961529563/138838412/202316.ts
