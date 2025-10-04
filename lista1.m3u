@@ -260,7 +260,7 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist.m3u8
 https://isaocorp.cloudecast.com/ngt/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9a/de/74/MEVR5I6_t.png" group-title="Canais | FILMES",REDE CLOUDING TV
-https://stmv8.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
+https://stmv.webtvninjas.com.br/abner5597/abner5597/chunklist_w1366718525.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/90f2be25aedc782f9ff779b33302ee8a.webp" group-title="Canais | FILMES",KANADE BRASIL
 https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
@@ -778,8 +778,8 @@ https://stmv2.samcast.com.br/mamnews/mamnews/chunklist_w2055394847.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0d/69/18/MEVT816_t.png" group-title="Canais | VARIEDADES",TV FLORIDA
 https://srv6.zcast.com.br/tvfloridausa/tvfloridausa/playlist.m3u8?hls_ctx=71kf3781
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7e/ea/6d/MEVT80Z_t.png" group-title="Canais | VARIEDADES",TV ALLEGRO
-https://video05.logicahost.com.br/allegrowebtv/allegrowebtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7e/ea/6d/MEVT80Z_t.png" group-title="Canais | VARIEDADES",TV ALLEGRO (Alto do Jequi)
+https://video08.logicahost.com.br/tvaltodojequi/tvaltodojequi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/60/45/82/MEVT815_t.png" group-title="Canais | VARIEDADES",TV SÃO RAIMUNDO
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
@@ -2498,7 +2498,7 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 http://dnscine.top:80/151998523/414726440/763.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5b/c7/ae/MEWKZCU_t.png" group-title="Canais | CANAIS ADULTOS",Sextreme
-http://seliga.fun:80/LIST-MIGIRATION-LDs2IwTZRq/3TNPQ0SzRY/9515519.ts
+http://dnscine.top:80/151998523/414726440/548.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/62/de/MEVRSXM_t.png" group-title="Canais | CANAIS ADULTOS",Miami TV
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
