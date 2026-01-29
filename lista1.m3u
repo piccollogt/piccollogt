@@ -28,6 +28,9 @@ http://dnscine.top:80/151998523/414726440/476.ts
 #EXTINF:-1 tvg-logo="https://braziljournal.com/wp-content/uploads/2022/06/4bcc59ed-ff24-a74e-dfa0-be6dd2ef8cbd.jpg" group-title="Canais | ABERTO", GLOBO RJ
 http://dnscine.top:80/151998523/414726440/468.ts
 
+#EXTINF:-1 tvg-logo="https://braziljournal.com/wp-content/uploads/2022/06/4bcc59ed-ff24-a74e-dfa0-be6dd2ef8cbd.jpg" group-title="Canais | ABERTO", GLOBO MG
+http://tv.mapfibra.com.br:8555/live/1350/123456/282.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/69/89/MEZPZ4H_t.png" group-title="Canais | ABERTO", GLOBO TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
@@ -220,6 +223,9 @@ http://dnscine.top:80/151998523/414726440/16.ts
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ab/ee/fb/MEVPS1P_t.png" group-title="Canais | TV A CABO",Tooncast
 http://dnscine.top:80/151998523/414726440/436.ts
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="Canais | FILMES",Playpoca Filmes
+http://tv.mapfibra.com.br:8555/live/1350/123456/326.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6b5b7475d2d3ed8591864fe64d34e499.webp" group-title="Canais | FILMES",Cine Comédia
 http://dnscine.top:80/961529563/138838412/202275.ts
 
@@ -245,7 +251,7 @@ https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/05/3f/b7/MEVR5IL_t.png" group-title="Canais | FILMES",TV ARACATI
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist.m3u8
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8d/df/d2/MEVR5IO_t.png" group-title="Canais | FILMES",REDE NGT
 https://isaocorp.cloudecast.com/ngt/mono.m3u8
@@ -1105,11 +1111,14 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YS4kCjRZ/POMPEIA-LOGO.png" group-title="Canais | INFANTIL",Pompéia TV
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f58965018411c0ef81df7c6b596ad54.webp" group-title="Canais | INFANTIL",KIDS
+http://tv.mapfibra.com.br:8555/live/1350/123456/299.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/98/24/25/MEVPRQJ_t.png" group-title="Canais | INFANTIL",KURIAKOS KIDS
 https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1570960268_b1548000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/64/ef/55/MEVPRQC_t.png" group-title="Canais | INFANTIL",JETSONS TV
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="Canais | INFANTIL",Box Kids TV
+http://tv.mapfibra.com.br:8555/live/1350/123456/346.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/472dd450bc628e36434b6c599e6cb664.webp" group-title="Canais | INFANTIL",Toon Goggles em português
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
@@ -1168,29 +1177,41 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b0
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/56/d4/11/MEVQG01_t.png" group-title="Canais | INFANTIL",Oggy e as Baratas Tontas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",As Meninas Super Poderosas
+http://dnscine.top:80/131162716/115444195/202281.ts
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Avatar A Lenda de Aang
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6759eeb1bd523200083b4f29/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Ben 10 Omniverse
-https://batx7.lat:443/689077610/846738191/8203794.ts
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Ben 10
+http://dnscine.top:80/131162716/115444195/202293.ts
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Bravestar
-https://batx7.lat:443/689077610/846738191/8203818.ts
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Caverna do Dragão
+http://dnscine.top:80/131162716/115444195/202308.ts
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Cadillacs e Dinossauros
-https://batx7.lat:443/689077610/846738191/8203826.ts
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Carangos e Motocas
-https://batx7.lat:443/689077610/846738191/8203833.ts
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Capitão Caverna
-https://batx7.lat:443/689077610/846738191/8203831.ts
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Hey Arnorld
+http://dnscine.top:80/131162716/115444195/202284.ts
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Inspetor Bugiganga
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876020/hls/master.m3u8?ads.xumo_channelId=88876020
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Múmias Vivas
-https://batx7.lat:443/689077610/846738191/8204175.ts
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Kim Possible
+http://dnscine.top:80/131162716/115444195/202280.ts
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",KND A Turma do Bairro
+http://dnscine.top:80/131162716/115444195/202278.ts
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Mutante Rex
+http://dnscine.top:80/131162716/115444195/202294.ts
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",O Show do Zé Colmeia
+http://dnscine.top:80/131162716/115444195/202285.ts
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Operação Big Hero
+http://dnscine.top:80/131162716/115444195/202283.ts
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Os Flintstones
+http://dnscine.top:80/131162716/115444195/202306.ts
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Popeye
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1198,20 +1219,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/677d93f37
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Sonic
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Speed Racer
-https://batx7.lat:443/689077610/846738191/8204429.ts
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Super Mario Bros
-https://batx7.lat:443/689077610/846738191/8204434.ts
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Wally Gator
-https://batx7.lat:443/689077610/846738191/8204493.ts
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",X-Men
-https://batx7.lat:443/689077610/846738191/8204496.ts
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Zé Buscapé
-https://batx7.lat:443/689077610/846738191/8204508.ts
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | INFANTIL 24 HORAS",Timão e Pumba
+http://dnscine.top:80/131162716/115444195/202288.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9f/b6/39/MEVL3YJ_t.png" group-title="Canais | CANAIS DE ANIME",Anime Tv
 https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
@@ -1232,19 +1241,19 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 http://200.194.238.229:8383/live/otaku/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI Drama
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI Comedy
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI Scifi
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11776
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=11776
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI Action
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI Sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7b/84/f3/MEZQQZ0_t.png" group-title="Canais | ANIMES 24 HORAS",Jojo's Bizarre adventure
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66c7982f6838ee00085f0d24/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1273,29 +1282,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a94
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/df/58/bd/MEVW39Q_t.png" group-title="Canais | ANIMES 24 HORAS",YU-GI-OH!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5db3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Z Saga Sayajins
-https://batx7.lat:443/689077610/846738191/8203946.ts
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Z Saga Freeza
-https://batx7.lat:443/689077610/846738191/8203947.ts
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Dragon Ball GT
-http://batx7.lat:80/689077610/846738191/8203937.ts
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Super Saga Trunks do Futuro
-https://batx7.lat:443/689077610/846738191/8203941.ts
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Super Saga Sobrevivencia do Universo
-https://batx7.lat:443/689077610/846738191/8203940.ts
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Inuyasha
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68ed0b996453bd1522dfe9b4/bunnycontent_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Os Cavaleiros do Zodiaco Saga Torneio Galatico
-https://batx7.lat:443/689077610/846738191/8203844.ts
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Os Cavaleiros do Zodiaco Saga Asgard
-https://batx7.lat:443/689077610/846738191/8203842.ts
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Pókemon
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/687007a8ee4155e89a8f6d67/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1303,11 +1291,32 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/687007a8e
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Super Onze
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Z Saga Sayajins
+https://batx7.lat:443/689077610/846738191/8203946.ts
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Z Saga Freeza
+http://dnscine.top:80/131162716/115444195/202231.ts
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Z Saga Andróides
+http://dnscine.top:80/131162716/115444195/202234.ts
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Dragon Ball GT
+http://dnscine.top:80/131162716/115444195/202245.ts
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Dragon Ball Super
+http://dnscine.top:80/131162716/115444195/202229.ts
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Os Cavaleiros do Zodiaco Saga Doze Casas
+http://dnscine.top:80/131162716/115444195/202248.ts
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Os Cavaleiros do Zodiaco Saga Asgard
+https://batx7.lat:443/689077610/846738191/8203842.ts
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Yu Yu Hakusho
 https://batx7.lat:443/689077610/846738191/8204498.ts
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/7f/a5/MEVN67J_t.png" group-title="Canais | TOKUSATSU",Tokusato
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bc/e8/aa/MEZPY83_t.png" group-title="Canais | TOKUSATSU",SATO +
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
@@ -1318,14 +1327,26 @@ http://dnscine.top:80/151998523/414726440/202317.ts
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | TOKUSATSU",JIBAN
 http://dnscine.top:80/151998523/414726440/202316.ts
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | TOKUSATSU",JIRAYA
+http://pr1m3.fun:80/83991331393/5583991331393/13810692.ts
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | TOKUSATSU",LION MAN
 http://dnscine.top:80/151998523/414726440/202314.ts
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | TOKUSATSU",CYBERCOPS
+http://dnscine.top:80/131162716/115444195/202315.ts
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | TOKUSATSU",MIGHTY MORPHIN POWER RANGERS
 https://batx7.lat:443/689077610/846738191/8204334.ts
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | TOKUSATSU",WINSPECTOR
 http://batx7.lat:80/689077610/846738191/8204495.ts
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ba01cfb31f2f6c1454c516059c60cb64.webp" group-title="Canais | SÉRIES",Playpoca Séries
+http://tv.mapfibra.com.br:8555/live/1350/123456/327.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="Canais | SÉRIES",SÉRIES CLASSICAS
+http://tv.mapfibra.com.br:8555/live/1350/123456/307.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ce/ff/07/MEVLPX9_t.png" group-title="Canais | SÉRIES",SÉRIES CLASSIC
 https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w1996828726.m3u8
@@ -1365,6 +1386,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/34/03/53/MEVLPXB_t.png" group-title="Canais | SÉRIES",RETRO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | SÉRIES",CHESPIRITO
+http://tv.mapfibra.com.br:8555/live/1350/123456/306.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | SÉRIES",CHAVES
 http://dnscine.top:80/961529563/138838412/202304.ts
