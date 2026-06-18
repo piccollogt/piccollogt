@@ -814,11 +814,11 @@ http://tv.mapfibra.com.br:8555/live/1350/123456/346.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/63/d9/20/MEVPRQG_t.png" group-title="Canais | INFANTIL",F. Kids Network
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="Canais | INFANTIL",Jetsons
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f58965018411c0ef81df7c6b596ad54.webp" group-title="Canais | INFANTIL",KIDS
 http://tv.mapfibra.com.br:8555/live/1350/123456/299.m3u8
+
+#EXTINF:-1 tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_357_1775532518.png" group-title="Canais | INFANTIL",NBX TV Kids
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8?hls_ctx=863n0249
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YS4kCjRZ/POMPEIA-LOGO.png" group-title="Canais | INFANTIL",Pompéia TV
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
