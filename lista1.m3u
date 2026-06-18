@@ -814,8 +814,8 @@ http://tv.mapfibra.com.br:8555/live/1350/123456/346.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/63/d9/20/MEVPRQG_t.png" group-title="Canais | INFANTIL",F. Kids Network
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/1/1f/Jetix.svg/revision/latest/scale-to-width-down/250?cb=20251115210441" group-title="Canais | INFANTIL",Jetix
-https://s1.tvr.ovh/jetix/jetix/chunklist_w1683612944.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="Canais | INFANTIL",Jetsons
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f58965018411c0ef81df7c6b596ad54.webp" group-title="Canais | INFANTIL",KIDS
 http://tv.mapfibra.com.br:8555/live/1350/123456/299.m3u8
@@ -1092,51 +1092,3 @@ https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tr
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/63/c1/9a/MEVOIGT_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Dance Television
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c3/e0/bb/MEWGRKH_t.png" group-title="Canais | PORTUGAL",CNN Portugal
-https://video-auth6.iol.pt/edge_servers/cnn-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDI2IDk6ODo1NyBBTSZoYXNoX3ZhbHVlPVBJVHpOSndiMnJ1M0RTa3BWbTJUS0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xMTNmODI0MC1lYjZmLTQ5ZWQtYTkzNi0xMzBkZDRhNmE3NjA=
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d2/37/cf/MEW395G_t.png" group-title="Canais | PORTUGAL",SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/be/ec/f7/MEWGRFJ_t.png" group-title="Canais | PORTUGAL",SIC Replay
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c8/b9/af/MEWGRJS_t.png" group-title="Canais | PORTUGAL",SIC Alta Definição
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/467691868df05a4035d5b6e8d361e79f.webp" group-title="Canais | PORTUGAL",TVI
-https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDI2IDEyOjU0OjMzIEFNJmhhc2hfdmFsdWU9SEVLT1pVTno2c2ZKMHBrQXlMSHhHZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWIyNmRlNDc1LTg1NzctNDAzYy1iODRlLTRlMDdhODhjNWU5YQ==
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/22/9c/cf/MEZQTX6_t.png" group-title="Canais | PORTUGAL",TVI Internacional 
-https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDI2IDEyOjU0OjMzIEFNJmhhc2hfdmFsdWU9SEVLT1pVTno2c2ZKMHBrQXlMSHhHZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWIyNmRlNDc1LTg1NzctNDAzYy1iODRlLTRlMDdhODhjNWU5YQ==
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ab/e0/e8/MEW395E_t.png" group-title="Canais | PORTUGAL",TVI Realitys
-https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDI2IDEyOjU0OjMzIEFNJmhhc2hfdmFsdWU9SEVLT1pVTno2c2ZKMHBrQXlMSHhHZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWIyNmRlNDc1LTg1NzctNDAzYy1iODRlLTRlMDdhODhjNWU5YQ==
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ba/fe/90/MEW395D_t.png" group-title="Canais | PORTUGAL",TVI Ficcao
-https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDI2IDEyOjU0OjMzIEFNJmhhc2hfdmFsdWU9SEVLT1pVTno2c2ZKMHBrQXlMSHhHZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWIyNmRlNDc1LTg1NzctNDAzYy1iODRlLTRlMDdhODhjNWU5YQ==
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/35afb908a11d6981e89adaf68857e9df.webp" group-title="Canais | PORTUGAL",V+ TVI
-https://video-auth2.iol.pt/edge_servers/vmais-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDI2IDEyOjU0OjMzIEFNJmhhc2hfdmFsdWU9SEVLT1pVTno2c2ZKMHBrQXlMSHhHZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWIyNmRlNDc1LTg1NzctNDAzYy1iODRlLTRlMDdhODhjNWU5YQ==
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7a/12/ef/MEVKGQB_t.png" group-title="Canais | PORTUGAL",Kuriakos Cine
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a6/ba/65/MEW398K_t.png" group-title="Canais | PORTUGAL",Kuriakos Music
-http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/39/e7/fb/MEW395K_t.png" group-title="Canais | PORTUGAL",Kuriakos TV
-https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/98/24/25/MEVPRQJ_t.png" group-title="Canais | PORTUGAL",Kuriakos Kids
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c3/91/0a/MEWGRL3_t.png" group-title="Canais | PORTUGAL",Porto Canal
-https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/66/b2/c3/MEWGQYX_t.png" group-title="Canais | PORTUGAL",ARTV
-https://playout175.livextend.cloud/livenlin4/2liveartvpub2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f56f3131705a25c9cf2d36f50b56b703.webp" group-title="Canais | PORTUGAL",Assim é Portugal
-https://video04.logicahost.com.br/assimeportugal/assimeportugal/chunklist_w143215046.m3u8
