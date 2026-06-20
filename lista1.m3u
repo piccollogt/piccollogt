@@ -478,8 +478,8 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/65/dc/c4/MEVT81I_t.png" group-title="Canais | VARIEDADES",YPÊ TV
 https://video01.logicahost.com.br/ypetv/ypetv/chunklist_w1362589642.m3u8
 
-#EXTINF:-1 tvg-logo="https://ontvbrasil.com.br/wp-content/uploads/2025/07/Logo-e1763495379392.png" group-title="Canais | VARIEDADES",ON TV
-https://ikki.hubcloud.tv.br/OnTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8936ceb865591bcc9ace180f253fc697.webp" group-title="Canais | VARIEDADES",Viva Web
+https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jPhC_Hmk-c4Y0e5Ykxa366pojCKiyGCspJ-QKJRYttFze0avkcKjub5mlyvo9t3d0xldJib0CFY=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | VARIEDADES",TV 3 Fronteiras
 https://isaocorp.cloudecast.com/tv3fronteiras/index.fmp4.m3u8
