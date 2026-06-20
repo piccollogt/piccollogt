@@ -94,8 +94,8 @@ https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c7/2e/53/MEWFFD8_t.png" group-title="Canais | ABERTO",TVE Bahia
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a7/44/65/MEZMRS4_t.png" group-title="Canais | ABERTO",TV Á Crítica BDC TV
-https://video01.brascast.com/bdctv/bdctv/playlist.m3u8?hls_ctx=68783877
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/069153afeabc056a84104f0902ae19e1.webp" group-title="Canais | ABERTO",TV Á Crítica
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce8f621678e717cabf4a5e8ee0f6ed70.webp" group-title="Canais | ABERTO",TV Á Crítica RTN SP
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
@@ -151,8 +151,8 @@ https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/53/dd/4b/MEZPZ04_t.png" group-title="Canais | FILMES",LIKE TV BR
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7f/fb/61/MEVR5IJ_t.png" group-title="Canais | FILMES",Multi Canais
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2023/07/TV-1-JPG-3.jpg" group-title="Canais | FILMES",TV Mon HD
+https://video10.logicahost.com.br/tvmon/tvmon/chunklist_w479944231.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fb/9c/70/MEZPVZV_t.png" group-title="Canais | FILMES",VGS TV
 https://isaocorp.cloudecast.com/vgstv/tracks-v1a1/mono.m3u8
@@ -292,7 +292,7 @@ https://stmv7.samcast.com.br/genival6279/genival6279/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/96/31/75/MEVSJ8R_t.png" group-title="Canais | VARIEDADES",Lucas TV
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8?hls_ctx=07vu3598
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/97/a8/fb/MEZOZ91_t.png" group-title="Canais | VARIEDADES",TV MARRECAS
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/97/a8/fb/MEZOZ91_t.png" group-title="Canais | VARIEDADES",TV MARRECAS (RBTV)
 https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7f/91/36/MEZOZCG_t.png" group-title="Canais | VARIEDADES",7TVS
@@ -478,8 +478,8 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/65/dc/c4/MEVT81I_t.png" group-title="Canais | VARIEDADES",YPÊ TV
 https://video01.logicahost.com.br/ypetv/ypetv/chunklist_w1362589642.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/51/74/ad/MEVT81J_t.png" group-title="Canais | VARIEDADES",RSC TV
-https://streaming.cloudecast.com/hls/rederecon/index.m3u8
+#EXTINF:-1 tvg-logo="https://ontvbrasil.com.br/wp-content/uploads/2025/07/Logo-e1763495379392.png" group-title="Canais | VARIEDADES",ON TV
+https://ikki.hubcloud.tv.br/OnTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jPhC_Hmk-c4Y0e5Ykxa366pojCKiyGCspJ-QKJRYttFze0avkcKjub5mlyvo9t3d0xldJib0CFY=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | VARIEDADES",TV 3 Fronteiras
 https://isaocorp.cloudecast.com/tv3fronteiras/index.fmp4.m3u8
@@ -904,8 +904,8 @@ https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w199682872
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/series/60103fdccaf1bb001a7fd845/tile_1769723282366.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660" group-title="Canais | SÉRIES",ANDROMEDA
 https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/399116e07650d9f98ba49a2f334249af.webp" group-title="Canais | SÉRIES",Baywatch
-https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/uik84HCs_nev2DNBhDk1LS70cceVUcsU.png" group-title="Canais | SÉRIES",Miami Vice e Convidados
+https://video05.logicahost.com.br/miamivice/miamivice/chunklist_w1974129954.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Boys_over_flowers_promotional_poster.jpg" group-title="Canais | SÉRIES",BOYS OVER FLOWERS
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=boysoverflowers_rakutenviki&channel_id=newid_208&mpf=c3e0219a-39af1962-2dc18169&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db17e212-c445a597-be4ef065-b3353f3b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
