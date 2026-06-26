@@ -913,7 +913,7 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=boysover
 #EXTINF:-1 tvg-logo="https://www.forumch.com.br/uploads/monthly_2025_12/Chompiras_29.thumb.webp.c15d1b8a1358fffbcfafe311c80c0317.webp" group-title="Canais | SÉRIES",CHESPIRITO
 http://tv.mapfibra.com.br:8555/live/1350/123456/306.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/Cinderella_and_Four_Knights_-_Promotional_poster.jpg" group-title="Canais | SÉRIES",CINDERELLA AND FOUR KNIGHTS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/d9/fa/74d9faf25352f62f21e2fd7d688ccd0f.png" group-title="Canais | SÉRIES",CINDERELLA AND FOUR KNIGHTS
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cinderellaandfourknights_rakutenviki&channel_id=newid_207&mpf=535f3c0b-39af1962-b854bf6e&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=801199a9-440bd73f-a663d95d-337b4d93&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Canais | SÉRIES",The Walking Dead by AMC
