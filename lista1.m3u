@@ -113,13 +113,13 @@ https://isaocorp.cloudecast.com/redemeio/tracks-v1a1/mono.m3u8
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/723a081912cd82d9d130eb2b9515de68.webp" group-title="Canais | ABERTO",MBC BRASIL.TV
-https://tv02.zas.media:1936/centraltvweb/centraltvweb/chunklist_w1239275084.m3u8
+https://play.mbcbrasil.tv.br/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/36/24/36/MEVILZV_t.png" group-title="Canais | ABERTO",VIVAX TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/be/55/d7/MEVIM0A_t.png" group-title="Canais | ABERTO",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+https://video10.logicahost.com.br/redeistv/redeistv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/97/33/e9/MEVIMFL_t.png" group-title="Canais | ABERTO",TV Masper
 https://tv02.zas.media:1936/masper/masper/playlist.m3u8
