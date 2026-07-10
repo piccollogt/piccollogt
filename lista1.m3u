@@ -349,7 +349,7 @@ https://video05.logicahost.com.br/tvoitava/tvoitava/chunklist_w671010535.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c1/7b/4b/MEVSP3S_t.png" group-title="Canais | VARIEDADES",TV Liberdade Pacajus
 https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c29d2e57bae0e3c9f5a2e805a38afda0.webp" group-title="Canais | VARIEDADES",TV Litoral RN
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/da94daf7b294cebba2d7a9dfafa41a09.webp" group-title="Canais | VARIEDADES",TV Litoral RN
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/21/b9/6c/MEVSP3L_t.png" group-title="Canais | VARIEDADES",Nova Barreiros Web TV
@@ -1007,22 +1007,22 @@ http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/06/cb/d5/MEZREKN_t.png" group-title="Canais | HALLO!",Hallo! Anime
-https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8
+https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ce/13/0d/MEZREKH_t.png" group-title="Canais | HALLO!",Hallo! Classic
-https://cdn-5.nxplay.com.br/HALLOCLASSIC/index.m3u8
+https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/b7/f6/MEZREKL_t.png" group-title="Canais | HALLO!",Hallo! Movies
-https://cdn-5.nxplay.com.br/HALLOMOVIES/index.m3u8
+https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/6f/2a/MEZREKK_t.png" group-title="Canais | HALLO!",Hallo! Series
-https://cdn-5.nxplay.com.br/HALLOSERIES/index.m3u8
+https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cc/31/19/MEZREKJ_t.png" group-title="Canais | HALLO!",Hallo! Music
-https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8
+https://cdn-5.nxplay.com.br/HALLOMUSIC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e0/e9/ef/MEZREKI_t.png" group-title="Canais | HALLO!",Hallo! Doc
-https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8
+https://cdn-5.nxplay.com.br/HALLODOC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/46/8e/da/MEVOEXH_t.png" group-title="Canais | VIDEOCLIPES MUSICAL",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
