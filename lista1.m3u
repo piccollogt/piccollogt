@@ -119,7 +119,7 @@ https://play.mbcbrasil.tv.br/playlist.m3u8
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/be/55/d7/MEVIM0A_t.png" group-title="Canais | ABERTO",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/index.m3u8
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/97/33/e9/MEVIMFL_t.png" group-title="Canais | ABERTO",TV Masper
 https://tv02.zas.media:1936/masper/masper/playlist.m3u8
