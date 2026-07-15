@@ -1,20 +1,20 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"  size="Medium"
 
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT MG ALTEROSA
-http://tv.mapfibra.com.br:8555/live/1350/123456/291.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT
+http://45.190.28.50/SBT_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT BA ARATU
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://braziljournal.com/wp-content/uploads/2022/06/4bcc59ed-ff24-a74e-dfa0-be6dd2ef8cbd.jpg" group-title="Canais | ABERTO", GLOBO MG
-http://tv.mapfibra.com.br:8555/live/1350/123456/282.m3u8
+#EXTINF:-1 tvg-logo="https://braziljournal.com/wp-content/uploads/2022/06/4bcc59ed-ff24-a74e-dfa0-be6dd2ef8cbd.jpg" group-title="Canais | ABERTO", GLOBO
+http://45.190.28.50/GLOBO_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/69/89/MEZPZ4H_t.png" group-title="Canais | ABERTO", GLOBO BA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/321e070b769a5d5b5f5e5183212d26fb.webp" group-title="Canais | ABERTO",RECORD MG
-http://tv.mapfibra.com.br:8555/live/1350/123456/285.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/321e070b769a5d5b5f5e5183212d26fb.webp" group-title="Canais | ABERTO",RECORD
+http://45.190.28.50/RECORD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD MT TVR
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -25,8 +25,8 @@ http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e9/23/93/MEVIHT0_t.png" group-title="Canais | ABERTO",RECORD RN Tropical
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/27/b7/MEVII9Z_t.png" group-title="Canais | ABERTO",BAND MG
-http://tv.mapfibra.com.br:8555/live/1350/123456/276.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/27/b7/MEVII9Z_t.png" group-title="Canais | ABERTO",BAND
+http://45.190.28.50/BAND_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a5/39/b5/MEVIIA2_t.png" group-title="Canais | ABERTO",BAND PA RBATV
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
@@ -35,7 +35,7 @@ https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/1a/39/MEVIIZR_t.png" group-title="Canais | ABERTO",REDE TV!
-http://tv.mapfibra.com.br:8555/live/1350/123456/289.m3u8
+http://45.190.28.50/REDE_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e77ec3ec8016c9fd59aead82a6eca6db.webp" group-title="Canais | ABERTO",REDE TV! PARANÁ
 https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist.m3u8
@@ -74,7 +74,7 @@ https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8
 https://tv02.zas.media:1936/rbatv/rbatv/chunklist_w678209403.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fe/ef/e6/MEVILE8_t.png" group-title="Canais | ABERTO",TV GAZETA
-http://tv.mapfibra.com.br:8555/live/1350/123456/281.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(cXj0iMaDzhQZC5ltrSP9izfw9W3xdk3jGmc-dADD7NRc2p0EIdBng-GbbqOPrLasGfTqiMujuA7va9ez8ufZrjE9olafDiqfVwO3re2XxiAjKzc15n3gO1JeScSyvDgX)/dm/3/x8ttlxm/s/live-720.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b06045459e9dd13f6615af8f1c755002.webp" group-title="Canais | ABERTO",TV Alternativa MA
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
@@ -142,8 +142,8 @@ https://video01.logicahost.com.br/ypetv/ypetv/chunklist_w120546675.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c7/92/a5/MEY87RK_t.png" group-title="Canais | ABERTO",UMATV
 https://umatv.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/oNdNIDoyiC2-DAFW5gWo8qnX5k3zLGtKUW0Yn-E-VLKSBb-LLdFvDCKDzI0nNFPXyMtK=s150-rw" group-title="Canais | FILMES",Playpoca Filmes
-http://tv.mapfibra.com.br:8555/live/1350/123456/326.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2112f7942be7a7bf3f4b41e082cee2b8.webp" group-title="Canais | FILMES",Moviesphere Brazil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bd/99/3e/MEVR5I9_t.png" group-title="Canais | FILMES",TV CNB ORLANDO
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
@@ -808,17 +808,17 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp" group-title="Canais | NOVELAS",NOVELISSIMA
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="Canais | INFANTIL",Box Kids TV
-http://tv.mapfibra.com.br:8555/live/1350/123456/346.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/63/d9/20/MEVPRQG_t.png" group-title="Canais | INFANTIL",F. Kids Network
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f58965018411c0ef81df7c6b596ad54.webp" group-title="Canais | INFANTIL",KIDS
-http://tv.mapfibra.com.br:8555/live/1350/123456/299.m3u8
-
 #EXTINF:-1 tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_357_1775532518.png" group-title="Canais | INFANTIL",NBX TV Kids
 https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8?hls_ctx=863n0249
+
+#EXTINF:-1 tvg-logo="https://x1colegal.com/logo.png" group-title="Canais | INFANTIL",NickOnline
+https://x1colegal.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ab2e0d56d7ff7d1883b2b54af64e9ec9.webp" group-title="Canais | INFANTIL",NickToons Brasil
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YS4kCjRZ/POMPEIA-LOGO.png" group-title="Canais | INFANTIL",Pompéia TV
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
@@ -892,14 +892,17 @@ https://jmp2.uk/plu-63988c2750108d00072e2686.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d14f93731e74194bccfccf86df7e019f.webp" group-title="Canais | SÉRIES",FilmRise Séries Gratuitas
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889320
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/oNdNIDoyiC2-DAFW5gWo8qnX5k3zLGtKUW0Yn-E-VLKSBb-LLdFvDCKDzI0nNFPXyMtK=s150-rw" group-title="Canais | SÉRIES",Playpoca Séries
-http://tv.mapfibra.com.br:8555/live/1350/123456/327.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="Canais | SÉRIES",SÉRIES CLASSICAS
-http://tv.mapfibra.com.br:8555/live/1350/123456/307.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ce/ff/07/MEVLPX9_t.png" group-title="Canais | SÉRIES",SÉRIES CLASSIC
 https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w1996828726.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Canais | SÉRIES",TV Series As Panteras
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Canais | SÉRIES",TV Series Comedy Club
+https://video11.logicahost.com.br/comedyclub/comedyclub/chunklist_w1330255573.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Canais | SÉRIES",TV Series Os Detetives
+https://video11.logicahost.com.br/detetives/detetives/chunklist_w816963838.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/series/60103fdccaf1bb001a7fd845/tile_1769723282366.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660" group-title="Canais | SÉRIES",ANDROMEDA
 https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
@@ -907,11 +910,8 @@ https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/uik84HCs_nev2DNBhDk1LS70cceVUcsU.png" group-title="Canais | SÉRIES",Miami Vice e Convidados
 https://video05.logicahost.com.br/miamivice/miamivice/chunklist_w1974129954.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Boys_over_flowers_promotional_poster.jpg" group-title="Canais | SÉRIES",BOYS OVER FLOWERS
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000143058900-27os2c-t500x500.jpg" group-title="Canais | SÉRIES",BOYS OVER FLOWERS
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=boysoverflowers_rakutenviki&channel_id=newid_208&mpf=c3e0219a-39af1962-2dc18169&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db17e212-c445a597-be4ef065-b3353f3b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://www.forumch.com.br/uploads/monthly_2025_12/Chompiras_29.thumb.webp.c15d1b8a1358fffbcfafe311c80c0317.webp" group-title="Canais | SÉRIES",CHESPIRITO
-http://tv.mapfibra.com.br:8555/live/1350/123456/306.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/d9/fa/74d9faf25352f62f21e2fd7d688ccd0f.png" group-title="Canais | SÉRIES",CINDERELLA AND FOUR KNIGHTS
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cinderellaandfourknights_rakutenviki&channel_id=newid_207&mpf=535f3c0b-39af1962-b854bf6e&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=801199a9-440bd73f-a663d95d-337b4d93&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
