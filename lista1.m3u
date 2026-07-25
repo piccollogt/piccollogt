@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"  size="Medium"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml, https://awtv.nuvemplay.live/epg/guia.xml"  size="Medium"
 
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT
