@@ -23,7 +23,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/321e070b769a5d5b5f5e5183212d26fb.webp" group-title="Canais | ABERTO",RECORD RN Tropical
-https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4990ecc3ee62d0cbacb65ee14074dba4.webp" group-title="Canais | ABERTO",BAND
 http://45.190.28.50/BAND_HD/index.m3u8
@@ -55,8 +55,8 @@ https://streaming.cloudecast.com/hls/redetves/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" group-title="Canais | ABERTO",REDE BRASIL
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" group-title="Canais | ABERTO",RBTV TV MARAJOARA
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" group-title="Canais | ABERTO",RBTV TV
+https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95991931dd00f864599436d08a764d7d.webp" group-title="Canais | ABERTO",Rede Mundo TV
 https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
@@ -74,7 +74,7 @@ https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8
 https://tv02.zas.media:1936/rbatv/rbatv/chunklist_w678209403.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e203baa61a997851f879286d0e262b59.webp" group-title="Canais | ABERTO",TV GAZETA
-https://live.eu-north-1a.cf.dmcdn.net/sec2(cXj0iMaDzhQZC5ltrSP9izfw9W3xdk3jGmc-dADD7NRc2p0EIdBng-GbbqOPrLasGfTqiMujuA7va9ez8ufZrjE9olafDiqfVwO3re2XxiAjKzc15n3gO1JeScSyvDgX)/dm/3/x8ttlxm/s/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(N7tSyhc1j-A4agJlrd9Xvuro4yTTSWvqj5efz9BCx2N2DPqFLQZdlMGXiOvSazp-02aTHKI3g29FOk-2f8ySUJKHLrEMeuYWJVF_xWSm_EcdbAmDMjFMVHnKNyoixsLQ)/dm/3/x9xwtpy/s/live-720.m3u8?startdate=2026-05-22T12%3A05%3A12%2B0000
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b06045459e9dd13f6615af8f1c755002.webp" group-title="Canais | ABERTO",TV Alternativa MA
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
@@ -119,7 +119,7 @@ https://play.mbcbrasil.tv.br/playlist.m3u8
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/956249947191e0e94a5a4768b952d303.webp" group-title="Canais | ABERTO",ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/chunklist_w1886704982.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7b59f96b727d43a604c251ee93df7d6.webp" group-title="Canais | ABERTO",TV Masper
 https://tv02.zas.media:1936/masper/masper/playlist.m3u8
@@ -128,7 +128,7 @@ https://tv02.zas.media:1936/masper/masper/playlist.m3u8
 https://isaocorp.cloudecast.com/playtv/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/da8fecf959f730dd05d649b46fa80298.webp" group-title="Canais | ABERTO",TV NOVA NORDESTE
-https://acesso.ecast.site:3675/live/novatvlive.m3u8
+https://stream.ecast.com.br/nova-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5aaaf81af069b1b3a7639fc85b0023be.webp" group-title="Canais | ABERTO",TV CIDADE VERDE BR
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
