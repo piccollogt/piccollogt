@@ -94,8 +94,8 @@ https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6afae9338ec57a798fb55d98b77ff0c3.webp" group-title="Canais | ABERTO",TVE Bahia
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/686af5ac940d65d1047605c09e3d48c2.webp" group-title="Canais | ABERTO",BDC TV (TV Á Crítica)
-https://video01.brascast.com/bdctv/bdctv/playlist.m3u8?hls_ctx=312jk575
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/069153afeabc056a84104f0902ae19e1.webp" group-title="Canais | ABERTO",TV Á Crítica
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce8f621678e717cabf4a5e8ee0f6ed70.webp" group-title="Canais | ABERTO",RTN TV (TV Á Crítica)
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
