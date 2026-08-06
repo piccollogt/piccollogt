@@ -50,7 +50,7 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Canais | ABERTO",REDE TV! ES
-https://streaming.cloudecast.com/hls/redetves/index.m3u8
+https://stream.esemrede.com.br/live/redetves.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" group-title="Canais | ABERTO",REDE BRASIL
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
