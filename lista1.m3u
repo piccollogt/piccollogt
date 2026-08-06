@@ -73,14 +73,14 @@ https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b87587ffa5b74f489ceef82353ebddf0.webp" group-title="Canais | ABERTO",TV RBA
 https://tv02.zas.media:1936/rbatv/rbatv/chunklist_w678209403.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e203baa61a997851f879286d0e262b59.webp" group-title="Canais | ABERTO",TV GAZETA
-https://live.eu-north-1a.cf.dmcdn.net/sec2(w2gUcyCIjHalL0oKIF_26vp00oNvrvJOxBZJVEt8YwrycC1eVhpjJSJkHIC9DTf-H4hjc_ccH7z9wHamzaftB27_twXlQ3bGDbRZzBkrG5sWpsGcypTwZ43PtKLD5o5o)/dm/3/x8ttlxm/s/live-720.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c96ceac2738299a42e825c821e6ef272.webp" group-title="Canais | ABERTO",TV GAZETA TVC Araçatuba
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2VZsjq.png" group-title="Canais | ABERTO",REDE GAZETA
+https://painel.redegazetabrasil.com.br/hls/canal1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b06045459e9dd13f6615af8f1c755002.webp" group-title="Canais | ABERTO",TV Alternativa MA
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c96ceac2738299a42e825c821e6ef272.webp" group-title="Canais | ABERTO",TV GAZETA TVC Araçatuba
-https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="Canais | ABERTO",TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
