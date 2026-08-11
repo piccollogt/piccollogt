@@ -113,7 +113,7 @@ https://isaocorp.cloudecast.com/redemeio/tracks-v1a1/mono.m3u8
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/723a081912cd82d9d130eb2b9515de68.webp" group-title="Canais | ABERTO",MBC BRASIL.TV
-https://play.mbcbrasil.tv.br/playlist.m3u8
+https://cdn.mbcbrasil.tv.br/mbc_web/main_stream.m3u8?session=badda422-ed94-4ec6-a3a3-dab2fbf924ca
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/db5202e859e571d99d9e896f7fd3ad45.webp" group-title="Canais | ABERTO",VIVAX TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
