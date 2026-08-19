@@ -827,7 +827,7 @@ https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/875c68d876502060f56b9303cf91a09e.webp" group-title="Canais | INFANTIL",TV Kidmais
-https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/chunklist_w811268653.m3u8
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=6qu207e8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26abdb540125e646038f21b36e12639f.webp" group-title="Canais | INFANTIL",WORDING TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
