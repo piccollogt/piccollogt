@@ -848,7 +848,7 @@ https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_ch
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40yw7BN.jpeg" group-title="Canais | ANIME E TOKUSATUS",SATO +
-https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=17016&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1&preroll_duration=30&preroll=1
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87464e2fb467b19b710aadb2da52725d.webp" group-title="Canais | ANIME E TOKUSATUS",Web Tv Xtreme
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
